@@ -1,0 +1,10 @@
+EXTM3U
+#EXTINF:-1 atfal2
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8
+#EXTINF:-1 mbc3
+https://e1.taghtia.com/https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 oman tv https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/playlist.m3u8?stime=20240421225640&etime=20240429052320&token=00b205ad7341f53ed532a
+#EXTINF:-1 dubai one
+  https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 kab tv
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_240p/chunks.m3u8                                                                                                                   
