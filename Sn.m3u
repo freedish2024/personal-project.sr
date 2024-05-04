@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png?v=1" group-title="KIDS", My Kidz
+http://210.210.155.35/session/21c6b7ca-a4ad-11ec-8c65-b82a72d63267/uq2663/h/h191/index.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png" group-title="KIDS", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+ 
+
+ 
+
+#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/286103abn-kids.png" group-title="KIDS", 3ABN Kids
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/22598ebs%20kids.png" group-title="KIDS", EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/24090Mondo%20TV%20Kids%20Diretta.jpg" group-title="KIDS", Mondo TV Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
