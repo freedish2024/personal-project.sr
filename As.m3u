@@ -1,0 +1,68 @@
+#EXTINF:0 group-title="Детские"  tvg-id="boomerang" tvg-logo="http://cdn.server-iptv.live/logo/tv/boomerang_global.png",Boomerang
+http://168.119.255.170/514/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="cartoon-network" tvg-logo="http://cdn.server-iptv.live/logo/tv/cartoon_network_global.png",Cartoon Network HD
+http://168.119.255.170/506/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="cartoons-90" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cartoons90.png",Cartoons 90
+http://168.119.255.170/519/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="cartoons-big" tvg-logo="http://cdn.server-iptv.live/logo/tv/CartoonsBIG.png",Cartoons Big
+http://168.119.255.170/520/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="cartoons-short" tvg-logo="http://cdn.server-iptv.live/logo/tv/CartoonsSHORT.png",Cartoons Short
+http://168.119.255.170/521/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="cineman-simps" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-simps.png",CineMan Симпсоны
+http://168.119.255.170/522/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="detsky" tvg-logo="http://cdn.server-iptv.live/logo/tv/unicum.png",Уникум
+http://168.119.255.170/503/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="detsky-mir" tvg-logo="http://cdn.server-iptv.live/logo/tv/detski_mir_ru.png",Детский мир
+http://168.119.255.170/510/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="gulli-girl" tvg-logo="http://cdn.server-iptv.live/logo/tv/gulli-girl-fr-ru.png",Gulli Girl
+http://168.119.255.170/511/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="jimjam" tvg-logo="http://cdn.server-iptv.live/logo/tv/jimjam-uk.png",JimJam
+http://168.119.255.170/507/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="karusel" tvg-logo="http://cdn.server-iptv.live/logo/tv/karusel_tv.png",Карусель
+http://168.119.255.170/116/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="liova" tvg-logo="http://cdn.server-iptv.live/logo/tv/liova.png",Лёва
+http://168.119.255.170/526/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="malysh" tvg-logo="http://cdn.server-iptv.live/logo/tv/supergeroi.png",Супергерои
+http://168.119.255.170/525/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="mult" tvg-logo="http://cdn.server-iptv.live/logo/tv/mult_ru.png",Мульт
+http://168.119.255.170/501/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="multimania" tvg-logo="http://cdn.server-iptv.live/logo/tv/multilandia-ru.png",Мультиландия
+http://168.119.255.170/516/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="multimuzyka" tvg-logo="http://cdn.server-iptv.live/logo/tv/multimuzyka.png",МультиМузыка
+http://168.119.255.170/523/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="nickelodeon-cis" tvg-logo="http://cdn.server-iptv.live/logo/tv/nickelodeon_us_hd.png",Nickelodeon HD
+http://168.119.255.170/504/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="nick-jr" tvg-logo="http://cdn.server-iptv.live/logo/tv/nick_jr_us.png",Nick Jr
+http://168.119.255.170/512/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="o_" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_o_ru.png",О!
+http://168.119.255.170/515/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="solnce" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Солнце
+http://168.119.255.170/500/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="sts-kids-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-kids-ru.png",СТС Kids HD
+http://168.119.255.170/517/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="tiji" tvg-logo="http://cdn.server-iptv.live/logo/tv/tiji_fr_russia.png",Tiji
+http://168.119.255.170/502/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Детские"  tvg-id="v-gostiax-u-skazki" tvg-logo="http://cdn.server-iptv.live/logo/tv/v_gostyakh_u_skazki_ru.png",В гостях у сказки
+http://168.119.255.170/505/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="amedia1" tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_1.png",А1 HD
+http://168.119.255.170/640/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="amedia2" tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_2.png",A2 HD
+http://168.119.255.170/641/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="amedia-hit" tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-hit-ru.png",Amedia Hit
+http://168.119.255.170/625/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="amedia-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-premium-ru.png",Amedia Premium
+http://168.119.255.170/624/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="arsenaltv" tvg-logo="http://cdn.server-iptv.live/logo/tv/arsenal-ru.png",Арсенал HD
+http://168.119.255.170/664/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="bcu-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_action.png",BCU Action HD
+http://168.119.255.170/1600/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="bcu-cinema" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_cinema.png",BCU Cinema HD
+http://168.119.255.170/1602/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="bcu-fantastic" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_fantastic.png",BCU Fantastic HD
+http://168.119.255.170/1606/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="bcu-history" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_history.png",BCU History HD
+http://168.119.255.170/1608/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="bcu-kids-plus" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_kids+.png",BCU Kids+ HD
+http://168.119.255.170/1609/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Кино"  tvg-id="bcu-kinozal-prem-2" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_premiere_2.png",BCU Кинозал Premiere 2 HD
+http://168.119.255.170/1622/video.m3u8?token=M4f082ab4c
