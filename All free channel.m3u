@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0 group-title="Ð£ÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¸Ðµ"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",ÐšRATU (Ð¥ÐµÑ€ÑÐ¾Ð½)
+http://168.119.255.170/328/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Ð£ÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¸Ðµ"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",ÐšÑ€ÑƒÐ³ (ÐžÐ´ÐµÑÑÐ°)
+http://168.119.255.170/329/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Ð£ÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¸Ðµ"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ð¢IÐ¡ (ÐžÐ´ÐµÑÑÐ°)
+http://168.119.255.170/330/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Ð£ÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¸Ðµ"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/gtv_ua.jpg",Gtv
+http://168.119.255.170/323/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Ð£ÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¸Ðµ"  tvg-id="1-nezalezhn" tvg-logo="http://cdn.server-iptv.live/logo/tv/1-nezalezhn.png",1 ÐÐµÐ·Ð°Ð»ÐµÐ¶Ð½Ð¸Ð¹
+http://168.119.255.170/300/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Ð£ÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¸Ðµ"  tvg-id="5kanal-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/kanal5_ua.png",5 ÐšÐ°Ð½Ð°Ð»
+http://168.119.255.170/319/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Ð£ÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¸Ðµ"  tvg-id="7kanal-odessa" tvg-logo="http://cdn.server-iptv.live/logo/tv/7_kanal_odessa.png",7 ÐºÐ°Ð½Ð°Ð» (ÐžÐ´ÐµÑÑÐ°)
+http://168.119.255.170/335/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Ð£ÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¸Ðµ"  tvg-id="pervy-gorodskoy-odessa" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",ÐŸÐµÑ€Ð²Ñ‹Ð¹ Ð“Ð¾Ñ€Ð¾Ð´ÑÐºÐ¾Ð¹ (ÐžÐ´ÐµÑÑÐ°)
+http://168.119.255.170/336/video.m3u8?token=M4f082ab4c
