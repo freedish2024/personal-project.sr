@@ -1,0 +1,218 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="",Al Quran Al Kareem (Mecca) 
+ http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="",Al Quran Al Kareem (Mecca) 
+https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="",Al Quran Al Kareem (Mecca) 
+http://xtv.ooo:8080/3038869441/8869441/353548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="",Al Quran Al Kareem (Mecca) 
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="",Al Quran Al Kareem (Mecca) 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022676&extension=ts
+#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="",Al Sunnah (Medina) 
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="",Al Sunnah (Medina) 
+http://xtv.ooo:8080/3038869441/8869441/353568
+#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="",Al Sunnah (Medina) 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022677&extension=ts 
+#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="",Al Sunnah (Medina) 
+https://win.holol.com/live/sunnah/playlist.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
+https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
+http://xtv.ooo:8080/3038869441/8869441/353547
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022669&extension=ts
+
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022540&extension=ts
+http://xtv.ooo:8080/3038869441/8869441/353541
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8?v=1734049920
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+http://xtv.ooo:8080/3038869441/8869441/353569
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717394853/ei/RQldZqLENe7Ji9oP7aaFkAU/ip/212.224.93.169/id/_C1hlzhCps0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwWzQqVWA5YlNs5aDzdXsKJJi6kfWQsrGGSOSi95UwU2jFmtJb7Q9wfbdhc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMXAzgUsiol8yJCZ2D-cmMr_CDoDltS1L6vYv2OZg0H7AiEAgCnhzZVOVh6ZkdKMa59T9OTuTyAfP0iLmHWE8r8LlIQ%3D/file/index.m3u8
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+https://kali.vdopanel.com:3986/live/mbashalive.m3u8
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
+http://xtv.ooo:8080/3038869441/8869441/353560
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
+http://xtv.ooo:8080/3038869441/8869441/353546
+http://xtv.ooo:8080/3038869441/8869441/353516
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+https://5a8308add0b31.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+http://xtv.ooo:8080/3038869441/8869441/353559
+http://82.212.74.2:8000/live/7307.m3u8
+https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
+http://xtv.ooo:8080/3038869441/8869441/353509
+https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Ten 5
+http://starshare.live:8080/live/T20C227070225533/202210886677/17565.ts
+ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022676&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022677&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022669&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022672&extension=ts
+ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022660&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022687&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022686&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022683&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022680&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022674&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022671&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022661&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022659&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022632&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022628&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022621&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022619&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022616&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022612&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022229&extension=ts
+http://xtv.ooo:8080/3038869441/8869441/353508
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022215&extension=ts
+http://xtv.ooo:8080/3038869441/8869441/353556
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022217&extension=ts
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8?v=1734049920
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?v=1734049920
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8?v=1734049920
+http://www.elahmad.com/tv/m3u8/dubai_tv.m3u8?id=noordubaitv
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022275&extension=ts
+https://5a8308add0b31.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022271&extension=ts
+https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
+https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CpAFJkePuw47nCRBma68VG3oChhq0Obd6rPlyirRU5xRp32ieJwIhw-9VUCQ2B-QK5rNmM80bSaZPy-gH_P1GGutvx_7_m-YYc8wl3GJfTnQSLD59dROvA8MCSoP5HkhsdMufW9fltItb6VQyYnSVLaRx6Ga0kEKyci3ahkZiLhf_eVxfhgD1n3zZEK5sJG2E6FsIJdMher9lTphcDc6u8kSD5A6oxxQ3WPIXLw_mFiXa28Yyt3hMHLv8zEfKlhc-SrnNWP6CJ6ZHlDilLWAElQpWxWllHbY7sgFZnfjdUDseV2vb95d2vGwaxQMvQT_ZyG0enYTY65JmJLf2-AvZjE1KDLJUffJLalVwZId5hR46ZTlUF7KtCtvux4oDQGQTh_NbPETbbtoLdjzwiFjAi9ocJAvfc750S1481VaVoHfiAlBkeWAc1PbkgNDKFG2FG1XjPc6Ngwk80NO2XwH9nYUGJtgVyPI_8xOn7NDl5IDew_uybYOWx0jiMYAHfJ9Hbd4M0cscS96oSxZwY8fyn7Iw97ucL-R5TfF83jkupuytWM8UYcmXbR5wOJ5Bor3rXbh9W1obVO_GAMikFqw_aeGXuKuNj20_vRAN-I9pcRiNzm6qpL3EgJneH2O_qrSqBZnuaU3w1cIddTebARqZfLNQuLNNF51wDfp-qt6EJ2pMDWzhhfsNEnO-fIZEVCg9yUlyEYRV7FXAeHMEszijZJdMbzK8VoUdxGIszADVmV3fYIMx6v75m8pEuP2VII5DdqQtLQrTeADiUI7hGEAyurWbn0OXxUKVtoQENhkXlwwpkpSw9A2vPY0B9EuMhhrR9o0q3_nRg7yX5yEhJJvEedjX285-q-CylvAZqX6BdLyX4caDKwE_SJyq-6P8Dc0FSABKgl1cy13ZXN0LTIwsgk.m3u8
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=1022501&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png"group-title="ISLAMIC CHANNELS",Peace Tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="ISLAMIC CHANNELS",DEEN TV
+https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="ISLAMIC CHANNELS", IQRA BANGLA
+https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="ISLAMIC CHANNELS",ATN ISLAMIC TV
+https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
+https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",ISLAM Tv
+https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
+https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_7.m3u8
+https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8?v=1734049920
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8?v=1734049920
+https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+http://xtv.ooo:8080/3038869441/8869441/353508
+http://xtv.ooo:8080/3038869441/8869441/353510
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
+http://xtv.ooo:8080/3038869441/8869441/353511
+http://xtv.ooo:8080/3038869441/8869441/353512
+http://xtv.ooo:8080/3038869441/8869441/353513
+https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+http://xtv.ooo:8080/3038869441/8869441/353514
+http://xtv.ooo:8080/3038869441/8869441/353516
+http://xtv.ooo:8080/3038869441/8869441/353517
+http://xtv.ooo:8080/3038869441/8869441/353540
+http://xtv.ooo:8080/3038869441/8869441/353541
+http://xtv.ooo:8080/3038869441/8869441/353546
+http://xtv.ooo:8080/3038869441/8869441/353547
+http://xtv.ooo:8080/3038869441/8869441/353548
+http://xtv.ooo:8080/3038869441/8869441/353568
+http://xtv.ooo:8080/3038869441/8869441/353569
+http://xtv.ooo:8080/3038869441/8869441/353559
+http://xtv.ooo:8080/3038869441/8869441/353560
+ http://xtv.ooo:8080/3038869441/8869441/353558
+http://xtv.ooo:8080/3038869441/8869441/353557
+ http://xtv.ooo:8080/3038869441/8869441/353556
+http://xtv.ooo:8080/3038869441/8869441/353555
+http://xtv.ooo:8080/3038869441/8869441/353554
+http://xtv.ooo:8080/3038869441/8869441/353553
+http://xtv.ooo:8080/3038869441/8869441/353551
+http://xtv.ooo:8080/3038869441/8869441/353552
+http://xtv.ooo:8080/3038869441/8869441/353549
+http://xtv.ooo:8080/3038869441/8869441/353550
+http://xtv.ooo:8080/3038869441/8869441/354906
+http://xtv.ooo:8080/3038869441/8869441/354907
+http://xtv.ooo:8080/3038869441/8869441/354905
+http://xtv.ooo:8080/3038869441/8869441/354908
+http://xtv.ooo:8080/3038869441/8869441/354909
+http://xtv.ooo:8080/3038869441/8869441/354910
+http://xtv.ooo:8080/3038869441/8869441/354911
+http://xtv.ooo:8080/3038869441/8869441/354912
+http://xtv.ooo:8080/3038869441/8869441/354913
+http://xtv.ooo:8080/3038869441/8869441/354915
+http://xtv.ooo:8080/3038869441/8869441/354917
+ http://xtv.ooo:8080/3038869441/8869441/354916
+http://xtv.ooo:8080/3038869441/8869441/354918
+ http://xtv.ooo:8080/3038869441/8869441/354919
+http://xtv.ooo:8080/3038869441/8869441/354920
+ http://xtv.ooo:8080/3038869441/8869441/354922
+http://xtv.ooo:8080/3038869441/8869441/354921
+ http://xtv.ooo:8080/3038869441/8869441/354924
+http://xtv.ooo:8080/3038869441/8869441/354925
+http://xtv.ooo:8080/3038869441/8869441/354926
+ http://xtv.ooo:8080/3038869441/8869441/354931
+http://xtv.ooo:8080/3038869441/8869441/354932
+http://xtv.ooo:8080/3038869441/8869441/354934
+http://xtv.ooo:8080/3038869441/8869441/354933
+http://xtv.ooo:8080/3038869441/8869441/354938
+http://xtv.ooo:8080/3038869441/8869441/354939
+http://xtv.ooo:8080/3038869441/8869441/354940
+http://xtv.ooo:8080/3038869441/8869441/354941
+http://xtv.ooo:8080/3038869441/8869441/354942
+http://xtv.ooo:8080/3038869441/8869441/354943
+http://xtv.ooo:8080/3038869441/8869441/354985
+http://xtv.ooo:8080/3038869441/8869441/354987
+http://xtv.ooo:8080/3038869441/8869441/355014
+http://xtv.ooo:8080/3038869441/8869441/354953
+http://xtv.ooo:8080/3038869441/8869441/355015
+http://xtv.ooo:8080/3038869441/8869441/354954
+http://xtv.ooo:8080/3038869441/8869441/354955
+http://xtv.ooo:8080/3038869441/8869441/354956
+http://xtv.ooo:8080/3038869441/8869441/354957
+http://xtv.ooo:8080/3038869441/8869441/354958
+http://xtv.ooo:8080/3038869441/8869441/354959
+http://xtv.ooo:8080/3038869441/8869441/354960
+http://xtv.ooo:8080/3038869441/8869441/352975
+http://xtv.ooo:8080/3038869441/8869441/352976
+http://xtv.ooo:8080/3038869441/8869441/352977
+http://xtv.ooo:8080/3038869441/8869441/352979
+http://xtv.ooo:8080/3038869441/8869441/352981
+http://xtv.ooo:8080/3038869441/8869441/352982
+http://xtv.ooo:8080/3038869441/8869441/352983
+http://xtv.ooo:8080/3038869441/8869441/352984
+http://xtv.ooo:8080/3038869441/8869441/352985
+http://xtv.ooo:8080/3038869441/8869441/352987
+http://xtv.ooo:8080/3038869441/8869441/352986
+http://xtv.ooo:8080/3038869441/8869441/352988
+http://xtv.ooo:8080/3038869441/8869441/352515
+http://xtv.ooo:8080/3038869441/8869441/352516
+http://xtv.ooo:8080/3038869441/8869441/352517
+http://xtv.ooo:8080/3038869441/8869441/352519
+http://xtv.ooo:8080/3038869441/8869441/352518
+http://xtv.ooo:8080/3038869441/8869441/351789
+http://xtv.ooo:8080/3038869441/8869441/351790
+http://xtv.ooo:8080/3038869441/8869441/351791
+http://xtv.ooo:8080/3038869441/8869441/351792
+http://xtv.ooo:8080/3038869441/8869441/351793
+http://xtv.ooo:8080/3038869441/8869441/351794
+http://xtv.ooo:8080/3038869441/8869441/351797
+http://xtv.ooo:8080/3038869441/8869441/351696
+http://xtv.ooo:8080/3038869441/8869441/351697
+http://xtv.ooo:8080/3038869441/8869441/351699
+http://xtv.ooo:8080/3038869441/8869441/351700
+http://xtv.ooo:8080/3038869441/8869441/351701
+http://xtv.ooo:8080/3038869441/8869441/351702
+http://xtv.ooo:8080/3038869441/8869441/351703
+http://xtv.ooo:8080/3038869441/8869441/351704
+http://xtv.ooo:8080/3038869441/8869441/351705
+http://xtv.ooo:8080/3038869441/8869441/348305
+http://xtv.ooo:8080/3038869441/8869441/348308
+http://xtv.ooo:8080/3038869441/8869441/348304
+http://xtv.ooo:8080/3038869441/8869441/348309
+http://xtv.ooo:8080/3038869441/8869441/355194
+http://xtv.ooo:8080/3038869441/8869441/355195
+http://xtv.ooo:8080/3038869441/8869441/355196
+http://xtv.ooo:8080/3038869441/8869441/355197
+http://xtv.ooo:8080/3038869441/8869441/355198
+http://xtv.ooo:8080/3038869441/8869441/348048
