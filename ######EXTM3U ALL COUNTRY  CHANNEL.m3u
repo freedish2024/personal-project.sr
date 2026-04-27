@@ -5487,7 +5487,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network/index.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/BAL%20BHARAT1745041576.png",Etv Bal Bharat Bangla
-http://redforce.live:8082/ETV.BAL.BHARAT/index.m3u8?token=b16f48965b4f506e179317752cafa54276507a6a-cf64c293f4448cfb534217b19d300e21-1748851053-1748840253&remote=no_check_ip
+http://redforce.live:8082/ETV.BAL.BHARAT/index.m3u8?token=81432dcfda9f111b2036fee630c46a48f3549fff-d1981f1600fb033b03b226246e716136-1748917874-1748907074&remote=no_check_ip
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/DURANTA%20TV1745043400.png",Duranta TV
 http://203.18.159.115/DURANTATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/BAL%20BHARAT1745041576.png",Etv Bal Bharat Bangla
@@ -7020,6 +7020,8 @@ http://94.136.188.21:8000/live/rctvdemo/index.m3u8
 http://15.235.187.72/hls/sdtv.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0PEdlq37B3fQDXXN5bnKVPmHpovHc61Xzms6feAIOXA&s=10",Smilee Bangla
 https://account26.livebox.co.in/SmileeBanglahls/stream.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpS3WsiQpsV6TL9M6BBZtahvxnMKwwgkRTRVJTONK19ZCktzrJ5yUxiChV&s=10",Es News Entertainment
+http://115.187.41.216:8080/hls/esnewsandentertainment/2_1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/C1xF1kJ9/KALIYAGUNJTV.jpg",Kaliyaganj TV
 https://live-stream.utkalbongo.com/utkalbongo/stream1/hls/kaliyaganjtvlive.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://sanandanews.com/wp-content/uploads/2024/01/Untitled_design-removebg-preview.png",Sananda News
@@ -7102,7 +7104,14 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 http://live.dataplayer.in:8080/live/dbcn.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/SN57g2mn/IMG-20260426-WA0011.jpg",NBS 24×7
 https://newsliveindia.com:4433/nbsnews/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://extvbangla.com/wp-content/uploads/2025/03/logo-2.jpg",Ex TV Bangla
+https://satpros.tech/hls/extvlive/extvstream/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZoDmk4BlFvxJiwkoKRosRgO0qheydJG3scSoj7p2Fw&s=10",Calcutta News
+https://cdn-2.pishow.tv/live/237/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxvLyU9fSlXG-x4yrpwfTpK0j817hY24ZNEMcpZRK64Q&s=10",CTVN Akd Plus
+https://legitpro.co.in/ctvnakdplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZoDmk4BlFvxJiwkoKRosRgO0qheydJG3scSoj7p2Fw&s=10",Calcutta News
+https://legitpro.co.in/cnnnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PragNews.in@SD",Prag News (576p)
 https://mumt05.tangotv.in/PRAGNEWS/index.m3u8
 
