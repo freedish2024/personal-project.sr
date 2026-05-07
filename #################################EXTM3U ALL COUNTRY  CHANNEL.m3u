@@ -6083,6 +6083,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jatvbd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/upload/photos/2026/01/WkcjodjxR2waPX6U3HDq_28_0fb69fd12a31bff5141cfc8edeb81a97_avatar.png?cache=1769592454",Madhupur News 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madhupurnews24hd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b90b15196618197.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg",Vision 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/vision24.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9wMtSUR9zZdDL9qKfzIHY2QzfjuGv2efhH9LOQJYrQ&s",Channel 1
 https://ultra02jibon02by1.jibon02premium.workers.dev/CHANNEL-1-BANGLA/index.m3u8
@@ -6117,6 +6119,13 @@ https://jolshabd.com/torongotv/torongotv/playlist.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EpqRl5VjkHOybNGE5uN1oCFX0-LP7unF1aV_3EoymA&s",Enter TV 
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnLbKJAMSFGAMtuanNqzq_8J4IYF7q7-DO-2vR9bejpkuqtk4W4Tg2P5Y-&s=10",Jatra TV
+https://jatra.tv/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwC1FLrSDqYkWTu0CK8zCygVIBMpoQq_ef4g&s",Doyel Tv
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThaSYkEDvTEcvHrCnhwFcglj03M5dD9mIZlQ&s",Probashinews24 
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://a1bangla.com/assets/images/logo.png",A1 Bangla
 https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jtv.news/wp-content/uploads/2026/01/JTV-LOO-FR-NEWS-2.png",JTV
@@ -6130,6 +6139,44 @@ https://cdn.ghuddi.live/tvpage/Bangla_TV_BD/playlist.m3u8
 https://tvboss.ziboplay.buzz/Starnewstest_transmission/index.mpd
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.sbtvus.com/images/logo.png", SB TV US
 https://livestream.sbtvus.com/hls/stream.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://invision24tv.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-05-17-at-23.47.19_4aa1784f.jpg",In Vision 24
+https://dish.porosh.live/tmp_hls/invision24/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/themes/porosh/img/logo.png?cache=337",Pragoti TV
+https://dish.porosh.live/tmp_hls/stream/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivuW9EP-DsATfwEmFXfj0j3mpTrRRBOmTym1fn5a5_j9atG69Xstn7pE&s",Channel 16
+https://dish.porosh.live/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://channela1.tv/assets/images/logo/17600489942022.png",Channel A1
+https://dish.porosh.live/tmp_hls/ae0eb3eed39d2bcef4622b2499a05fe6/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://vokta.tv/wp-content/uploads/2024/05/307916533_100191212863824_5917833510799536868_n-removebg-preview.png",Vokta Tv
+https://dish.porosh.live/tmp_hls/b137fdd1f79d56c7edf3365fea7520f2/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jatvbd.com/wp-content/uploads/2024/12/Jatv-Logo-new.png",Jatv
+https://dish.porosh.live/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLiv-2jBI68n9pMdTM7fgAiCo5cBzd0RtEkx2LbzDq4g&s=10",Ptv Bangla
+https://dish.porosh.live/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://tv.flexihoster.com/storage/13/60lZdj33wy2Qkxpo4haNtLy64Zvi8nQEWFONPuub.png",Akash TV
+https://dish.porosh.live/tmp_hls/500e75a036dc2d7d2fec5da1b71d36cc/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/upload/photos/2026/01/WkcjodjxR2waPX6U3HDq_28_0fb69fd12a31bff5141cfc8edeb81a97_avatar.png?cache=1769592454",Madhupur News 24
+https://dish.porosh.live/tmp_hls/4a47d2983c8bd392b120b627e0e1cab4/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/upload/tv/tv_1772801077_9024.jpg",RS Movie Bangla
+https://dish.porosh.live/tmp_hls/e07413354875be01a996dc560274708e/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://yt3.googleusercontent.com/QaMxee0mZVJLDWQpLssrTPxED-cMHkhgAU428IvZaHdko0Vx3JLuchIEj8dGsD0iuGFak0h9Kw=s900-c-k-c0x00ffffff-no-rj",RightTV
+https://dish.porosh.live/tmp_hls/51ef186e18dc00c2d31982567235c559/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/upload/tv/tv_1777970591_5677.jpg",Modern TV 
+https://dish.porosh.live/tmp_hls/170c944978496731ba71f34c25826a34/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/upload/tv/tv_1770542753_3109.png",Poros TV 
+https://dish.porosh.live/tmp_hls/8fecb20817b3847419bb3de39a609afe/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://tsbnews24.com/images/logo.png",TSB News 24
+https://dish.porosh.live/tmp_hls/b4a528955b84f584974e92d025a75d1f/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jtv.news/wp-content/uploads/2026/01/JTV-LOO-FR-NEWS-2.png",JTV
+https://dish.porosh.live/tmp_hls/f7e9050c92a851b0016442ab604b0488/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_l_qkgHx5oXCrR6v1ustZylaOGQOh7G3JajazMtS91O-r774C5phRfsM&s=10",Nagor TV
+https://dish.porosh.live/tmp_hls/19bc916108fc6938f52cb96f7e087941/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://invision24tv.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-05-17-at-23.47.19_4aa1784f.jpg",In Vision 24
+http://103.121.61.218/tmp_hls/invision24/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/themes/porosh/img/logo.png?cache=337",Pragoti TV
 http://103.121.61.218/tmp_hls/stream/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivuW9EP-DsATfwEmFXfj0j3mpTrRRBOmTym1fn5a5_j9atG69Xstn7pE&s",Channel 16
