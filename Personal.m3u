@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBM3igqM6UvBNQ-Aws30Ovca4JAIl25NiOwYonTStjMg&s",R bangla Tv
+https://mtlivestream.com/hls-mtlive/rbangla/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.chdnews24.tv/images/logo.png",Chd News 24 TV
+https://stream.chdnews24.tv/index.m3u8
+
