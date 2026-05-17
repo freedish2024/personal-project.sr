@@ -5548,6 +5548,39 @@ http://103.204.43.87:8080/live/1/1/277.m3u8
 http://103.204.43.87:8080/live/1/1/235.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/NICK%20JR1745042397.png",Nick Jr
 http://103.204.43.87:8080/live/1/1/280.m3u8
+#EXTINF:-1, CARTOON NET SD
+http://149.71.34.166:8000/play/a00a/index.m3u8
+#EXTINF:-1, DISNY CAHNNEL SD
+http://149.71.34.166:8000/play/a00g/index.m3u8
+#EXTINF:-1, DISNY HD
+http://149.71.34.166:8000/play/a00j/index.m3u8
+#EXTINF:-1, DISNY JUNIER
+http://149.71.34.166:8000/play/a00l/index.m3u8
+#EXTINF:-1, NICK JUNIER SD
+http://149.71.34.166:8000/play/a00t/index.m3u8
+#EXTINF:-1, NICK SD
+http://149.71.34.166:8000/play/a00u/index.m3u8
+#EXTINF:-1, SONIC SD
+http://149.71.34.166:8000/play/a00x/index.m3u8
+#EXTINF:-1, SONY YAY
+http://149.71.34.166:8000/play/a018/index.m3u8
+#EXTINF:-1, HUM TV HD
+http://149.71.34.166:8000/play/a01z/index.m3u8
+#EXTINF:-1, KIDZONE PK+HD
+http://149.71.34.166:8000/play/a02m/index.m3u8
+#EXTINF:-1, MANORANJAN GRAND
+http://149.71.34.166:8000/play/a04t/index.m3u8
+#EXTINF:-1, MANORANJAN MOVIES
+http://149.71.34.166:8000/play/a037/index.m3u8
+#EXTINF:-1, MANORANJAN TV
+http://149.71.34.166:8000/play/a039/index.m3u8
+#EXTINF:-1, MINIMAX 2
+http://149.71.34.166:8000/play/a06n/index.m3u8
+#EXTINF:-1, PLANET FUN
+http://149.71.34.166:8000/play/a030/index.m3u8
+#EXTINF:-1, THE Q TV
+http://149.71.34.166:8000/play/a04u/index.m3u8
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/BAL%20BHARAT1745041576.png",Etv Bal Bharat Bangla
 http://redforce.live:8082/ETV.BAL.BHARAT/index.m3u8?token=6d7860779889ed55073f8932dc3c00cd12d5236e-79226c0a0183c6ffdd41870f94b9c6a6-1749414432-1749403632&remote=no_check_ip
@@ -6661,18 +6694,16 @@ http://flussonic.deltainfonet.com/58_MY-TV/tracks-v1a1/mono.m3u8
 http://27.124.71.27/Sun_Bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-16-bd.png",Channel 16
-https://aps33.playlist.ttvnw.net/v1/playlist/Cv0Gawh1Jqo9PYT1j3LgQYuQ6SnBGmll5n1Ps5gl6pZtOQf44-NVeYDgHT_Ig0uiviMx6jPDB0ckZQ72A1qNTi2jcFhr_Yfq0KN9v4s254pJKlLKIryJsIfF6aEwohazR9G2ndruEdjG3eCUg0LNzn5F4JHt-qjsNpFE8JVmOIzF1WEmavgd9gkOfz3JnCdqDtHp1ROI2-QwqjHaDx2y6RMmPLpdN8G9E7RjJ7rw8Zx4HTmx1qCajBCG6Q1YdVocmeK6QHY7gVuxGAhl-1e_jd0Sl3oV5AibIIx10JXXPAXO7a1RsFZu5CPT1k-RXPVgecW0NWmTQll5lU7ZFDQVGclqlBb_trEr0Jw1NmgcAVCKr1zcXbfP2YBxBCwEYMvYtugGvcwxvDngKkBFSI0U4UOv0wkfK5Cn6RO_y4UTGe8O1RhCWR6XLuUxHYCAov4Oi803e-_w2j_yxditGoONved8Hmt0jK1AdRDEUkMRKaLEyVrbuv_XayFpLH0zlQgMh3urndSyThQ6yMvw4ZF2I_ckxNk6KeM3SOhTm0Bm00t42FcckWh2mWQTdhaKWL_UbYU0RbyHdv-BhKutbizDXj0ReoIbwDCh9V5DO0ItZnZwpWbuPrWzAm9S66wGjKkss_C_Acs0UWr--VTjSPqVpwJVV8mFPnCg_iKoWFR9WqjEALnjG5UVOzYhEptv20pGLde0uK4Vl6JKCZciuUy71AcZw1q7Na5CN6vf6XY6DD2GuB9TbqRd0ovVFtnTUBJulwCBuvAokSOfGSFCT4alk1VcQ24B0YyWIJG61s-bi-d5jQ2NYXjynUswT_b4nZN3rXy4EACi0V2q5Zia439xPib44aufV3hML9HQrkZVFCCN2thFFnzJnH94QQMe6fIR5ixm-IfzIzPXFlJWQhXzyQVNRuW7u2HU5ICrrMk2Jf06SpoiUu-2VpuKL562rDG9a2lYiugqoiG55UIwoICunLSf9LTq7NNrVjdZPuLCtCiO40XHPtKzeqiHSdsGNJVtEGQXsOSBTYkvbPw7jM2wb358ufHj-ubL-_VugyBK12y3jrgn70x5ljGk4yxFSvMZLheDdwb-aj3cjsyQBbA-dWSWV-wCkyKabAFqxR-wBpU9ild9p7NZCe5lN3QxxuKjHYkf-PC50RB6qx_imlPe8QRgB6s2G57t8t9a4JobQDEaDJVPuhLjDzOKnNC1ciABKgl1cy13ZXN0LTIwjw8.m3u8
-
+f
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://familytvbd.com/wp-content/uploads/2023/10/Logo.png",Family Tv
-https://aps32.playlist.ttvnw.net/v1/playlist/Cu4GY1cDBWBaSBfI5EgeQLS3WmW-BvtD_YB45QcP6GEyYS3zB1qvYEQnt9W0iX9Hvr030d4Q4ZhiBTnCP-AwdAQFe527V6wGF0eFAkernDX2I-SU6_yQz_trgcMpZ3BaVFsWUnY5SXM5SEMh7vpHV1YlufJ7O28d25FaCV3No17XsyMZSRYKbgcdvuqQ8bEN355T9xozUi3vMbwmzfgKRUuLn6rZAvTCtdEF9Zc0tx5GWsM-TOh7shicy06XGah91l-okXZ_DTx5eP1JOT0QwjpMalJbuG_OqkF21myRUyA5_ujbrTlSsgnAbsWiLEDwJrQC0G4zXMTP6JXXoFDZpZ0ROSLpiBSV07lxilzJtRz9dY1uYrXBGHJfCKRO8EBnGymo_S7Jt3W_Rv3ZoEjYCCGSan-CBqyBJ82QcocoKvSLZ61v9vfbG3lBAzwIHeQRKXPD8sdqopgDyffzt4QYs0gcLI7Jk5Eg9WnTKp_EnkWv9h2PjJgNcs8adEJOxOHivT19Mdb1Usv7e5jAcEhAgUgT3uPhyk9TMCSS-es2GGYcUF4aDO1L-kPk3Q_mL7dseeCfCXvKMG33kAIWSd4nGj82_1_ZJtiOHP7V7eUom8e1PVNt-fhI0Z5ScHIJzr7pAf3fJ2O3QeKigbkWVwMCB7JJSoS5twv23OjAOM3lziw1v4hvmAN5df8RRrLAilMHAfnNV4e7G-ya_g-KHX2PrUsBLRW_dciIsbXBqSd9vtqfbngHbVvscxBw_kcE3yt_11cPMUKOBb5OQVxuI5k40yfA85W8cq7Ib8nJKxJv5IGrAIMHhvHC1va66-hXdO5ZEGU_T7npVz30iM8wf1UbxiMX09VFbvvZJr_lNLNAP7oSveq5hDbqFRS_VL5q27LLqJEd1kKlND_zqcMLQlmIZw_TNIF0qvFeybVK7iorjIqY8GaG_uefHoP9RrOwbqTRJqXlX1-tlFO67tuNsz3k5Alvn8VzUMioNg5T_Tygxn7PbCh8uKkI2xfgEMVagPvEK5DWahkVTNnc-wk8_OY14twflMDekyTQLLjAooBBwHGC4EbfYlu94ad2MrCGNsy4Q3V8IVBseVPhlQSz08Xm94aPCyqJcytA4qB1eaeoZT0baEW9i5RUovo7ZurPpy1E2gDLUb_a7OE9epJs3VHY69kaDH8k2EJBnpFrFbCqhCABKgl1cy13ZXN0LTIwjw8.m3u8
-
+https://aps32.playlist.ttvnw.net/v1/playlist/Cu4GqEet6ElYB-w80c8bJ1jJ1439_MrMBdsIwttlwXpaCUXBfAdGH0k-9PtHan1AuYl7cfOguU1NDDi-fnZOSCzQqt9A6eg-N2EKdFdraOJx7ubb0Xq8GyW7Y3_grmkF-RufdY5JthJouSrOwkPfT-drLHv3enoWxw5VNHueZ2DnjIBFoIcP41CBvfY0GjtbX5YQXTRBZwyRl7hQfPdqGYP30eAo5XXbTETKZliTjd5yD4-yZzx2GK5tjN15vd6FxA2HcM-pNzw6BQI4Z0YnNmV14_v14ymxN3Cg0pCnbFnPDZqGdqxukG0QGyOse0Q4E6t_UnqVG4OueKG1arKQWZ4dp8hTqelCxn3X-HU-Qr2t8okUTGq2alqSX4dFmfViB2ISpk0QssMBcyD8OtuWI-iQWYxTzj_jQUh2Xs-NWV7nN3_XjCacPbskEQGCShM78WyWyZIOU2A6em7FFpqr1-0muD61-DkmD5DC_wgmuRgpOO4nh6cINXn-1x3ZKm5Bly-_sXwsv0txxzsnjDGOg3DE9PsxlQfiI9a4NBt44m_xEVSZ-o8y_KEw6ko5weaqIX92C1l5eVbT9l2Z8GMd6PWN1V3t4QWJ3Rf0E0MlyjlMDz5UFTWxlRk-EU00NVSp0XXGaxxuyKnSXjF64bRvgmhMBVt3VaiW6AFUQsu2EZX0eDj2S0WlOu0SUeGVVWNfpLySKXtme9KFubwSliPIkv96zyOBZcqgXIp7KG2HowL4AaTn0XJ4t32EECsc1FO3EbbgPvWAD9dIzXS-6ftY9S1k_6-AKwf8tOYJo_LYkk1C5Ghp6xO4JbDAMF4Di-U79Qr5uCN-QllAydfiImgylaEzDu0-qlssbJW-MUl-ZQOOThK13Xh2O1ocNLKTfbqvtbjJsQ0oSd2PkD6rS2cv1wgWnzA6GOEMJsU6P8jcE3Ejr0S-cuDeixXCggRjYLX6FooKnu8FXSd0LXE1M05DuD-BQy2hGCb4s5lRSpU27pIFHZ_qsI1S41clxFiAf-fVYJaQdcMxqGKIC9m1bodC9u-NB2A98t0mX8h6W_4_k9057lu7vcos23e5mhJschKqFHkaC2fj4kITwA-Jldnv0FAZ9sgYr72ImD6TFjO-UbrkcE9TjuQfoL4wZDk__uQ4ZkqIhRt_eeRIBS2DlqgdqbYaDAaFA6dM12JZEJOQsSABKgl1cy13ZXN0LTIwkg8.m3u8
 
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.shadhinbanglanews.com/uploads/logo/1773072286_456123.jpeg%20copy.jpg",Shadin Bangla
-https://aps31.playlist.ttvnw.net/v1/playlist/CoQHfu05RmFghrmnXOGNt7YEP0XJSonGV1cSEGhaauHbMvpWYrEtMUp1xSmUaIH_qAjabAf0T8usaQ8lA7sXiEJpSB_PTfjFZqSBn7oD3TNCp3wMcHEbOmhKyQ-GBv8GiZS4fNcqVPXXGeI99eeza2jUFTHQZeAQKxE2OYO4pUkboyFpIgNDfveUgs6WjXDOJQmjneNCXlqgrAPdbVcYBuIP7_yYt5dozc3n_1Ao8TLBkjUPD611Pm4j7IQAICyVOccf26hAMMMfsQh8_OmabQxewkZwLrR6DZRjEep_mlHqTWCkoHwvKhIrrCjEy2y61pg6dRMH3LVGRTu-FoQK_Mv7EBkmLZq7t2_567ui8IqT-8-dbk8_PzASAutD3H_pTMaFXcSKv1qIMeyRlqRjBpeyWn_yPmZoBj5A_y8g0XV6V_nFYscrbxarQ3Ksahh37xFkdcMPsNCYEk7_E9YlO1n3Dn4f1GKV0t9PrO56R_ePi40rK_TJvPQ1VpALx8Urf38-LDcaCxpVwrWN5ZA7d-nsEizIrJqu-vltRGWm96mYgtJUwsNKtmu5x0T8KaGZuTmIpllEJGbMrGlcnAiNz5o5iuzOAcMsYZ2OcUN0MdbCrDi0yoRAKlFSK0ilAu_DFJi6UBsU5036HQtH5ItV-13LczrfjgyEPXaK0vsTlDFqH_uy0aEqqm3bkNn7D5BCju2fYaY7AKlO-amWRFv3KYXOC9DRetxofGPZAr7m_LI6oLYwbWeuUoEaffb7uAhYM0vTlKgLmXMR07WD_DjhxPXcmInikTOqNMeGUQY3MBW4DGIRbR5dYGiL5Ppmv78VM-e4jQwkg_PJyrJ4cbcuGpDbpuQSYk6sHHphtotuzKP3L4OapQg4pxKnFWAmVW1eu3Prg09tTC4qc2D4pWy_UnQ_BuzOYQSUJUXgJWYc8bzPB_V-nNhtFzgSmwTlZ8jplSawpWw3sBBPxhx3A7kgOQX44Kkd1vzq_2T9nRJTMET8wcQzQTgLUC1sLcbvIfK15WQGTKikf2kpuyjCGdmzHMWQH6BmypWu_47DKLhp_32uvLKc2rR21L31JmMf_ySoWIqblhvCzSxtDPGyE3ydOArtOMJjhnBrpF_6lO1DzdJwowN0ng3mgg4viyL_SR2ewLD_68ozpdpQnyzV_WC_nheUPCW6It3NVfSbpj_nfdVojm3kjs6cGgzJi8kYYAOhgT8n5MogASoJdXMtd2VzdC0yMI8P.m3u8
+https://aps33.playlist.ttvnw.net/v1/playlist/CoQHQqVJrI1RKHRJja1_t5r7NavDFyUA5Nns3arRJ-AyEagNjshpEP3Jkr5w-nl0SGRGFNNWKbtN2sPIA1yEyorMntcyOg7AO2t4FLSq8kyX0B7A6ZKZ5K-usZckru-mNymxnbqMXqY0OvXMkHP7F8qjtsNKBPT049Rmnu5pGNLbLlaAB34pSam7tL9NK7HaVjJdzbJB3KS7pJD76QLaUkliDxwM0LNX-j8Y_MgeVoHUR-8HGdMEFKY4OhaOr85yeHPWwyQYwMPC5Ec3N3QrWbbW1dba8qFevkA2rX1Sw9rYGjkMGByUgFzytwdAA_QwwenazWRQPWnPzx1OY5DTvIhGD0__Q_WdCtqiZ3sQe9X-QFJVWAt4tJcjkKVwzqErVMAa6E0tTT_ji-cnHc95IQ2aR6yUAqIJ-7IqCjFNIKw4A_slzbmOsoBmQvyXnlP2Zi0xr1Bvejf7yVElh2Z1EGmuMtG5QTnsaj_xpq9g8N6IVHdQ0ytTHTV6ShXqoB9V263qIyGrP8ZEPmk9sL3grNmBqQNlmjLipsgt3c3dqsLJhX_QQYs3y2hnXnf_YBR3m2n0RSyMT18_SHnWaiA4bKJe-1M76vM3O5_hyQhH-slk8RGSohImEbriIqNtnLSOAvBHmc0f27ofhPor214GnV1ZGV4tXTWCH1NzToSx6q_gfoWevfinAYlOzvsTHbFWACTaGrlOWHayDd09TwpsrPUtAm3s5lDAEmAOyswsgfLdM6ftqFGy_ar9vf-qujyYey-w-YwHr8db5ApaEmIM5bnkfo_Y4g7-MBL4nxxe3V-4DlEM3udr8dkMJgioYI8P6t2ReU8dqW7mW5xl7_-pJ0MTzeUmOKdpCYcVR58xyCFkZy9HaV3XaHc2Z6hpyaL-JIAeclQ20JcRbhBJtf1ZDftBv6-lCgz6cjrlhG6s0jsM4HfP5xAn5--jByw1grpz7Gi086rugt1KOjJAUGgmwytCfBCDFbrBkYc1QYFIThcLDLjoE7flO1CY7wHOjF694RqqtEWWUQPfyrqxNU0zgcUWvDfcx-TgxRxbzjx9ky0a9SDMBvZVdLLxwXk-79Lnp2pQuIlOu_JejMeDbyaSQ4gTu8VutOnK73HtMO4yAyndDy7RfPsJfBQq13ipukMMXNeU7yPwtf9n2umOSDHECndIbe2vAcO5PHdOEtvieD7r98pq415ZGgyTMj-tdW9Pdj-_dqMgASoJdXMtd2VzdC0yMJIP.m3u8
 
 
 
@@ -7371,7 +7402,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TATA-SKY.png" group-title="ASIA | BENGALI/BANGLA",BENGLAI| TATA SKY BANGLA HD
 http://luxetv.online:80/play/live.php?mac=A0:BB:3E:00:04:B7&stream=155775&extension=ts
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdoQxanVwrjhKuThT8L_AnrGhJDGDF2HFEQ&s",Digital Bangla
+https://uttar-purbanewsmedia.cloud/hls/dbangla/dbangla_live24X7/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6kctHUew7M20BKCrL3p7U7Ga0BqAqn9KOWQ&s",D24 Entertainment
+https://uttar-purbanewsmedia.cloud/hls/d24/d24live/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdoQxanVwrjhKuThT8L_AnrGhJDGDF2HFEQ&s",Digital Bangla
 https://digitalbangla.livebox.co.in/digitalbanglahls/live.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6kctHUew7M20BKCrL3p7U7Ga0BqAqn9KOWQ&s",D24 Entertainment
+https://digitalbangla.livebox.co.in/D24ENTERTAINMENThls/live.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-07-31/2507312027016.jpg?width=700",Raatdin Bangla
 https://server.playontv.in/raatdinbangla/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ND24.png",Nd24
@@ -7534,7 +7572,8 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Indian Bangla News",NK
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TIME_BANGLA/images/LOGO_HD/image.png",News Time Bangla
+https://cdn-2.pishow.tv/live/1494/master.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQx7hjc9nJGDKKQbBo2PMZnfrQGVyeXcK8WXPpK01bG-a.jpg",DCN Hindi
 https://server.playontv.in/dcnhindi/dcnhindi/tracks-v1/mono.m3u8
