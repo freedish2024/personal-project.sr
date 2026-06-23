@@ -5517,6 +5517,8 @@ http://103.159.180.34:5001/live/1341.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png",SONY YAY Bengali
 http://103.159.180.34:5001/live/3424.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/06/ChatGPT-Image-Jun-23-2026-07_06_51-PM-1-90x135.png",3RS Cartoon Movies
+https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
 #EXTINF:-1, Ushba80
 https://fl1003.bozztv.com/ushba80/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Ushba60
@@ -7107,7 +7109,7 @@ https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="sangeet-bangla" tvg-name="Sangeet Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sangeet%20Bangla.jpg?raw=true" tvg-chno="sangeet-bangla" group-title="All-In-One~ENT", Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sangeet-bhojpuri" tvg-name="Sangeet Bhojpuri" tvg-language="Bhojpuri" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sangeet%20Bhojpuri.jpg?raw=true" tvg-chno="sangeet-bhojpuri" group-title="All-In-One~ENT", Sangeet Bhojpuri
-https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Balle%20Balle.jpg?raw=true" tvg-chno="balle-balle" group-title="All-In-One~ENT", Balle Balle
 https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Dhoom%20Music.jpg?raw=true" group-title="All-In-One~ENT", DHOOM
@@ -7743,8 +7745,12 @@ rtmp://server.zillarbarta.com/static/zbmusic
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/SGCN_Music_2024.png/revision/latest?cb=20250530033624",SGCN MUSIC
 rtmp://ethersoftwaresolution.com/live/sgcnmusic
 
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5MD8__uM-gLYOJkki082lcx2EDLWAejUCuAtVXBJ7A&s", Express News
 https://59nyq44elwap-hls-live.5centscdn.com/Express/dd1ba1872df91985ed1ca4cde2dfe669.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7j-wcHek_1xMzULxJp91qwA1gOkHyHJXQg2rG-lg85g&s=10",U Bangla
+https://stream.ottlive.co.in/ubangla/index.m3u8
+
 #EXTINF:-1 tvg-id="Rengoni.in@SD",Rengoni (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8
 #EXTINF:0, Assam Talks
