@@ -7172,7 +7172,10 @@ https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
 https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="Classic Hits",CLASSICHITS (576p)
 https://mumt03.tangotv.in/Dsly5z3HCLASSICHITS/index.m3u8
-
+#EXTINF:-1 tvg-id="EpicTV.in@SD",Epic TV (1080p)
+http://de.russkoe-iptv.com:88/s/s-e3dc39e0/epic-hd.m3u8
+#EXTINF:-1 tvg-id="MoviePlex.in@SD",MoviePlex (576p)
+https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8
 
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/L4bfq0Ys/bangla-tv.jpg",Bangla TV
@@ -7867,12 +7870,14 @@ https://network24.live:4433/Newsinbangla/index.m3u8
 https://legitpro.co.in/live7/sristitv/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDowGVSB1iNxdyqP6cFQ9Hq3IHuBKFCoiTcfxOecAgd7jT3KAx4-8asV_M4oP7_ng7Maenw_C_3ka1xxzhARNZFh0.jpg",Rana Cable TV
 https://ranacable.duckdns.org/RanaCableTV/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://tulnit.com/live/rana-cable-music/",Rana Eventz Music
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://ranacabletv.alwaysdata.net/images/rana_cable_music.png",Rana Cable Music
 https://ranacable.duckdns.org/RanaCableMusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/pL3ZHFDj/Whats-App-Image-2026-04-21-at-12-10-48-PM.jpg",UPOHAR BANGLA
 https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://tulnit.com/wp-content/uploads/2026/05/ChatGPT-Image-May-23-2026-07_31_35-AM-1-90x135.png",Alo Tv
 https://ranacable.duckdns.org/AloTv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-07_44_34-PM-1-200x300.png",B Prime Bangla
+https://ranacable.duckdns.org/Bprimebangla/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://tulnit.com/live/rana-cable-music/",Rana Eventz Music
 https://ranacable.duckdns.org/RanaEventzMusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YqCZnRlIAJ7evnHkbJ6h6f5hl7g_a7chgW2RwRpm1w&s=10",Kolkata TV
