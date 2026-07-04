@@ -8240,9 +8240,11 @@ https://ranacable.duckdns.org/AloTv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-07_44_34-PM-1-200x300.png",B Prime Bangla
 https://ranacable.duckdns.org/Bprimebangla/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNe8OlKS40TMuhCALqSDvjNmHvspW8VDmpltAzcgFLg&s",Montel News
-https://ranacable.duckdns.org/MontelNews/index.m3u8
+https://ranacable.duckdns.org/montelnews/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4F6eDLkmHlpRCUXaecnQ8_AAEIKGWhFKKnA&s",Sonar Bangla
 https://stream.ottlive.co.in/sonarbangla/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNe8OlKS40TMuhCALqSDvjNmHvspW8VDmpltAzcgFLg&s",Montel News
+https://ranacable.duckdns.org/MontelNews/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://tulnit.com/live/rana-cable-music/",Rana Eventz Music
 https://ranacable.duckdns.org/RanaCableMusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YqCZnRlIAJ7evnHkbJ6h6f5hl7g_a7chgW2RwRpm1w&s=10",Kolkata TV
