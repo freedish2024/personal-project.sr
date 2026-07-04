@@ -12,7 +12,10 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="IS: Al Quran Al Kareem" tvg-link="" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-r" group-title="ISLAMIC CHANNELS" ,IS: Al Quran Al Kareem
+http://tv.cloudcdn.me/live.ts?channelId=57497&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Al Quran Al Kareem" tvg-link="" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-r" group-title="ISLAMIC CHANNELS" ,IS: Al Quran Al Kareem
+http://tv.cloudcdn.me/live.ts?channelId=132248&uid=7133&deviceMac=00:1A:79:4A:02:91
 
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
@@ -26,7 +29,10 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1024
 https://cd198.anystream.uk:8082/hls/mec31mhtvtv/index.m3u8
 #EXTINF:-1 group-title="Arab" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quran-tv-sa.png",Saudi Quran 
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="IS: Al Sunnah Al Nabawiyah" tvg-link="" tvg-logo="https://shababel3alam.com/wp-content/uploads/2022/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg" group-title="ISLAMIC CHANNELS" ,IS: Al Sunnah Al Nabawiyah
+http://tv.cloudcdn.me/live.ts?channelId=223&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Al Sunnah Al Nabawiyah" tvg-link="" tvg-logo="https://shababel3alam.com/wp-content/uploads/2022/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg" group-title="ISLAMIC CHANNELS" ,IS: Al Sunnah Al Nabawiyah
+http://tv.cloudcdn.me/live.ts?channelId=132244&uid=7133&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-0 tvg-logo="https://shababel3alam.com/wp-content/uploads/2022/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Al Sunnah Al Nabawiyah
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
@@ -73,7 +79,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5339cb11375111.560f6b587c7c3.jpg",Makkah TV
 https://app.ncare.live/streams/makkahtv.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="IS: Makkah tv" tvg-link="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5339cb11375111.560f6b587c7c3.jpg" group-title="ISLAMIC CHANNELS" ,IS: Makkah tv
+http://tv.cloudcdn.me/live.ts?channelId=132247&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Makkah tv" tvg-link="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5339cb11375111.560f6b587c7c3.jpg" group-title="ISLAMIC CHANNELS" ,IS: Makkah tv
+http://tv.cloudcdn.me/live.ts?channelId=4203&uid=7133&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/3bug9dU.png",Iqraa TV  
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
@@ -714,6 +723,118 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660548
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] إغلب السقا
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660549
 
+#EXTINF:-1 tvg-name="Music: Music Alhanen" group-title="ARABIC MUSIC",Music: Music Alhanen
+http://fastshare1.com:80/live/25711345/late8airline/319374.ts
+#EXTINF:-1 tvg-name="Music: Music Alremas 2" group-title="ARABIC MUSIC",Music: Music Alremas 2
+http://fastshare1.com:80/live/25711345/late8airline/319375.ts
+#EXTINF:-1 tvg-name="Music: Music Alremas" group-title="ARABIC MUSIC",Music: Music Alremas
+http://fastshare1.com:80/live/25711345/late8airline/319376.ts
+#EXTINF:-1 tvg-name="Music: Arabica TV" group-title="ARABIC MUSIC",Music: Arabica TV
+http://fastshare1.com:80/live/25711345/late8airline/319377.ts
+#EXTINF:-1 tvg-name="Music: Arabica TV" group-title="ARABIC MUSIC",Music: Arabica TV
+http://fastshare1.com:80/live/25711345/late8airline/319378.ts
+#EXTINF:-1 tvg-name="Music: Free TV" group-title="ARABIC MUSIC",Music: Free TV
+http://fastshare1.com:80/live/25711345/late8airline/319379.ts
+#EXTINF:-1 tvg-name="Music: Mazzika TV" group-title="ARABIC MUSIC",Music: Mazzika TV
+http://fastshare1.com:80/live/25711345/late8airline/319380.ts
+#EXTINF:-1 tvg-name="Music: Nogoum FM TV" group-title="ARABIC MUSIC",Music: Nogoum FM TV
+http://fastshare1.com:80/live/25711345/late8airline/319381.ts
+#EXTINF:-1 tvg-name="Music: Dijlah Zaman TV" group-title="ARABIC MUSIC",Music: Dijlah Zaman TV
+http://fastshare1.com:80/live/25711345/late8airline/319382.ts
+#EXTINF:-1 tvg-name="Music: MBC FM HD" group-title="ARABIC MUSIC",Music: MBC FM HD
+http://fastshare1.com:80/live/25711345/late8airline/319383.ts
+#EXTINF:-1 tvg-name="Music: Panorama FM 4K" group-title="ARABIC MUSIC",Music: Panorama FM 4K
+http://fastshare1.com:80/live/25711345/late8airline/319384.ts
+#EXTINF:-1 tvg-name="Music: Wanasah TV" group-title="ARABIC MUSIC",Music: Wanasah TV
+http://fastshare1.com:80/live/25711345/late8airline/319385.ts
+#EXTINF:-1 tvg-name="Music: Aghani" group-title="ARABIC MUSIC",Music: Aghani
+http://fastshare1.com:80/live/25711345/late8airline/319386.ts
+#EXTINF:-1 tvg-name="Music: Rotana Clip HD" group-title="ARABIC MUSIC",Music: Rotana Clip HD
+http://fastshare1.com:80/live/25711345/late8airline/319387.ts
+#EXTINF:-1 tvg-name="Music: Rotana Music HD" group-title="ARABIC MUSIC",Music: Rotana Music HD
+http://fastshare1.com:80/live/25711345/late8airline/319388.ts
+#EXTINF:-1 tvg-name="Music: One TV" group-title="ARABIC MUSIC",Music: One TV
+http://fastshare1.com:80/live/25711345/late8airline/319389.ts
+#EXTINF:-1 tvg-name="Music: Al Moled" group-title="ARABIC MUSIC",Music: Al Moled
+http://fastshare1.com:80/live/25711345/late8airline/319390.ts
+#EXTINF:-1 tvg-name="Music:  Mosaique FM" group-title="ARABIC MUSIC",Music:  Mosaique FM
+http://fastshare1.com:80/live/25711345/late8airline/319391.ts
+#EXTINF:-1 tvg-name="Music: Radio FM 90" group-title="ARABIC MUSIC",Music: Radio FM 90
+http://fastshare1.com:80/live/25711345/late8airline/319392.ts
+#EXTINF:-1 tvg-name="Music: Om kalthum أم كلثوم‎" group-title="ARABIC MUSIC",Music: Om kalthum أم كلثوم‎
+http://fastshare1.com:80/live/25711345/late8airline/319393.ts
+#EXTINF:-1 tvg-name="Music: Trace Muzika" group-title="ARABIC MUSIC",Music: Trace Muzika
+http://fastshare1.com:80/live/25711345/late8airline/319394.ts
+#EXTINF:-1 tvg-name="Music: Trace Urban" group-title="ARABIC MUSIC",Music: Trace Urban
+http://fastshare1.com:80/live/25711345/late8airline/319395.ts
+#EXTINF:-1 tvg-name="Shahid Ramadan Maana" group-title="SHAHED BOX",Shahid Ramadan Maana
+http://fastshare1.com:80/live/25711345/late8airline/308972.ts
+#EXTINF:-1 tvg-name="Shahid The Game HD" group-title="SHAHED BOX",Shahid The Game HD
+http://fastshare1.com:80/live/25711345/late8airline/308973.ts
+#EXTINF:-1 tvg-name="Shahid Selfie HD" group-title="SHAHED BOX",Shahid Selfie HD
+http://fastshare1.com:80/live/25711345/late8airline/308974.ts
+#EXTINF:-1 tvg-name="Shahid Bab Al Hara" group-title="SHAHED BOX",Shahid Bab Al Hara
+http://fastshare1.com:80/live/25711345/late8airline/308975.ts
+#EXTINF:-1 tvg-name="Shahid Wifi HD" group-title="SHAHED BOX",Shahid Wifi HD
+http://fastshare1.com:80/live/25711345/late8airline/308976.ts
+#EXTINF:-1 tvg-name="Shahid Al Kabeer Awi" group-title="SHAHED BOX",Shahid Al Kabeer Awi
+http://fastshare1.com:80/live/25711345/late8airline/308977.ts
+#EXTINF:-1 tvg-name="Shahid AL Hufra" group-title="SHAHED BOX",Shahid AL Hufra
+http://fastshare1.com:80/live/25711345/late8airline/308978.ts
+#EXTINF:-1 tvg-name="Shahid Al Asouf" group-title="SHAHED BOX",Shahid Al Asouf
+http://fastshare1.com:80/live/25711345/late8airline/308979.ts
+#EXTINF:-1 tvg-name="Shahid Movies Action" group-title="SHAHED BOX",Shahid Movies Action
+http://fastshare1.com:80/live/25711345/late8airline/308980.ts
+#EXTINF:-1 tvg-name="Shahid Movies Thriller" group-title="SHAHED BOX",Shahid Movies Thriller
+http://fastshare1.com:80/live/25711345/late8airline/308981.ts
+#EXTINF:-1 tvg-name="Shahid Aflam" group-title="SHAHED BOX",Shahid Aflam
+http://fastshare1.com:80/live/25711345/late8airline/308982.ts
+#EXTINF:-1 tvg-name="Shahid Movies" group-title="SHAHED BOX",Shahid Movies
+http://fastshare1.com:80/live/25711345/late8airline/308983.ts
+#EXTINF:-1 tvg-name="Shahid Al Hassan HD" group-title="SHAHED BOX",Shahid Al Hassan HD
+http://fastshare1.com:80/live/25711345/late8airline/308984.ts
+#EXTINF:-1 tvg-name="Shahid Freej HD" group-title="SHAHED BOX",Shahid Freej HD
+http://fastshare1.com:80/live/25711345/late8airline/308985.ts
+#EXTINF:-1 tvg-name="Shahid Naser Al Qassaby" group-title="SHAHED BOX",Shahid Naser Al Qassaby
+http://fastshare1.com:80/live/25711345/late8airline/308986.ts
+#EXTINF:-1 tvg-name="Shahid Rouya" group-title="SHAHED BOX",Shahid Rouya
+http://fastshare1.com:80/live/25711345/late8airline/308987.ts
+#EXTINF:-1 tvg-name="Shahid AlThaqafeya HD" group-title="SHAHED BOX",Shahid AlThaqafeya HD
+http://fastshare1.com:80/live/25711345/late8airline/308988.ts
+#EXTINF:-1 tvg-name="Shahid Nature Time" group-title="SHAHED BOX",Shahid Nature Time
+http://fastshare1.com:80/live/25711345/late8airline/308989.ts
+#EXTINF:-1 tvg-name="Shahid Gulli Bil Arabi" group-title="SHAHED BOX",Shahid Gulli Bil Arabi
+http://fastshare1.com:80/live/25711345/late8airline/308990.ts
+#EXTINF:-1 tvg-name="Shahid Tiji" group-title="SHAHED BOX",Shahid Tiji
+http://fastshare1.com:80/live/25711345/late8airline/308991.ts
+#EXTINF:-1 tvg-name="Shahid International" group-title="SHAHED BOX",Shahid International
+http://fastshare1.com:80/live/25711345/late8airline/308992.ts
+#EXTINF:-1 tvg-name="Shahid Ramez" group-title="SHAHED BOX",Shahid Ramez
+http://fastshare1.com:80/live/25711345/late8airline/308993.ts
+#EXTINF:-1 tvg-name="Shahid Top Gear HD" group-title="SHAHED BOX",Shahid Top Gear HD
+http://fastshare1.com:80/live/25711345/late8airline/308994.ts
+#EXTINF:-1 tvg-name="Shahid Levanat HD" group-title="SHAHED BOX",Shahid Levanat HD
+http://fastshare1.com:80/live/25711345/late8airline/308995.ts
+#EXTINF:-1 tvg-name="Shahid Tash HD" group-title="SHAHED BOX",Shahid Tash HD
+http://fastshare1.com:80/live/25711345/late8airline/308996.ts
+#EXTINF:-1 tvg-name="Shahid Al Arabiya Business HD" group-title="SHAHED BOX",Shahid Al Arabiya Business HD
+http://fastshare1.com:80/live/25711345/late8airline/308997.ts
+#EXTINF:-1 tvg-name="Shahid Khaleeji HD" group-title="SHAHED BOX",Shahid Khaleeji HD
+http://fastshare1.com:80/live/25711345/late8airline/308998.ts
+#EXTINF:-1 tvg-name="Shahid WrestleMania HD" group-title="SHAHED BOX",Shahid WrestleMania HD
+http://fastshare1.com:80/live/25711345/late8airline/308999.ts
+#EXTINF:-1 tvg-name="Shahid Desi Play HD" group-title="SHAHED BOX",Shahid Desi Play HD
+http://fastshare1.com:80/live/25711345/late8airline/309000.ts
+#EXTINF:-1 tvg-name="Shahid Hassino HD" group-title="SHAHED BOX",Shahid Hassino HD
+http://fastshare1.com:80/live/25711345/late8airline/309001.ts
+#EXTINF:-1 tvg-name="Shahid Maraya HD" group-title="SHAHED BOX",Shahid Maraya HD
+http://fastshare1.com:80/live/25711345/late8airline/309002.ts
+#EXTINF:-1 tvg-name="Shahid Top Chef HD" group-title="SHAHED BOX",Shahid Top Chef HD
+http://fastshare1.com:80/live/25711345/late8airline/309003.ts
+#EXTINF:-1 tvg-name="Shahid Masrah Masr HD" group-title="SHAHED BOX",Shahid Masrah Masr HD
+http://fastshare1.com:80/live/25711345/late8airline/309004.ts
+#EXTINF:-1 tvg-name="Shahid Ragel We Set Settat HD" group-title="SHAHED BOX",Shahid Ragel We Set Settat HD
+http://fastshare1.com:80/live/25711345/late8airline/309005.ts
 
 
 #EXTINF:-1 group-title="Arab" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/m3alitv.jpg?v=6",M3alitv
@@ -1662,48 +1783,6 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist/3.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist/3.m3u8
 #EXTINF:-1 group-title="Arabic" tvg-logo="https://roya.tv/_next/image?url=https%3A%2F%2Fbackend.roya-tv.com%2Fimagechanger%2FSize01Q40R927%2Fimages%2Fchannels%2FMuPjI0GxrmqGvzo.png&w=128&q=75",Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/4.m3u8
-
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://images.pluto.tv/channels/6123742451cce0000789fc7a/colorLogoPNG.png" ,KSA.SAUDI TV FHD
-http://wolvestv.net:8880/80746551156356/22314879512479/46519
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://e7.pngegg.com/pngimages/640/566/png-clipart-al-murqab-television-channel-nilesat-mirqab-mall-others-miscellaneous-television.png" ,KSA.SAUDI TV HD
-http://wolvestv.net:8880/80746551156356/22314879512479/46522
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://lo1.in/exyu/QURAN.png" ,KSA. SAUDI QURAN FHD
-http://wolvestv.net:8880/80746551156356/22314879512479/270927
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://lo1.in/exyu/QURAN.png" ,KSA. SAUDI QURAN 4k
-http://wolvestv.net:8880/80746551156356/22314879512479/46521
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="http://go4.pw/ISLAMIC/SUNNA.png" ,KSA. SUNNAH 4k
-http://wolvestv.net:8880/80746551156356/22314879512479/46530
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://img.pikbest.com/png-images/20240605/makkah-vector-illustration-islamic_10590392.png!bw700" ,KSA. MAKKAH TV
-http://wolvestv.net:8880/80746551156356/22314879512479/46524
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_2014.png/1200px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9_2014.png" ,KSA. Asharq Documentary HD
-http://wolvestv.net:8880/80746551156356/22314879512479/46531
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="http://go4.pw/ASIA/SAUDI/SBC.png" ,KSA. SBC 4k
-http://wolvestv.net:8880/80746551156356/22314879512479/46523
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://media0043.elcinema.com/tvguide/1366_1.png" ,KSA. THEKRAYAT 4k
-http://wolvestv.net:8880/80746551156356/22314879512479/46509
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="http://go4.pw/IRAN/24.png" ,KSA.24 TV
-http://wolvestv.net:8880/80746551156356/22314879512479/46510
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2cCfkrm6b8nwbk2FM9p2wRTviq9MqXQuZg&s" ,KSA. ALWAQIE TV
-http://wolvestv.net:8880/80746551156356/22314879512479/46515
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/%D9%82%D9%86%D8%A7%D8%A9_%D8%B9%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%88%D8%B7%D9%86_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9.jpg" ,KSA.OYOUN ALWATAN
-http://wolvestv.net:8880/80746551156356/22314879512479/46525
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXmDD9B5PwC1JWb8TLjs7GbEyXcu_ogxx-5g&s" ,KSA.Asharq Discovery HD
-http://wolvestv.net:8880/80746551156356/22314879512479/46511
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="http://go4.pw/ASIA/SAUDI/ALSAHRAATV.png" ,KSA. Al Sahraa TV
-http://wolvestv.net:8880/80746551156356/22314879512479/46529
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="http://go4.pw/KIDS/ATFAL&MAWAHEB.png" ,KSA. Atfal & Mawaheb
-http://wolvestv.net:8880/80746551156356/22314879512479/57615
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://media.twofour54.com/sites/2/2019/01/bidaya_tcm12-24182-compressor.png" ,KSA.BEDAYA
-http://wolvestv.net:8880/80746551156356/22314879512479/46518
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="http://go4.pw/ARABE/ZAD_TV.png" ,KSA.ZAD TV
-http://wolvestv.net:8880/80746551156356/22314879512479/46532
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZerWBozutpB7t9MXEWFVoYAoE0kH2cY-wKULK0tCbVhX_UIc7cWcTjZaoocNgCviTyBQ&usqp=CAU" ,KSA.AL AAN
-http://wolvestv.net:8880/80746551156356/22314879512479/46512
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://pbs.twimg.com/profile_images/643341024375521280/lFurqAl6_400x400.png" ,KSA. SAUDI 24
-http://wolvestv.net:8880/80746551156356/22314879512479/165
-#EXTINF:-1 group-title="|AR| SAUDI    السعودية " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSuuTZu0GJJh5fYj7LiyuFESf7KYyupZ8Nw&s" ,KSA. Al Istikama
-http://wolvestv.net:8880/80746551156356/22314879512479/168
-
 
 
 #EXTINF:-1,Asli Wa Hasry
@@ -2977,47 +3056,6 @@ https://aljamaltv.net/hls/aljamaltv.m3u8
 https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 #EXTINF:-1,Navahang
 https://hls.navahang.live/hls/stream.m3u8
-
-
-#EXTINF:-1,Saudi Quran
-http://live.lordstreams.co:8080/832396166/1982148236/660484
-#EXTINF:-1,Saudi Sunna
-http://live.lordstreams.co:8080/832396166/1982148236/660487
-#EXTINF:-1,saudi 1 
-http://live.lordstreams.co:8080/832396166/1982148236/660492
-#EXTINF:-1,Sbc
-http://live.lordstreams.co:8080/832396166/1982148236/660496
-#EXTINF:-1,Bedaya 
-http://live.lordstreams.co:8080/832396166/1982148236/660494
-#EXTINF:-1,Thekrayat
-http://live.lordstreams.co:8080/832396166/1982148236/660493
-#EXTINF:-1,Ien Dors
-http://live.lordstreams.co:8080/832396166/1982148236/660483
-#EXTINF:-1,Alwaqie
-http://live.lordstreams.co:8080/832396166/1982148236/660495
-#EXTINF:-1,Funoon Tv
-http://live.lordstreams.co:8080/832396166/1982148236/660482
-#EXTINF:-1,AlMajd 1
-http://live.lordstreams.co:8080/832396166/1982148236/660512
-#EXTINF:-1,AlMajd 2
-http://live.lordstreams.co:8080/832396166/1982148236/660514
-#EXTINF:-1,AlMajd 3
-http://live.lordstreams.co:8080/832396166/1982148236/660515
-#EXTINF:-1,Bin Othaimeen
-http://live.lordstreams.co:8080/832396166/1982148236/659842
-#EXTINF:-1,Alerth Alnbawi
-http://live.lordstreams.co:8080/832396166/1982148236/659773
-#EXTINF:-1,Alrai Tv
-http://live.lordstreams.co:8080/832396166/1982148236/659774
-#EXTINF:-1,Al maaly
-http://live.lordstreams.co:8080/832396166/1982148236/659772
-#EXTINF:-1,Alnasaf Alash
-http://live.lordstreams.co:8080/832396166/1982148236/659763
-#EXTINF:-1,Qatar 1 
-http://live.lordstreams.co:8080/832396166/1982148236/660488
-#EXTINF:-1,Qatar 2
-http://live.lordstreams.co:8080/832396166/1982148236/660471
-
 
 
 #EXTINF:-1,Asli Wa Hasry
@@ -5397,7 +5435,50 @@ https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 https://salamtv.siar.us/live/salamtv.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/VvVgb6dN/logo-tawaf.png",Tawaf TV
 https://tvstreamcast.com/tawaftv.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="IS: Ary Qtv" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/ARYQTV1.jpg" group-title="ISLAMIC CHANNELS" ,IS: Ary Qtv
+http://tv.indigotv.me:80/live.ts?channelId=388&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Huda TV" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/9e4b655b.jpg" group-title="ISLAMIC CHANNELS" ,IS: Huda TV
+http://tv.indigotv.me:80/live.ts?channelId=29222&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Meem TV" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/fe3a8d5a.png" group-title="ISLAMIC CHANNELS" ,IS: Meem TV
+http://tv.indigotv.me:80/live.ts?channelId=369&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Imam Hussein 1 Persian" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/6eb8a1c5.jpg" group-title="ISLAMIC CHANNELS" ,IS: Imam Hussein 1 Persian
+http://tv.indigotv.me:80/live.ts?channelId=29214&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Imam Hussein 2 Arabic" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/9bcd90c3.jpg" group-title="ISLAMIC CHANNELS" ,IS: Imam Hussein 2 Arabic
+http://tv.indigotv.me:80/live.ts?channelId=29215&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Imam Hussein 3 English" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/90ba49a9.jpg" group-title="ISLAMIC CHANNELS" ,IS: Imam Hussein 3 English
+http://tv.indigotv.me:80/live.ts?channelId=29216&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Imam Hussein 4 Urdu" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/a2c058d0.jpg" group-title="ISLAMIC CHANNELS" ,IS: Imam Hussein 4 Urdu
+http://tv.indigotv.me:80/live.ts?channelId=29217&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Noor TV" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/ff9c8dfc" group-title="ISLAMIC CHANNELS" ,IS: Noor TV
+http://tv.indigotv.me:80/live.ts?channelId=235&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Al Mahdi TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/331ab8e.png" group-title="ISLAMIC CHANNELS" ,IS: Al Mahdi TV
+http://tv.indigotv.me:80/live.ts?channelId=222&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Madani Channel English" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/91443da2" group-title="ISLAMIC CHANNELS" ,IS: Madani Channel English
+http://tv.indigotv.me:80/live.ts?channelId=230&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Madani Channel Urdu" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/7b7770d8" group-title="ISLAMIC CHANNELS" ,IS: Madani Channel Urdu
+http://tv.indigotv.me:80/live.ts?channelId=231&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: QURAN" tvg-link="" tvg-logo="" group-title="ISLAMIC CHANNELS" ,IS: QURAN
+http://tv.indigotv.me:80/live.ts?channelId=123908&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: QURAN DOCUMENTRY TV" tvg-link="" tvg-logo="" group-title="ISLAMIC CHANNELS" ,IS: QURAN DOCUMENTRY TV
+http://tv.indigotv.me:80/live.ts?channelId=123909&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: QURAN REBORN TV" tvg-link="" tvg-logo="" group-title="ISLAMIC CHANNELS" ,IS: QURAN REBORN TV
+http://tv.indigotv.me:80/live.ts?channelId=123910&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Channel Win" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/e424d368.jpg" group-title="ISLAMIC CHANNELS" ,IS: Channel Win
+http://tv.indigotv.me:80/live.ts?channelId=155&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8AMyY2eeea-1UDD4RQhFIMz2YoydpT62tYJwg5BA=s900-c-k-c0x00ffffff-no-rj",Iqra TV
+http://tv.cloudcdn.me/live.ts?channelId=433&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-0 tvg-logo="https://assets.peacetv.tv/images/intro/en-logo.png",Peace TV English
+http://tv.cloudcdn.me/live.ts?channelId=238&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Dua Channel" tvg-link="" tvg-logo="" group-title="ISLAMIC CHANNELS" ,IS: Dua Channel
+http://tv.indigotv.me:80/live.ts?channelId=37317&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Islam Channel English" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/8b5eae16.png" group-title="ISLAMIC CHANNELS" ,IS: Islam Channel English
+http://tv.indigotv.me:80/live.ts?channelId=18220&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="IS: Islam Channel Urdu" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/3d81fade" group-title="ISLAMIC CHANNELS" ,IS: Islam Channel Urdu
+http://tv.indigotv.me:80/live.ts?channelId=228&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Al Mahadi Tv
+http://tv.cloudcdn.me/live.ts?channelId=222&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Meem Tv
+http://tv.cloudcdn.me/live.ts?channelId=369&uid=7133&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="RELIGI",Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
@@ -5510,6 +5591,8 @@ https://mrzplayin.fun/roarzon/stream.php?id=7eccfe540a7590406ef28bd40c13ffa0&e=.
 #EXTINF:-1 group-title="Kids" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonyyay.png",Sony Yay Bangla
 http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png",Sonic Bangla
+http://tv.cloudcdn.me/live.ts?channelId=90243&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png",Sonic Bangla
 http://103.159.180.34:5001/live/1345.m3u8
 #EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick Bangla
@@ -6489,6 +6572,197 @@ http://103.121.61.218/tmp_hls/0d0871f0806eae32d30983b62252da50/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://kaptv52.com/assets/logo-BKIRTPHs.png",Kap TV 52
 https://aps31.playlist.ttvnw.net/v1/playlist/CuYGhP2zv3uuFi5FYZ-LVTz3KZypsD4RGWdY7rDO1youqwipR7H0LnzCGGN_xRNhcZIRhL7a9dkPDJnriAtqCz-PDcEjv4JEuTDBYmq2YuHXmryh7JGX5E8YXb8WJAatRMKFm60m_yLguBz3xgYCgXEHv6hvDyy7NIO9ygsTe3zvPhlpSMqS7RDNwpb0N3kzvUNxrVnA0BgVABq5mIU_pYJPOplOMkmVM_z3XaQXzrE0I0eVqA8EyS1MoRnd93D0qquE58DjP_JnjS2hNkdWJ66uloVwqbGFX8aI3_Me9AFcUJXwE5hyjWqhdZseC9UfkqfJWu59lR6W7PX_PvMKV8b60TqvvnXtL3myxSWeQFqE1tS6vW789ZxcmXF08RT8jHRzdtmyPCYpqy4yFzhDFXbG-6Nz_5d-jtl_xMP0S3xk-_SswB5QGP2NLc6fvOb85SFqPOrdVCUVdC0pB09Ou6nfzaZbuWzWtJq0hbm0pOqc-y6_ewpwVIf4kJmFwMYpGXmwqByVjpuaV7k827U5jICeD5eWoRzjZ1hYMRV-CkaGiL2T9t9ApPgdrxqAiOiPIgT2P8ilFdanVsDG1ayLWBo7vDBgXmhDCxJIV87C-FtaspU_3iIWD-jwn2ieXQlyuxIQgmFWg8uz8KfXV3YGRNnOppS4eIK3LazLkBor9OFgnWQwJQ-5M7YyZp7RsTF66Htf6y-nt7Q27amCrqN4XboTB3Sp--gK6JEux8CuRsFG50thqXbqWmDTwihcAYeI-unkqvepBpDPIdnHWsa8gd3-2eUAKUaJYjLFz4ZjnDZYSkdOs1h6MyIZTcxP3KA4IULsLti0SO1_-cddX0fLhD1wCUHEG-WtB6vxDHvTRRtqRZj6FydxXjCaV9fTwHYut0emyaRhYV0EdaTBNNBpp0JGsUpHvDGrMLFONw2Jo56ud1Rrze789qMPE4tgVybHCMQzfgSwpPbPxLd1gr4cJLWUPykYess8T6UP5TYeVVmGrRjS0k1tGHu1lRBx3P9BS3Q391GbkzkWfCpiZyH9NaPKpfjLr6BY1lOfFK6cyK3jq3QclPXBH666QXu5rrmR8xIGqgFKKv1kTPifQQzU_zpm_JAWUhJYvEhTJXzzKGmbiSHsrHX1s3ORn8o1pqk-6tZSA2_Lp2SrGgzzMZrCbUvcKJtWG-ogASoJdXMtd2VzdC0yMKAP.m3u8
+
+#EXTINF: -1 tvg-name="ATN News" tvg-logo="http://lifetvbd.xyz:8080/images/2666b4f72838a0db2a182513e07d7a65.png" group-title="Bangladeshi News", ATN News
+http://tv.indigotv.me:80/live.ts?channelId=83&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Atn bangla uk
+http://tv.indigotv.me:80/live.ts?channelId=82&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Atn bangla
+http://tv.indigotv.me:80/live.ts?channelId=81&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Asian TV HD" tvg-logo="http://lifetvbd.xyz:8080/images/8afc338cd2f611d1bf83de1f172611fc.png" group-title="Bangladesh", Asian TV HD
+http://tv.indigotv.me:80/live.ts?channelId=80&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="ABP Ananda" tvg-logo="http://lifetvbd.xyz:8080/images/34312c8a65f9583aa8095b6a9fbac101.png" group-title="INDIA | Bangla", ABP Ananda
+http://tv.indigotv.me:80/live.ts?channelId=40480&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Amar Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/42e6049ad22e5534b94f840168469fb5.png" group-title="INDIA | Bangla", Amar Bangla
+http://tv.indigotv.me:80/live.ts?channelId=95984&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Akash Aath" tvg-logo="http://lifetvbd.xyz:8080/images/deabfb05ff86c1c82193dc101208ebd2.png" group-title="INDIA | Bangla", Akash Aath
+http://tv.indigotv.me:80/live.ts?channelId=79&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla" group-title="",Bijoy TV 
+http://tv.indigotv.me:80/live.ts?channelId=85&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/tT4Frhtp/images-5-22.jpg",Bangla Tv
+http://tv.indigotv.me:80/live.ts?channelId=44159&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Bangla Vision" tvg-logo="http://lifetvbd.xyz:8080/images/c6938f7eba2a97a97c2bd2f51826a7e1.png" group-title="Bangladesh", Bangla Vision
+http://tv.indigotv.me:80/live.ts?channelId=84&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Biswa Bangla Tv" tvg-logo="http://lifetvbd.xyz:8080/images/2a70a8772c0a19290904e5150c97bfa6.png" group-title="Bangladesh", Biswa Bangla Tv
+http://tv.indigotv.me:80/live.ts?channelId=990253&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Boisakhy tv
+http://tv.indigotv.me:80/live.ts?channelId=86&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Btv
+http://tv.indigotv.me:80/live.ts?channelId=49341&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Bangla jago
+http://tv.cloudcdn.me/live.ts?channelId=132853&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d1zRBNr.png" group-title="BANGLADESH", Channel 9
+http://tv.indigotv.me:80/live.ts?channelId=88&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Channel 24" tvg-logo="http://lifetvbd.xyz:8080/images/0ce70228aaa8318472ee984a66f31d71.png" group-title="Bangladeshi News", Channel 24
+http://tv.indigotv.me:80/live.ts?channelId=87&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Kalkata news
+http://tv.cloudcdn.me/live.ts?channelId=90244&uid=13433&deviceMac=00:1A:79:00:97:A1
+#EXTINF: -1 tvg-name="Colors Bangla HD" tvg-logo="http://lifetvbd.xyz:8080/images/abf517e6fd05279c4295dfc24ce70352.png" group-title="INDIA | Bangla", Colors Bangla HD
+http://tv.indigotv.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Channel i
+http://tv.cloudcdn.me/live.ts?channelId=89&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Ctbn kolkata
+http://tv.cloudcdn.me/live.ts?channelId=90245&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Dipto tv
+http://tv.cloudcdn.me/live.ts?channelId=90232&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Desh TV" tvg-logo="http://lifetvbd.xyz:8080/images/58e8bfe5c531cf1103b701b5f52e553c.png" group-title="Bangladesh", Desh TV
+http://tv.cloudcdn.me/live.ts?channelId=93&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="DBC News" tvg-logo="http://lifetvbd.xyz:8080/images/06f8c00fb687b120e47fda666733fb89.png" group-title="Bangladeshi News", DBC News
+http://tv.cloudcdn.me/live.ts?channelId=29197&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Discovery bangla
+http://tv.cloudcdn.me/live.ts?channelId=44153&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="BD: DD BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f9e40a0.png" group-title="BENGALI" ,BD: DD BANGLA
+http://tv.cloudcdn.me/live.ts?channelId=36290&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="BD: DHOOM MUSIC BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/cdfa406.png" group-title="BENGALI" ,BD: DHOOM MUSIC BANGLA
+http://tv.cloudcdn.me/live.ts?channelId=94&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Duranta tv
+http://tv.cloudcdn.me/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Ekattor Tv" tvg-logo="http://lifetvbd.xyz:8080/images/156b24455f88cd88ea623e35278b5594.png" group-title="Bangladeshi News", Ekattor Tv
+http://tv.cloudcdn.me/live.ts?channelId=95&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Ekushey Tv" tvg-logo="http://lifetvbd.xyz:8080/images/3aaf5edb19f998f1d091f4574aca2b80.png" group-title="Bangladesh", Ekushey Tv
+http://tv.cloudcdn.me/live.ts?channelId=96&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Enter10 bangla
+http://tv.cloudcdn.me/live.ts?channelId=48006&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Gazi Tv" tvg-logo="http://lifetvbd.xyz:8080/images/a97267af7ba924a8610153b421e0509e.png" group-title="Bangladesh", Gazi Tv
+http://tv.cloudcdn.me/live.ts?channelId=98&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Gaanbangla" tvg-logo="http://lifetvbd.xyz:8080/images/ee10909a71fe8d47197473539cb785ab.png" group-title="Bangladesh", Gaanbangla
+http://tv.cloudcdn.me/live.ts?channelId=97&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Independent Tv" tvg-logo="http://lifetvbd.xyz:8080/images/f1ea975834a5b63f4903ef3f3a8153c5.png" group-title="Bangladeshi News", Independent Tv
+http://tv.cloudcdn.me/live.ts?channelId=99&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Ion tv
+http://tv.cloudcdn.me/live.ts?channelId=90230&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Movie bangla
+http://tv.cloudcdn.me/live.ts?channelId=44156&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,h
+http://tv.cloudcdn.me/live.ts?channelId=104&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Jamuna tv
+http://tv.cloudcdn.me/live.ts?channelId=100&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="BD: KOLKATA TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e7d0922.png" group-title="BENGALI" ,BD: KOLKATA TV
+http://tv.cloudcdn.me/live.ts?channelId=44151&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
+http://tv.cloudcdn.me/live.ts?channelId=44162&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Millenium tv
+http://tv.cloudcdn.me/live.ts?channelId=44161&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Mohona" tvg-logo="http://lifetvbd.xyz:8080/images/702250bb06082e249061bfe5a06c50b4.png" group-title="Bangladesh", Mohona
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="My Tv" tvg-logo="http://lifetvbd.xyz:8080/images/d9fc636c7979352b82ccd72a34820a92.png" group-title="Bangladesh", My Tv
+http://tv.cloudcdn.me/live.ts?channelId=106&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Movie bangla
+http://tv.cloudcdn.me/live.ts?channelId=44156&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Masranga tv
+http://tv.cloudcdn.me/live.ts?channelId=101&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 group-title="BANGLADESH" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
+http://tv.indigotv.me:80/live.ts?channelId=29220&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Net geo bangla
+http://tv.cloudcdn.me/live.ts?channelId=90229&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Nrb tv
+http://tv.cloudcdn.me/live.ts?channelId=74625&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Nd tv
+http://tv.cloudcdn.me/live.ts?channelId=90247&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,News 24 bangla
+http://tv.cloudcdn.me/live.ts?channelId=107&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Gaan bangla
+http://tv.cloudcdn.me/live.ts?channelId=97&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Nexus tv
+http://tv.cloudcdn.me/live.ts?channelId=90300&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
+http://tv.cloudcdn.me/live.ts?channelId=109&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Ntv europe
+http://tv.cloudcdn.me/live.ts?channelId=110&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Nandan tv
+http://tv.cloudcdn.me/live.ts?channelId=74623&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,News time kolkata
+http://tv.cloudcdn.me/live.ts?channelId=108&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,News18 bangla
+http://tv.cloudcdn.me/live.ts?channelId=47440&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,R plus news
+http://tv.cloudcdn.me/live.ts?channelId=22781&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Rtv
+http://tv.cloudcdn.me/live.ts?channelId=112&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Republic bangla
+http://tv.cloudcdn.me/live.ts?channelId=90231&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Rongeen tv
+http://tv.cloudcdn.me/live.ts?channelId=90235&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Rupasy bangla
+http://tv.cloudcdn.me/live.ts?channelId=113&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Riddi 
+http://tv.cloudcdn.me/live.ts?channelId=132820&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="SA TV" tvg-logo="http://lifetvbd.xyz:8080/images/f9c40d6742a28b71803599b070986f00.png" group-title="Bangladesh", SA TV
+http://tv.cloudcdn.me/live.ts?channelId=114&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Somoy
+http://tv.cloudcdn.me/live.ts?channelId=115&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Star Jalsha HD" tvg-logo="http://lifetvbd.xyz:8080/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="INDIA | Bangla", Star Jalsha HD
+http://tv.cloudcdn.me/live.ts?channelId=116592&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Jalsha Movie HD" tvg-logo="http://lifetvbd.xyz:8080/images/db0577986b04bb3f06c16ea40f222bab.png" group-title="INDIA | Bangla", Jalsha Movie HD
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Sun tv bangla
+http://tv.cloudcdn.me/live.ts?channelId=90228&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Sangeet bangla
+http://tv.cloudcdn.me/live.ts?channelId=38893&uid=13433&deviceMac=00:1A:79:00:97:A1
+#EXTINF:-1 ,Sonic bangla
+http://tv.cloudcdn.me/live.ts?channelId=90243&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="BD: SONY AATH FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1fd2c40.png" group-title="BENGALI" ,BD: SONY AATH FHD
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Tara tv
+http://tv.cloudcdn.me/live.ts?channelId=90248&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Tbn tb
+http://tv.cloudcdn.me/live.ts?channelId=90233&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Time tv usa
+http://tv.cloudcdn.me/live.ts?channelId=118&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Tribe tv
+http://tv.cloudcdn.me/live.ts?channelId=90240&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Tv9 bangla
+http://tv.cloudcdn.me/live.ts?channelId=90234&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,U bangla
+http://tv.cloudcdn.me/live.ts?channelId=90246&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Zee 24 ghonta
+http://tv.cloudcdn.me/live.ts?channelId=78&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="http://lifetvbd.xyz:8080/images/e0337d61585a56a0fcd24950cd18ecf3.png" group-title="INDIA | Bangla", Zee Bangla HD
+http://tv.cloudcdn.me/live.ts?channelId=119&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF: -1 tvg-name="Zee Bangla Cinema HD" tvg-logo="http://lifetvbd.xyz:8080/images/92ba1bdc0c08c5b5e879d2a884e3b427.png" group-title="INDIA | Bangla", Zee Bangla Cinema HD
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Assam Talas
+http://tv.cloudcdn.me/live.ts?channelId=132314&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Dd Asam 
+http://tv.cloudcdn.me/live.ts?channelId=132315&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Dy 365 
+http://tv.cloudcdn.me/live.ts?channelId=132316&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Jonkar
+http://tv.cloudcdn.me/live.ts?channelId=132318&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,News live 
+http://tv.cloudcdn.me/live.ts?channelId=132319&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Nk tv plus
+http://tv.cloudcdn.me/live.ts?channelId=132320&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Ne Bharat 24
+http://tv.cloudcdn.me/live.ts?channelId=132860&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,News 18 Asam
+http://tv.cloudcdn.me/live.ts?channelId=132328&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,News 18 Asam
+http://tv.cloudcdn.me/live.ts?channelId=132329&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Prage News
+http://tv.cloudcdn.me/live.ts?channelId=132321&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Prathama Khobor
+http://tv.cloudcdn.me/live.ts?channelId=132322&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Pratidin News
+http://tv.cloudcdn.me/live.ts?channelId=132327&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Ramdhenu
+http://tv.cloudcdn.me/live.ts?channelId=132323&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Rang
+http://tv.cloudcdn.me/live.ts?channelId=132324&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Zodika
+http://tv.cloudcdn.me/live.ts?channelId=132459&uid=7133&deviceMac=00:1A:79:4A:02:91
+
+
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBM3igqM6UvBNQ-Aws30Ovca4JAIl25NiOwYonTStjMg&s",R bangla Tv
@@ -7965,6 +8239,10 @@ https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
 https://ranacable.duckdns.org/AloTv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-07_44_34-PM-1-200x300.png",B Prime Bangla
 https://ranacable.duckdns.org/Bprimebangla/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNe8OlKS40TMuhCALqSDvjNmHvspW8VDmpltAzcgFLg&s",Montel News
+https://ranacable.duckdns.org/MontelNews/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4F6eDLkmHlpRCUXaecnQ8_AAEIKGWhFKKnA&s",Sonar Bangla
+https://stream.ottlive.co.in/sonarbangla/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://tulnit.com/live/rana-cable-music/",Rana Eventz Music
 https://ranacable.duckdns.org/RanaCableMusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YqCZnRlIAJ7evnHkbJ6h6f5hl7g_a7chgW2RwRpm1w&s=10",Kolkata TV
@@ -8549,14 +8827,12 @@ http://115.187.41.216:8080/hls/sanandatv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV-768x768.jpg",Ash Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ashtv.stream/tracks-v1a1/mono.m3u8
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ashtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png",CHANNEL 24 HD
 https://ch24cdn.ncare.live/channel24/ch24office/index.m3u8
 #EXTINF:-0 tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw=w600-h300-pc0xffffff-pd",TBN 24 
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/05/eurobangla.jpg",Euro Bagla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eurobangla.stream/tracks-v1a1/mono.m3u8
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/eurobangla.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg",Alpona TV 
 https://mtlivestream.com/hls-mtlive/aplive/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH"  tvg-logo="https://www.lyngsat.com/logo/tv/mm/matribhumi-tv.png",Matribhumi-Tv
@@ -12219,35 +12495,35 @@ http://defaultgen.com:5050/cardoodette@yahoo.com/N2tCnJmn7N/682619
 http://defaultgen.com:5050/cardoodette@yahoo.com/N2tCnJmn7N/682706
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/433.ts
+http://fastshare1.com:80/live/25711345/late8airline/433.ts
 #EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/3808.ts
+http://fastshare1.com:80/live/25711345/late8airline/3808.ts
 #EXTINF:-1 tvg-id="ts905" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png" group-title="Hindi;Kids",ETV Bal Bharat
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/355286.ts
+http://fastshare1.com:80/live/25711345/late8airline/355286.ts
 #EXTINF:-1 group-title="Arab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png",Disney International HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/20925.ts
+http://fastshare1.com:80/live/25711345/late8airline/20925.ts
 #EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney 
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/19741.ts
+http://fastshare1.com:80/live/25711345/late8airline/19741.ts
 #EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s",Nick Bangla
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/205.ts
+http://fastshare1.com:80/live/25711345/late8airline/205.ts
 #EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7438.ts
+http://fastshare1.com:80/live/25711345/late8airline/7438.ts
 #EXTINF:-1 tvg-id="ts239" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Pogo
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7220.ts
+http://fastshare1.com:80/live/25711345/late8airline/7220.ts
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Telugu;Malayalam;Kannada;Hindi;Tamil;Animation;Kids;Cartoons",Discovery Kids
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/208.ts
+http://fastshare1.com:80/live/25711345/late8airline/208.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS" group-title="",Cartoon Network HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/8.m3u8
+http://fastshare1.com:80/live/25711345/late8airline/8.ts
 #EXTINF:-1 tvg-id="ts587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="English;Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Super Hungama
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/66162.ts
+http://fastshare1.com:80/live/25711345/late8airline/66162.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8HES2tUB4reIXMjiMJk-z9EBknI5aazdcw&s",Hungama tv
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/18456.ts
+http://fastshare1.com:80/live/25711345/late8airline/18456.ts
 #EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtDovzBn80q0LPKyV_vo9ISpHa5uNBDBmzA&s",Sonic Bangla
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/207.ts
-#EXTINF:-1 tvg-id="ts965" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png" group-title="Hindi;Entertainment",Manoranjan Grand
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/2433.ts
+http://fastshare1.com:80/live/25711345/late8airline/207.ts
+#EXTINF:-1 tvg-id="ts965" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.coffmageContent-67799-kx7m7rhc-m2.png" group-title="Hindi;Entertainment",Manoranjan Grand
+http://fastshare1.com:80/live/25711345/late8airline/2433.ts
 #EXTINF: -1 tvg-name="Kids Zon" group-title="Indian Regional", Kids Zon
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/4084.ts
+http://fastshare1.com:80/live/25711345/late8airline/4084.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7ZxGBaQF0GiQwTSGqaax2Q5v2MWnfLuyKeMLMR0hYpTiQL7F_YWN8xA&s=10",Sinchen
 https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/147724.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxTzYJerGSc9D06JEt-xGbB8-f5Kwp1ITCq3il0JQjPRf3leqJ6rsEezsy&s=10",Perman
@@ -12268,202 +12544,283 @@ https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/147750.ts
 https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/147751.ts
 #EXTINF:-1,Kids:  Cartoon Network Arabia HD
 https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319402.ts
-#EXTINF:-1,Kids: Toyor Aljana
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319403.ts
-#EXTINF:-1,Kids:  SpaceToon TV
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319404.ts
-#EXTINF:-1,Kids: Rotana Kids HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319405.ts
-#EXTINF:-1,Kids:  Karamesh
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319406.ts
-#EXTINF:-1,Kids:  OSN Kids Zone HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319407.ts
-#EXTINF:-1,Kids | Ar: NickToons HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319408.ts
-#EXTINF:-1,Kids: OSN Nickelodeon HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319409.ts
-#EXTINF:-1,Kids: Baby TV
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319410.ts
-#EXTINF:-1,Kids:  HodHod  TV
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319411.ts
-#EXTINF:-1,Kids:  Taha TV
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319412.ts
-#EXTINF:-1,Kids: Majid Kids TV
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319413.ts
-#EXTINF:-1,Kids | Ar: Shehab TV
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319414.ts
-#EXTINF:-1,Kids:  Atfal & Mawaheb
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319415.ts
-#EXTINF:-1,Kids | En: NickToons HD
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/319416.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="IN: NICK (4K)." tvg-id="nickhdplus.in" group-title="KIDS",IN: NICK (4K).
+http://fastshare1.com:80/live/25711345/late8airline/98880.ts
+#EXTINF:-1 tvg-name="KIDS: SUPER HUNGAMA" tvg-id="hungama.in" group-title="KIDS",KIDS: SUPER HUNGAMA
+http://fastshare1.com:80/live/25711345/late8airline/66162.ts
+#EXTINF:-1 tvg-name="TAMIL: NICK" tvg-id="nick.in" group-title="KIDS",TAMIL: NICK
+http://fastshare1.com:80/live/25711345/late8airline/66163.ts
+#EXTINF:-1 tvg-name="TAMIL: DISCOVERY KIDS" tvg-id="discoverykids.in" group-title="KIDS",TAMIL: DISCOVERY KIDS
+http://fastshare1.com:80/live/25711345/late8airline/66164.ts
+#EXTINF:-1 tvg-name="TAMIL: POGO" tvg-id="pogo.in" group-title="KIDS",TAMIL: POGO
+http://fastshare1.com:80/live/25711345/late8airline/66165.ts
+#EXTINF:-1 tvg-name="UK: Cbeebies" group-title="KIDS",UK: Cbeebies
+http://fastshare1.com:80/live/25711345/late8airline/26.ts
+#EXTINF:-1 tvg-name="USA: Nickelodeon" group-title="KIDS",USA: Nickelodeon
+http://fastshare1.com:80/live/25711345/late8airline/37.ts
+#EXTINF:-1 tvg-name="USA: NICK JR" group-title="KIDS",USA: NICK JR
+http://fastshare1.com:80/live/25711345/late8airline/38.ts
+#EXTINF:-1 tvg-name="USA: Boomerang" group-title="KIDS",USA: Boomerang
+http://fastshare1.com:80/live/25711345/late8airline/45.ts
+#EXTINF:-1 tvg-name="USA: DISNEY JR HD" group-title="KIDS",USA: DISNEY JR HD
+http://fastshare1.com:80/live/25711345/late8airline/49.ts
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" tvg-name="Malayalam: Nicklodean Sonic" group-title="KIDS",Malayalam: Nicklodean Sonic
+http://fastshare1.com:80/live/25711345/late8airline/127762.ts
+#EXTINF:-1 tvg-name="IN: Sony_Yay_Hindi" group-title="KIDS",IN: Sony_Yay_Hindi
+http://fastshare1.com:80/live/25711345/late8airline/204.ts
+#EXTINF:-1 tvg-name="IN:  Nick_Hindi" tvg-id="nick.in" group-title="KIDS",IN:  Nick_Hindi
+http://fastshare1.com:80/live/25711345/late8airline/205.ts
+#EXTINF:-1 tvg-name="IN: Nick_Junior" tvg-id="nickjrin.in" group-title="KIDS",IN: Nick_Junior
+http://fastshare1.com:80/live/25711345/late8airline/206.ts
+#EXTINF:-1 tvg-name="IN: sonic_Hindi" group-title="KIDS",IN: sonic_Hindi
+http://fastshare1.com:80/live/25711345/late8airline/207.ts
+#EXTINF:-1 tvg-name="IN: Discovery_Kids_1" tvg-id="discoverykids.in" group-title="KIDS",IN: Discovery_Kids_1
+http://fastshare1.com:80/live/25711345/late8airline/208.ts
+#EXTINF:-1 tvg-name="UK:Nickelodeon" group-title="KIDS",UK:Nickelodeon
+http://fastshare1.com:80/live/25711345/late8airline/269.ts
+#EXTINF:-1 tvg-name="UK : NICK JR" group-title="KIDS",UK : NICK JR
+http://fastshare1.com:80/live/25711345/late8airline/561.ts
+#EXTINF:-1 tvg-name="US: Cartoon Network" group-title="KIDS",US: Cartoon Network
+http://fastshare1.com:80/live/25711345/late8airline/951.ts
+#EXTINF:-1 tvg-name="UK : CARTOON NETWORK HD" group-title="KIDS",UK : CARTOON NETWORK HD
+http://fastshare1.com:80/live/25711345/late8airline/1066.ts
+#EXTINF:-1 tvg-name="UK : BOOMERANG" group-title="KIDS",UK : BOOMERANG
+http://fastshare1.com:80/live/25711345/late8airline/1067.ts
+#EXTINF:-1 tvg-name="UK : DISNEY JR" group-title="KIDS",UK : DISNEY JR
+http://fastshare1.com:80/live/25711345/late8airline/1068.ts
+#EXTINF:-1 tvg-name="UK : BABY TV" group-title="KIDS",UK : BABY TV
+http://fastshare1.com:80/live/25711345/late8airline/1069.ts
+#EXTINF:-1 tvg-name="IN : CARTOON NETWORK HD" tvg-id="cartoonnetworkhd.in" group-title="KIDS",IN : CARTOON NETWORK HD
+http://fastshare1.com:80/live/25711345/late8airline/8.ts
+#EXTINF:-1 tvg-name="PT : Baby TV" group-title="KIDS",PT : Baby TV
+http://fastshare1.com:80/live/25711345/late8airline/1653.ts
+#EXTINF:-1 tvg-name="IN: Pogo_Hindi" tvg-id="pogo.in" group-title="KIDS",IN: Pogo_Hindi
+http://fastshare1.com:80/live/25711345/late8airline/1918.ts
+#EXTINF:-1 tvg-name="IN: POGO (ENGLISH)" group-title="KIDS",IN: POGO (ENGLISH)
+http://fastshare1.com:80/live/25711345/late8airline/7220.ts
+#EXTINF:-1 tvg-name="IN: Nick+ FHD" tvg-id="nickhdplus.in" group-title="KIDS",IN: Nick+ FHD
+http://fastshare1.com:80/live/25711345/late8airline/7438.ts
+#EXTINF:-1 tvg-name="Kids: PAW Patrol FHD" group-title="KIDS",Kids: PAW Patrol FHD
+http://fastshare1.com:80/live/25711345/late8airline/18455.ts
+#EXTINF:-1 tvg-name="Kids: Hungama" group-title="KIDS",Kids: Hungama
+http://fastshare1.com:80/live/25711345/late8airline/18456.ts
+#EXTINF:-1 tvg-name="Kids: Nick Pakistan" group-title="KIDS",Kids: Nick Pakistan
+http://fastshare1.com:80/live/25711345/late8airline/18457.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="IN: Disney Channel (4K)" tvg-id="disneychannel.in" group-title="KIDS",IN: Disney Channel (4K)
+http://fastshare1.com:80/live/25711345/late8airline/19741.ts
+#EXTINF:-1 tvg-name="IN: Disney Junior" group-title="KIDS",IN: Disney Junior
+http://fastshare1.com:80/live/25711345/late8airline/35713.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="IN: DISNEY INTERNATIONAL (4K)" tvg-id="disneyinternationalhd.in" group-title="KIDS",IN: DISNEY INTERNATIONAL (4K)
+http://fastshare1.com:80/live/25711345/late8airline/20925.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="IN: CN HD + (4K)" tvg-id="cartoonnetworkhd.in" group-title="KIDS",IN: CN HD + (4K)
+http://fastshare1.com:80/live/25711345/late8airline/117177.ts
+#EXTINF:-1 tvg-name="UK : TINY POP" tvg-id="4seven.uk" group-title="KIDS",UK : TINY POP
+http://fastshare1.com:80/live/25711345/late8airline/144123.ts
+#EXTINF:-1 tvg-name="KIDS-SPIDER MAN 2008" group-title="KIDS",KIDS-SPIDER MAN 2008
+http://fastshare1.com:80/live/25711345/late8airline/147720.ts
+#EXTINF:-1 tvg-name="KIDS-SPIDER MAN 1981" group-title="KIDS",KIDS-SPIDER MAN 1981
+http://fastshare1.com:80/live/25711345/late8airline/147721.ts
+#EXTINF:-1 tvg-name="KIDS-SPIDER MAN 1967" group-title="KIDS",KIDS-SPIDER MAN 1967
+http://fastshare1.com:80/live/25711345/late8airline/147722.ts
+#EXTINF:-1 tvg-name="KIDS-SLUGTERRA" group-title="KIDS",KIDS-SLUGTERRA
+http://fastshare1.com:80/live/25711345/late8airline/147723.ts
+#EXTINF:-1 tvg-name="KIDS-SHINCHAN" group-title="KIDS",KIDS-SHINCHAN
+http://fastshare1.com:80/live/25711345/late8airline/147724.ts
+#EXTINF:-1 tvg-name="KIDS-SHAPE RHYMES" group-title="KIDS",KIDS-SHAPE RHYMES
+http://fastshare1.com:80/live/25711345/late8airline/147725.ts
+#EXTINF:-1 tvg-name="KIDS-SAMURAI JACK" group-title="KIDS",KIDS-SAMURAI JACK
+http://fastshare1.com:80/live/25711345/late8airline/147726.ts
+#EXTINF:-1 tvg-name="KIDS-POPEYE THE SAILOR MAN" group-title="KIDS",KIDS-POPEYE THE SAILOR MAN
+http://fastshare1.com:80/live/25711345/late8airline/147727.ts
+#EXTINF:-1 tvg-name="KIDS-PJ MASK" group-title="KIDS",KIDS-PJ MASK
+http://fastshare1.com:80/live/25711345/late8airline/147728.ts
+#EXTINF:-1 tvg-name="KIDS-PEPPA PIG 2" group-title="KIDS",KIDS-PEPPA PIG 2
+http://fastshare1.com:80/live/25711345/late8airline/147729.ts
+#EXTINF:-1 tvg-name="KIDS-PEPPA PIG" group-title="KIDS",KIDS-PEPPA PIG
+http://fastshare1.com:80/live/25711345/late8airline/147730.ts
+#EXTINF:-1 tvg-name="KIDS-FINGER FAMILY HD 3" group-title="KIDS",KIDS-FINGER FAMILY HD 3
+http://fastshare1.com:80/live/25711345/late8airline/147731.ts
+#EXTINF:-1 tvg-name="KIDS-NURSERY RHYMES HD 4" group-title="KIDS",KIDS-NURSERY RHYMES HD 4
+http://fastshare1.com:80/live/25711345/late8airline/147732.ts
+#EXTINF:-1 tvg-name="KIDS-PAW PETROL UNBOXING TOY" group-title="KIDS",KIDS-PAW PETROL UNBOXING TOY
+http://fastshare1.com:80/live/25711345/late8airline/147733.ts
+#EXTINF:-1 tvg-name="KIDS-PAW PETROL TOY STORY" group-title="KIDS",KIDS-PAW PETROL TOY STORY
+http://fastshare1.com:80/live/25711345/late8airline/147734.ts
+#EXTINF:-1 tvg-name="KIDS-PAW PETROL" group-title="KIDS",KIDS-PAW PETROL
+http://fastshare1.com:80/live/25711345/late8airline/147735.ts
+#EXTINF:-1 tvg-name="KIDS-PERMAN" group-title="KIDS",KIDS-PERMAN
+http://fastshare1.com:80/live/25711345/late8airline/147736.ts
+#EXTINF:-1 tvg-name="KIDS-LONNEY TUNES PLATINUM COLLECTION" group-title="KIDS",KIDS-LONNEY TUNES PLATINUM COLLECTION
+http://fastshare1.com:80/live/25711345/late8airline/147737.ts
+#EXTINF:-1 tvg-name="KIDS-KUNG FU PANDA" group-title="KIDS",KIDS-KUNG FU PANDA
+http://fastshare1.com:80/live/25711345/late8airline/147738.ts
+#EXTINF:-1 tvg-name="KIDS-GENERTOX REX" group-title="KIDS",KIDS-GENERTOX REX
+http://fastshare1.com:80/live/25711345/late8airline/147740.ts
+#EXTINF:-1 tvg-name="KIDS-FRUITS VEGETABLE RHYMES" group-title="KIDS",KIDS-FRUITS VEGETABLE RHYMES
+http://fastshare1.com:80/live/25711345/late8airline/147741.ts
+#EXTINF:-1 tvg-name="KIDS-FIVE LITTLE RHYMES" group-title="KIDS",KIDS-FIVE LITTLE RHYMES
+http://fastshare1.com:80/live/25711345/late8airline/147742.ts
+#EXTINF:-1 tvg-name="KIDS-BEN 10 ULTIMATE ALIEN" group-title="KIDS",KIDS-BEN 10 ULTIMATE ALIEN
+http://fastshare1.com:80/live/25711345/late8airline/147743.ts
+#EXTINF:-1 tvg-name="KIDS-DUCK TALES HD" group-title="KIDS",KIDS-DUCK TALES HD
+http://fastshare1.com:80/live/25711345/late8airline/147744.ts
+#EXTINF:-1 tvg-name="KIDS-DUCK TALES CLASSIC" group-title="KIDS",KIDS-DUCK TALES CLASSIC
+http://fastshare1.com:80/live/25711345/late8airline/147745.ts
+#EXTINF:-1 tvg-name="KIDS-DORAEMON" group-title="KIDS",KIDS-DORAEMON
+http://fastshare1.com:80/live/25711345/late8airline/147746.ts
+#EXTINF:-1 tvg-name="KIDS-COLOUR RHYMES HD" group-title="KIDS",KIDS-COLOUR RHYMES HD
+http://fastshare1.com:80/live/25711345/late8airline/147747.ts
+#EXTINF:-1 tvg-name="KIDS-CHRISTMAS RHYMES" group-title="KIDS",KIDS-CHRISTMAS RHYMES
+http://fastshare1.com:80/live/25711345/late8airline/147748.ts
+#EXTINF:-1 tvg-name="KIDS-BEN 10 OMNIVERSE" group-title="KIDS",KIDS-BEN 10 OMNIVERSE
+http://fastshare1.com:80/live/25711345/late8airline/147749.ts
+#EXTINF:-1 tvg-name="KIDS-BEN TEN CLASSIC" group-title="KIDS",KIDS-BEN TEN CLASSIC
+http://fastshare1.com:80/live/25711345/late8airline/147750.ts
+#EXTINF:-1 tvg-name="KIDS-BEN 10 ALIEN FORCE HD" group-title="KIDS",KIDS-BEN 10 ALIEN FORCE HD
+http://fastshare1.com:80/live/25711345/late8airline/147751.ts
+#EXTINF:-1 tvg-name="KIDS-ART-FUN" group-title="KIDS",KIDS-ART-FUN
+http://fastshare1.com:80/live/25711345/late8airline/147752.ts
+#EXTINF:-1 tvg-name="KIDS-AVATAR THE LAST AIRBENDER HD" group-title="KIDS",KIDS-AVATAR THE LAST AIRBENDER HD
+http://fastshare1.com:80/live/25711345/late8airline/147753.ts
+#EXTINF:-1 tvg-name="KIDS-ANIMAL RHMYES" group-title="KIDS",KIDS-ANIMAL RHMYES
+http://fastshare1.com:80/live/25711345/late8airline/147754.ts
+#EXTINF:-1 tvg-name="KIDS-ANGERY BIRDS TOONS HD" group-title="KIDS",KIDS-ANGERY BIRDS TOONS HD
+http://fastshare1.com:80/live/25711345/late8airline/147755.ts
+#EXTINF:-1 tvg-name="KIDS-ABCD RHYMES HD 2" group-title="KIDS",KIDS-ABCD RHYMES HD 2
+http://fastshare1.com:80/live/25711345/late8airline/147756.ts
+#EXTINF:-1 tvg-name="KIDS-ABBY HATCHER" group-title="KIDS",KIDS-ABBY HATCHER
+http://fastshare1.com:80/live/25711345/late8airline/147757.ts
+#EXTINF:-1 tvg-name="KIDS-NURSER RHYMES HD 4" group-title="KIDS",KIDS-NURSER RHYMES HD 4
+http://fastshare1.com:80/live/25711345/late8airline/147758.ts
+#EXTINF:-1 tvg-name="KIDS-STORY" group-title="KIDS",KIDS-STORY
+http://fastshare1.com:80/live/25711345/late8airline/147759.ts
+#EXTINF:-1 tvg-name="KIDS-BABY TOOT" group-title="KIDS",KIDS-BABY TOOT
+http://fastshare1.com:80/live/25711345/late8airline/147760.ts
+#EXTINF:-1 tvg-name="KIDS-BIRTHDAY SONGS" group-title="KIDS",KIDS-BIRTHDAY SONGS
+http://fastshare1.com:80/live/25711345/late8airline/147761.ts
+#EXTINF:-1 tvg-name="KIDS-HICKORY DICKORY DOCK" group-title="KIDS",KIDS-HICKORY DICKORY DOCK
+http://fastshare1.com:80/live/25711345/late8airline/147762.ts
+#EXTINF:-1 tvg-name="KIDS-BOOM BUDDIES RHYMES HD" group-title="KIDS",KIDS-BOOM BUDDIES RHYMES HD
+http://fastshare1.com:80/live/25711345/late8airline/147763.ts
+#EXTINF:-1 tvg-name="KIDS-BABAY BAO PANDA HD" group-title="KIDS",KIDS-BABAY BAO PANDA HD
+http://fastshare1.com:80/live/25711345/late8airline/147769.ts
+#EXTINF:-1 tvg-name="KIDS-BABAY RHYMES HD" group-title="KIDS",KIDS-BABAY RHYMES HD
+http://fastshare1.com:80/live/25711345/late8airline/147770.ts
+#EXTINF:-1 tvg-name="KIDS-ANIMAL RHYMES HD" group-title="KIDS",KIDS-ANIMAL RHYMES HD
+http://fastshare1.com:80/live/25711345/late8airline/147771.ts
+#EXTINF:-1 tvg-name="KIDS-A B C D RHYMES HD" group-title="KIDS",KIDS-A B C D RHYMES HD
+http://fastshare1.com:80/live/25711345/late8airline/147772.ts
+#EXTINF:-1 tvg-name="KIDS-NURSERY RHYMES HD 3" group-title="KIDS",KIDS-NURSERY RHYMES HD 3
+http://fastshare1.com:80/live/25711345/late8airline/147773.ts
+#EXTINF:-1 tvg-name="KIDS-NUMBER RHMYES HD" group-title="KIDS",KIDS-NUMBER RHMYES HD
+http://fastshare1.com:80/live/25711345/late8airline/147774.ts
+#EXTINF:-1 tvg-name="KIDS-BOB THE TRAIN HD" group-title="KIDS",KIDS-BOB THE TRAIN HD
+http://fastshare1.com:80/live/25711345/late8airline/147775.ts
+#EXTINF:-1 tvg-name="KIDS-NURSERY RHYMES HD 2" group-title="KIDS",KIDS-NURSERY RHYMES HD 2
+http://fastshare1.com:80/live/25711345/late8airline/147776.ts
+#EXTINF:-1 tvg-name="KIDS-MR BEAN HD" group-title="KIDS",KIDS-MR BEAN HD
+http://fastshare1.com:80/live/25711345/late8airline/147777.ts
+#EXTINF:-1 tvg-name="KIDS-RHYMES HD" group-title="KIDS",KIDS-RHYMES HD
+http://fastshare1.com:80/live/25711345/late8airline/147778.ts
+#EXTINF:-1 tvg-name="KIDS-MASH AND BEAR HD" group-title="KIDS",KIDS-MASH AND BEAR HD
+http://fastshare1.com:80/live/25711345/late8airline/147779.ts
+#EXTINF:-1 tvg-name="KIDS-CHU CHU TV HD" group-title="KIDS",KIDS-CHU CHU TV HD
+http://fastshare1.com:80/live/25711345/late8airline/147780.ts
+#EXTINF:-1 tvg-name="KIDS-FINGER FAMILY HD" group-title="KIDS",KIDS-FINGER FAMILY HD
+http://fastshare1.com:80/live/25711345/late8airline/147781.ts
+#EXTINF:-1 tvg-name="IN: DISNEY JUNIOR (MULTI AUDIO)" group-title="KIDS",IN: DISNEY JUNIOR (MULTI AUDIO)
+http://fastshare1.com:80/live/25711345/late8airline/207676.ts
+#EXTINF:-1 tvg-name="Kids:  Cartoon Network Arabia HD" group-title="KIDS",Kids:  Cartoon Network Arabia HD
+http://fastshare1.com:80/live/25711345/late8airline/319402.ts
+#EXTINF:-1 tvg-name="Kids: Toyor Aljana" group-title="KIDS",Kids: Toyor Aljana
+http://fastshare1.com:80/live/25711345/late8airline/319403.ts
+#EXTINF:-1 tvg-name="Kids:  SpaceToon TV" group-title="KIDS",Kids:  SpaceToon TV
+http://fastshare1.com:80/live/25711345/late8airline/319404.ts
+#EXTINF:-1 tvg-name="Kids: Rotana Kids HD" group-title="KIDS",Kids: Rotana Kids HD
+http://fastshare1.com:80/live/25711345/late8airline/319405.ts
+#EXTINF:-1 tvg-name="Kids:  Karamesh" group-title="KIDS",Kids:  Karamesh
+http://fastshare1.com:80/live/25711345/late8airline/319406.ts
+#EXTINF:-1 tvg-name="Kids:  OSN Kids Zone HD" group-title="KIDS",Kids:  OSN Kids Zone HD
+http://fastshare1.com:80/live/25711345/late8airline/319407.ts
+#EXTINF:-1 tvg-name="Kids | Ar: NickToons HD" group-title="KIDS",Kids | Ar: NickToons HD
+http://fastshare1.com:80/live/25711345/late8airline/319408.ts
+#EXTINF:-1 tvg-name="Kids: OSN Nickelodeon HD" group-title="KIDS",Kids: OSN Nickelodeon HD
+http://fastshare1.com:80/live/25711345/late8airline/319409.ts
+#EXTINF:-1 tvg-name="Kids: Baby TV" group-title="KIDS",Kids: Baby TV
+http://fastshare1.com:80/live/25711345/late8airline/319410.ts
+#EXTINF:-1 tvg-name="Kids:  HodHod  TV" group-title="KIDS",Kids:  HodHod  TV
+http://fastshare1.com:80/live/25711345/late8airline/319411.ts
+#EXTINF:-1 tvg-name="Kids:  Taha TV" group-title="KIDS",Kids:  Taha TVEXTINF:-1 tvg-name="KIDS-HICKORY DICKORY DOCK" group-title="KIDS",KIDS-HICKORY DICKORY DOCK
+http://fastshare1.com:80/live/25711345/late8airline/319412.ts
+#EXTINF:-1 tvg-name="Kids: Majid Kids TV" group-title="KIDS",Kids: Majid Kids TV
+http://fastshare1.com:80/live/25711345/late8airline/319413.ts
+#EXTINF:-1 tvg-name="Kids:  Atfal & Mawaheb" group-title="KIDS",Kids:  Atfal & Mawaheb
+http://fastshare1.com:80/live/25711345/late8airline/319415.ts
+#EXTINF:-1 tvg-name="Kids | En: NickToons HD" group-title="KIDS",Kids | En: NickToons HD
+http://fastshare1.com:80/live/25711345/late8airline/319416.ts
+#EXTINF:-1 tvg-name="KIDS: ETV Bal Bharat HD" group-title="KIDS",KIDS: ETV Bal Bharat HD
+http://fastshare1.com:80/live/25711345/late8airline/355286.ts
 
-#EXTINF:-1, IN: Pogo_Hindi
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/1918.ts
-#EXTINF:-1,IN: POGO (ENGLISH)
-https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/7220.ts
-#EXTINF:-1,IN: Disney Channel (4K)
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/19741.ts
-#EXTINF:-1,Kids: Hungama
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/18456.ts
-#EXTINF:-1,KIDS: SUPER HUNGAMA
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66162.ts
-#EXTINF:-1,IN:  Nick_Hindi
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/205.ts
-#EXTINF:-1,IN: Nick+ FHD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/7438.ts
-#EXTINF:-1,IN: NICK (4K).
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98880.ts
-#EXTINF:-1,IN: Nick_Junior
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/206.ts
-#EXTINF:-1,IN: sonic_Hindi
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/207.ts
-#EXTINF:-1,IN: Discovery_Kids_1
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/208.ts
-#EXTINF:-1,IN : CARTOON NETWORK HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/8.ts
-#EXTINF:-1,KIDS-SPIDER MAN 2008
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147720.ts
-#EXTINF:-1,KIDS-SPIDER MAN 1981
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147721.ts
-#EXTINF:-1,KIDS-SPIDER MAN 1967
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147722.ts
-#EXTINF:-1,KIDS-SLUGTERRA
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147723.ts
+#EXTINF:-1 tvg-id="" tvg-name="KID: Baby TV" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/aa7be678.jpg" group-title="KIDS" ,KID: Baby TV
+http://tv.cloudcdn.me/live.ts?channelId=242&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Boomerang" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/a5641735.jpg" group-title="KIDS" ,KID: Boomerang
+http://tv.cloudcdn.me/live.ts?channelId=243&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Cartoonito" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/cartoonito.jpg" group-title="KIDS" ,KID: Cartoonito
+http://tv.cloudcdn.me/live.ts?channelId=247&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Cartoon Network Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg" group-title="KIDS" ,KID: Cartoon Network Hindi
+http://tv.cloudcdn.me/live.ts?channelId=244&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Cartoon Network UK FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg" group-title="KIDS" ,KID: Cartoon Network UK FHD
+http://tv.cloudcdn.me/live.ts?channelId=245&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Cartoon Network USA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg" group-title="KIDS" ,KID: Cartoon Network USA FHD
+http://tv.cloudcdn.me/live.ts?channelId=246&uid=7133&deviceMac=00:1A:79:4A:02:91
 
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147724.ts
-#EXTINF:-1,KIDS-SHAPE RHYMES
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147725.ts
-#EXTINF:-1,KIDS-SAMURAI JACK
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147726.ts
-#EXTINF:-1,KIDS-POPEYE THE SAILOR MAN
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147727.ts
-#EXTINF:-1,KIDS-PJ MASK
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147728.ts
-#EXTINF:-1,KIDS-PEPPA PIG 2
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147729.ts
-#EXTINF:-1,KIDS-PEPPA PIG
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147730.ts
-
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147731.ts
-#EXTINF:-1,KIDS-NURSERY RHYMES HD 4
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147732.ts
-
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147733.ts
-#EXTINF:-1,KIDS-PAW PETROL TOY STORY
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147734.ts
-#EXTINF:-1,KIDS-PAW PETROL
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147735.ts
-#EXTINF:-1,KIDS-PERMAN
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147736.ts
-#EXTINF:-1,KIDS-KUNG FU PANDA
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147738.ts
-#EXTINF:-1,KIDS-GENERTOX REX
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147740.ts
-#EXTINF:-1,KIDS-FRUITS VEGETABLE RHYMES
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147741.ts
-#EXTINF:-1,KIDS-FIVE LITTLE RHYMES
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147742.ts
-#EXTINF:-1,KIDS-BEN 10 ULTIMATE ALIEN
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147743.ts
-#EXTINF:-1,KIDS-DUCK TALES HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147744.ts
-#EXTINF:-1,KIDS-DUCK TALES CLASSIC
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147745.ts
-#EXTINF:-1,KIDS-DORAEMON
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147746.ts
-#EXTINF:-1,KIDS-COLOUR RHYMES HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147747.ts
-#EXTINF:-1,KIDS-CHRISTMAS RHYMES
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147748.ts
-#EXTINF:-1,KIDS-BEN 10 OMNIVERSE
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147749.ts
-#EXTINF:-1,KIDS-BEN TEN CLASSIC
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147750.ts
-#EXTINF:-1,KIDS-BEN 10 ALIEN FORCE HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147751.ts
-#EXTINF:-1,KIDS-ART-FUN
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight147752.ts
-#EXTINF:-1,KIDS-AVATAR THE LAST AIRBENDER HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147753.ts
-#EXTINF:-1,KIDS-ANIMAL RHMYES
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147754.ts
-#EXTINF:-1,KIDS-ANGERY BIRDS TOONS HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147755.ts
-#EXTINF:-1,KIDS-ABCD RHYMES HD 2
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147756.ts
-#EXTINF:-1,KIDS-ABBY HATCHER
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147757.ts
-#EXTINF:-1,KIDS-NURSER RHYMES HD 4
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147758.ts
-#EXTINF:-1,KIDS-STORY
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147759.ts
-#EXTINF:-1,KIDS-BABY TOOT
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147760.ts
-#EXTINF:-1,KIDS-BIRTHDAY SONGS
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147761.ts
-#EXTINF:-1,KIDS-HICKORY DICKORY DOCK
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147762.ts
-#EXTINF:-1,KIDS-BOOM BUDDIES RHYMES HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147763.ts
-#EXTINF:-1,KIDS-BABAY BAO PANDA HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147769.ts
-#EXTINF:-1,KIDS-BABAY RHYMES HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147770.ts
-#EXTINF:-1,KIDS-ANIMAL RHYMES HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147771.ts
-#EXTINF:-1,KIDS-A B C D RHYMES HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147772.ts
-#EXTINF:-1,KIDS-NURSERY RHYMES HD 3
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147773.ts
-#EXTINF:-1,KIDS-NUMBER RHMYES HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147774.ts
-#EXTINF:-1,KIDS-NURSERY RHYMES HD 2
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147776.ts
-#EXTINF:-1,KIDS-MR BEAN HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147777.ts
-#EXTINF:-1,KIDS-RHYMES HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147778.ts
-#EXTINF:-1,KIDS-MASH AND BEAR HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147779.ts
-#EXTINF:-1,KIDS-CHU CHU TV HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147780.ts
-#EXTINF:-1,Kids:  Cartoon Network Arabia HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319402.ts
-#EXTINF:-1,Kids: Toyor Aljana
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319403.ts
-#EXTINF:-1,Kids:  SpaceToon TV
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319404.ts
-#EXTINF:-1,Kids: Rotana Kids HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319405.ts
-#EXTINF:-1,Kids:  Karamesh
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319406.ts
-#EXTINF:-1,Kids:  OSN Kids Zone HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319407.ts
-#EXTINF:-1,Kids | Ar: NickToons HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319408.ts
-#EXTINF:-1,Kids: OSN Nickelodeon HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319409.ts
-#EXTINF:-1,Kids: Baby TV
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319410.ts
-#EXTINF:-1,Kids:  HodHod  TV
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319411.ts
-#EXTINF:-1,Kids:  Taha TV
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319412.ts
-#EXTINF:-1,Kids: Majid Kids TV
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319413.ts
-#EXTINF:-1,Kids | Ar: Shehab TV
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319414.ts
-#EXTINF:-1,Kids:  Atfal & Mawaheb
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319415.ts
-#EXTINF:-1,Kids | En: NickToons HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319416.ts
-#EXTINF:-1,KIDS: ETV Bal Bharat SD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
-#EXTINF:-1,PRESS TV (Iran)
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/255847.ts
-
-
+#EXTINF:-1 tvg-id="" tvg-name="KID: Disney Channel FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/9ce4f63e" group-title="KIDS" ,KID: Disney Channel FHD
+http://tv.cloudcdn.me/live.ts?channelId=249&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Disney Junior FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/c1280ca4" group-title="KIDS" ,KID: Disney Junior FHD
+http://tv.cloudcdn.me/live.ts?channelId=250&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Disney XD FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/4fc2a98b" group-title="KIDS" ,KID: Disney XD FHD
+http://tv.cloudcdn.me/live.ts?channelId=251&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Hungama
+http://tv.cloudcdn.me/live.ts?channelId=132887&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: KIDS TV" tvg-link="" tvg-logo="" group-title="KIDS" ,KID: KIDS TV
+http://tv.cloudcdn.me/live.ts?channelId=123913&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: KIDS TV NURSERY RHYMES AND BABY SONGS" tvg-link="" tvg-logo="" group-title="KIDS" ,KID: KIDS TV NURSERY RHYMES AND BABY SONGS
+http://tv.cloudcdn.me/live.ts?channelId=123914&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Nickelodeon FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/a807ee7a" group-title="KIDS" ,KID: Nickelodeon FHD
+http://tv.cloudcdn.me/live.ts?channelId=254&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Nick Jr. FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/dc96b2fb" group-title="KIDS" ,KID: Nick Jr. FHD
+http://tv.cloudcdn.me/live.ts?channelId=252&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Nick Jr. too" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/8c0b7abf" group-title="KIDS" ,KID: Nick Jr. too
+http://tv.cloudcdn.me/live.ts?channelId=253&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: NickToons" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/bbb73c52.jpg" group-title="KIDS" ,KID: NickToons
+http://tv.cloudcdn.me/live.ts?channelId=255&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Pogo" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/POGOHINDI.png" group-title="KIDS" ,KID: Pogo
+http://tv.cloudcdn.me/live.ts?channelId=256&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Pop" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/d722a848" group-title="KIDS" ,KID: Pop
+http://tv.cloudcdn.me/live.ts?channelId=257&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: POP MAX+1" tvg-link="" tvg-logo="" group-title="KIDS" ,KID: POP MAX+1
+http://tv.cloudcdn.me/live.ts?channelId=38625&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Sonic Nickelodeon" tvg-link="" tvg-logo="" group-title="KIDS" ,KID: Sonic Nickelodeon
+http://tv.cloudcdn.me/live.ts?channelId=40476&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Sony YAY!" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/065352c.png" group-title="KIDS" ,KID: Sony YAY!
+http://tv.cloudcdn.me/live.ts?channelId=78849&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: TeleToon" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/88d83eb.png" group-title="KIDS" ,KID: TeleToon
+http://tv.cloudcdn.me/live.ts?channelId=72428&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Tiny Pop" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/5d74c008" group-title="KIDS" ,KID: Tiny Pop
+http://tv.cloudcdn.me/live.ts?channelId=259&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: Treehouse TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/016dcb7.png" group-title="KIDS" ,KID: Treehouse TV
+http://tv.cloudcdn.me/live.ts?channelId=102888&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="" tvg-name="KID: WOW KID" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/af1466fbx.png" group-title="KIDS" ,KID: WOW KID
+http://tv.cloudcdn.me/live.ts?channelId=91169&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Kids Zone
+http://tv.indigotv.me:80/live.ts?channelId=19754&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Plat Fun
+http://tv.cloudcdn.me/live.ts?channelId=132533&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Hoora
+http://tv.cloudcdn.me/live.ts?channelId=432&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,pak 7 kids
+http://tv.cloudcdn.me/live.ts?channelId=55902&uid=7133&deviceMac=00:1A:79:4A:02:91
 
 
 
