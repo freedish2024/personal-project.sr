@@ -8854,8 +8854,14 @@ https://rctvraiganj.in/live/sankirtan/index.m3u8
 rtmp://server.zillarbarta.com/static/zbbhakti
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://admin.sunskytv.com/thumb/584.png",Gram Bangla 
 rtmp://live.dataplayer.in:1935/live/grambangla
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D Motua
+rtmp://account2.livebox.co.in/Motua/live
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D BHAKTI
 rtmp://account11.livebox.co.in:1935/DEBASISH/live
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D Motua
+https://account2.livebox.co.in/Motuahls/live.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D BHAKTI
+https://amigofx.com:1936/dbhakti/dbhakti/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1r7W5OlU0jJZ4sWUw-70wzSsaDcaz9UFiLJOipMBqw&s",Jtbs Classic
 https://jtbsclassic.dpdns.org/live.m3u8
 
