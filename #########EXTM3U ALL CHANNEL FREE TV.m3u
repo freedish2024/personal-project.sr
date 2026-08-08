@@ -5607,6 +5607,35 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440977
 https://mrzplayin.fun/roarzon/stream.php?id=7eccfe540a7590406ef28bd40c13ffa0&e=.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonyyay.png",Sony Yay Bangla
 http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DA VANCI KIDS
+http://iptv.prosto.tv:7000/ch78/video.m3u8
+#EXTINF:-1,NIKI KIDS
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:-1,NIKI JR KIDS
+http://iptv.prosto.tv:7000/ch72/video.m3u8
+#EXTINF:-1,Tiji KIDS
+http://iptv.prosto.tv:7000/ch73/video.m3u8
+#EXTINF:-1,Gulli KIDS
+http://iptv.prosto.tv:7000/ch74/video.m3u8
+#EXTINF:-1,NIKI KIDS
+http://iptv.prosto.tv:7000/ch75/video.m3u8
+#EXTINF:-1,JR KIDS
+http://iptv.prosto.tv:7000/ch76/video.m3u8
+#EXTINF:-1,AZKA KIDS
+http://iptv.prosto.tv:7000/ch77/video.m3u8
+#EXTINF:-1,Durondo TV KIDS
+http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sonic KIDS
+http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nick KIDS
+http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Yay KIDS
+http://103.165.93.31:8095/sonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Pogo KIDS
+http://103.165.93.31:8095/pogo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Cartoon Network KIDS
+http://103.165.93.31:8095/cartoonNetwork/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png",Sonic Bangla
 http://tv.cloudcdn.me/live.ts?channelId=90243&uid=7245&deviceMac=00:1A:79:4A:02:91
@@ -6637,6 +6666,8 @@ https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png",Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnWaioQs1y2mfHV1JrlF53eGqbgUAvUZHdUyQzKfdBQ&s=10",Movies 24/7 Active
+http://162.4.112.81/MOHON-TV-Movies/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnWaioQs1y2mfHV1JrlF53eGqbgUAvUZHdUyQzKfdBQ&s=10",Movies 24/7 Active
 http://163.227.239.233/MOHON-TV-movies/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2tPg0euhHY1EF5DlFAm_u1_qP5YSaJJpnezSD1GRIA&s",Natok 24/7 Active
 http://163.227.239.233/MOHON-TV-natok/index.m3u8
@@ -6650,6 +6681,26 @@ https://live.electrobangla.tv/hls/stream.m3u8
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh10IOafdvDOgum8B2M_d2szHCA07j1ssE5W36T5F4Ew&s=10",Ar Tv
 http://link.frontlayer.com/services/hls2/fl207891/index.m3u8
+#EXTINF:-1 tvg-logo="",Matribhumi Tv
+http://live.playmax.live/matribhumi/index.m3u8
+#EXTINF:-1 tvg-logo="",Sun Bangla
+https://kamrul-mc-ar-baki-bc-toder-baper-stream-monekore-user-kor.nurmd2006-official.workers.dev/SUN_BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",NTv24
+https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/tracks-v1a1/mono.ts.m3u8?e=1782665440
+#EXTINF:-1 tvg-logo="",Ekattor Tv
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="",Sony Aart
+http://27.124.71.27/Sony_Aath/index.m3u8
+#EXTINF:-1 tvg-logo="",Sananda
+http://live.playmax.live/Zee_Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="",M Sport
+http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="",Channel 52
+https://server6.iptvchannels.workers.dev/channel52/index.m3u8
+#EXTINF:-1 tvg-logo="",Nagorik tv
+https://kamrul-mc-ar-baki-bc-toder-baper-stream-monekore-user-kor.nurmd2006-official.workers.dev/Nagorik_TV/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="",Ab Tv24
 https://stream-root.abtv24.com/tvingest/ABtvWeb.m3u8
 #EXTINF:-1 tvg-logo="",Nagorik Tv
@@ -6971,6 +7022,21 @@ http://tv.cloudcdn.me/live.ts?channelId=201&uid=7133&deviceMac=00:1A:79:4A:02:91
 http://tv.cloudcdn.me/live.ts?channelId=305&uid=7133&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 ,Utsab Gold
 http://tv.cloudcdn.me/live.ts?channelId=12358&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 ,Bein Sport 2
+http://live.playmax.live/beIN_Sports_2/index.m3u8
+#EXTINF:-1 ,Trace Latina
+http://live.playmax.live/Trace_Latina/index.m3u8
+#EXTINF:-1 ,One Muz
+http://live.playmax.live/OneMUZ/index.m3u8
+#EXTINF:-1 ,Trace Urban
+http://live.playmax.live/Trace_Urban/index.m3u8
+#EXTINF:-1 ,Bandun
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 ,Colors 
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+#EXTINF:-1 ,Colors Risthey
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max-hd.png" group-title="OTAPP",Sony MAX HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
@@ -7822,6 +7888,8 @@ http://116.204.149.16/nagorik/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/whWmLwzV/GLOBAL-TELEVISION-HD.png" group-title="BANGLADESH",GLOBAL TV HD
 http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",Star Bangla
+http://103.151.60.162:2122/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",Star Bangla
 http://103.229.254.25:7001/play/a0eo/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/sxWcXTg4/cj.jpg",Cine Jomjomat
 http://103.180.212.191:3500/live/3518.m3u8
@@ -8407,6 +8475,12 @@ rtmp://server.zillarbarta.com/static/zbmusic
 rtmp://ethersoftwaresolution.com/live/sgcnmusic
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgvbPklXgNQqAvM3d8gAVMFvhg9dTs3fZUhCXJTu97Q&s=10",Maya Tv
 rtmp://94.136.184.69:1935/static/mayatv
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgvbPklXgNQqAvM3d8gAVMFvhg9dTs3fZUhCXJTu97Q&s=10",Maya Tv
+http://94.136.184.69:8082/mayatv/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/d6/SDTV_Prime_logo.png/revision/latest?cb=20211122111458",SDTV PRIME 
+rtmp://15.235.187.72/hls/sdtv
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYyWWoyjIoBBJ3i6ao7DvUvzP-kJ6Eerc0rM7NUeutA&s=10",SdTv Prime
+http://10.31.31.18:12000/live
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYyWWoyjIoBBJ3i6ao7DvUvzP-kJ6Eerc0rM7NUeutA&s=10",SdTv Plus
 http://10.31.31.19:12000/live
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuW9dvouH7wAhRbmOBYdeF1pQKKKgWHr5fgBF-nX2HsHGvlorTpXi3-bLv&s=10",Dhoom Music
@@ -8417,6 +8491,10 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 https://stream.ottlive.co.in/onkarnews/index.m3u8
 #EXTINF:-1 tvg-logo="",Hight News
 https://stream.ottlive.co.in/highnews/index.m3u8
+#EXTINF:-1 tvg-logo="",Tara Tv
+https://legitpro.co.in:9898/taratv/taratv/index.m3u8
+#EXTINF:-1 tvg-logo="",Zee 24 Gantha
+https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-logo="",Bhi
 http://admin.sunskytv.com:8080/live/bhi.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5MD8__uM-gLYOJkki082lcx2EDLWAejUCuAtVXBJ7A&s", Express News
@@ -8454,6 +8532,12 @@ http://103.67.97.46/0.ts
 http://103.67.97.45:81/0.ts
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://admin.sunskytv.com/thumb/578.png",AMAR BANGLA 
 http://103.172.152.218:8086/0.ts
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://multireach.in/wp-content/uploads/2023/05/RTV-Bangla.jpeg", RTV Bangla
+http://150.129.178.198:8086/0.ts
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://rbanglasaradin.in/wp-content/uploads/2025/02/FINAL-copy.jpg", RTV Bangla News
+http://202.142.126.138:8086/0.ts
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://rbanglasaradin.in/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-18-at-10.46.40-PM.jpeg", Black TV Newz Bangla
+http://202.142.126.139:8086/0.ts
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://admin.sunskytv.com/thumb/492.jpg",EKHON KOLKATA 
 http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://admin.sunskytv.com/thumb/578.png",AMAR BANGLA 
