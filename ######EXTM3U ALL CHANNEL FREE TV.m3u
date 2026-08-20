@@ -3694,19 +3694,19 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 1 HD
-http://starshare.org:8080/live/Nabeel123/Nabeel321/136494.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/136494.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 2 HD
-http://starshare.org:8080/live/Nabeel123/Nabeel321/136495.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/136495.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 3 HD
-http://starshare.org:8080/live/Nabeel123/Nabeel321/136496.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/136496.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 4 HD
-http://starshare.org:8080/live/Nabeel123/Nabeel321/136497.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/136497.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 5 HD
-http://starshare.org:8080/live/Nabeel123/Nabeel321/136498.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/136498.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 6 HD
-http://starshare.org:8080/live/Nabeel123/Nabeel321/136500.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/136500.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 7 HD
-http://starshare.org:8080/live/Nabeel123/Nabeel321/136501.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/136501.ts
 
 #EXTINF:-1 tvg-id="ts305" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Bengali",Colors Bangla HD
 #EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
@@ -5635,155 +5635,219 @@ http://103.165.93.31:8095/pogo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cartoon Network KIDS
 http://103.165.93.31:8095/cartoonNetwork/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/433.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/3808.ts
+#EXTINF:-1 tvg-id="ts905" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png" group-title="Hindi;Kids",ETV Bal Bharat
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/355286.ts
+#EXTINF:-1 group-title="Arab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png",Disney International HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20925.ts
+#EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase19741.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s",Nick Bangla
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/205.ts
+#EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7438.ts
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Pogo
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7220.ts
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Telugu;Malayalam;Kannada;Hindi;Tamil;Animation;Kids;Cartoons",Discovery Kids
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/208.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS" group-title="",Cartoon Network HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/8.m3u8
+#EXTINF:-1 tvg-id="ts587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="English;Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Super Hungama
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/66162.ts
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8HES2tUB4reIXMjiMJk-z9EBknI5aazdcw&s",Hungama tv
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18456.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtDovzBn80q0LPKyV_vo9ISpHa5uNBDBmzA&s",Sonic Bangla
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/207.ts
+#EXTINF:-1 tvg-id="ts965" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png" group-title="Hindi;Entertainment",Manoranjan Grand
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase2433.ts
+#EXTINF: -1 tvg-name="Kids Zon" group-title="Indian Regional", Kids Zon
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4084.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7ZxGBaQF0GiQwTSGqaax2Q5v2MWnfLuyKeMLMR0hYpTiQL7F_YWN8xA&s=10",Sinchen
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147724.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxTzYJerGSc9D06JEt-xGbB8-f5Kwp1ITCq3il0JQjPRf3leqJ6rsEezsy&s=10",Perman
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147736.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9MjRlL2jrjnhfHApO0ixbL1omr7QOLcC9Zjpcengqx-Ht_ExVrVqY_S-&s=10",Doraemon
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147746.ts
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/FzHFbZ92/images-6-1.jpg",kung fu panda
+https://tv.starsharetv.com:443/live/pradsparents532/Me4wtREzwF/147738.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVRx2KOXImi3auWLotXKDNfTHmI74xSEnErICy1DisSyYqTsfFQXgviBh&s=10",Mr Been
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147777.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86cdj_zcE45Wa8B8JcHma6T7IPCC1dQE0ew&s",BEN 10 ULTIMATE ALIEN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147743.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdnsGbhgegFUg44_b1dXR86k0_hU68okWXg&s",BEN 10 OMNIVERSE
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147749.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e7eMs9ij-8hE3pUJii8iVQFoRO6XdkjZxA&s",BEN TEN CLASSIC
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147750.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYdkmKmndjX8M3Iz-spuapBA2aifgu_6cQBSBtNrKvewbr7encDJVMQn3&s=10",BEN 10 ALIEN FORCE HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147751.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319402.ts
+#EXTINF:-1,Kids: Toyor Aljana
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319403.ts
+#EXTINF:-1,Kids:  SpaceToon TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319404.ts
+#EXTINF:-1,Kids: Rotana Kids HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319405.ts
+#EXTINF:-1,Kids:  Karamesh
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319406.ts
+#EXTINF:-1,Kids:  OSN Kids Zone HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319407.ts
+#EXTINF:-1,Kids | Ar: NickToons HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319408.ts
+#EXTINF:-1,Kids: OSN Nickelodeon HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319409.ts
+#EXTINF:-1,Kids: Baby TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319410.ts
+#EXTINF:-1,Kids:  HodHod  TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319411.ts
+#EXTINF:-1,Kids:  Taha TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319412.ts
+#EXTINF:-1,Kids: Majid Kids TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319413.ts
+#EXTINF:-1,Kids | Ar: Shehab TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319414.ts
+#EXTINF:-1,Kids:  Atfal & Mawaheb
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319415.ts
+#EXTINF:-1,Kids | En: NickToons HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319416.ts
 
-#EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png",Sonic Bangla
-http://tv.cloudcdn.me/live.ts?channelId=90243&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png",Sonic Bangla
-http://103.159.180.34:5001/live/1345.m3u8
-#EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-type="Kids" group-title="@bdixtv_official | Kids" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png",Nick Bangla
-http://103.159.180.34:5001/live/1341.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png",SONY YAY Bengali
-http://103.159.180.34:5001/live/3424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA |  NICK" tvg-logo="https://i.ibb.co/D8wt4bp/download.png" group-title="BANGLADESH",BANGLA |  NICK
-http://thesky.live:8080/live/12626263737@/01828288/332942.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://i.pinimg.com/736x/d2/d0/c6/d2d0c69e6ec56ef717b9bbc23fc8e2fc.jpg" group-title="KIDS | 24/7",24/7 Tom & Jerry
-http://thesky.live:8080/live/12626263737@/01828288/101296.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK | HINDI" tvg-logo="https://i.ibb.co/2S99F3b/channels4-profile.png" group-title="KIDS",KIDS | CARTOON NETWORK | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67088.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | DORAEMON | HINDI" tvg-logo="https://i.ibb.co/svP198D/download-22.png" group-title="KIDS",KIDS | DORAEMON | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67155.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | POGO | HINDI SD" tvg-logo="https://i.ibb.co/VW3tspR/download-16-1.png" group-title="KIDS",KIDS | POGO | HINDI SD
-http://thesky.live:8080/live/12626263737@/01828288/67113.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | POGO | HINDI ᴴᴰ" tvg-logo="https://i.ibb.co/VW3tspR/download-16-1.png" group-title="KIDS",KIDS | POGO | HINDI ᴴᴰ
-http://thesky.live:8080/live/12626263737@/01828288/67125.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | DISCOVERY | HINDI" tvg-logo="https://i.ibb.co/xj40ycx/download-17.png" group-title="KIDS",KIDS | DISCOVERY | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67097.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | NICK HINDI" tvg-logo="https://i.ibb.co/D8wt4bp/download.png" group-title="KIDS",KIDS | NICK HINDI
-http://thesky.live:8080/live/12626263737@/01828288/221035.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | NICK JUNIOR | MULTI-AUDIO" tvg-logo="https://i.ibb.co/D8wt4bp/download.png" group-title="KIDS",KIDS | NICK JUNIOR | MULTI-AUDIO
-http://thesky.live:8080/live/12626263737@/01828288/67095.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | KUNG FU PANDA" tvg-logo="https://i.ibb.co/8bGwtwk/download-27.png" group-title="KIDS",KIDS | KUNG FU PANDA
-http://thesky.live:8080/live/12626263737@/01828288/67148.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | SHINCHAN | HINDI" tvg-logo="https://i.ibb.co/GsCFt4Q/download-12.png" group-title="KIDS",KIDS | SHINCHAN | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67134.ts
-#EXTINF:-1 tvg-id="" tvg-name="US | DISNEY INTERNATIONAL | 4K" tvg-logo="https://i.ibb.co/pwnfMQW/download-20.png" group-title="USA | KIDS",US | DISNEY INTERNATIONAL | 4K
-http://thesky.live:8080/live/12626263737@/01828288/67119.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | DISNEY JUNIOR | MULTI-AUDIO" tvg-logo="https://i.ibb.co/Rbn790W/download-7.png" group-title="KIDS",KIDS | DISNEY JUNIOR | MULTI-AUDIO
-http://thesky.live:8080/live/12626263737@/01828288/67195.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | HUNGAMA [Multi-Audio]" tvg-logo="https://i.ibb.co/5cSwVYG/download-18-1.png" group-title="KIDS",KIDS | HUNGAMA [Multi-Audio]
-http://thesky.live:8080/live/12626263737@/01828288/67122.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | STORY | HINDI" tvg-logo="https://i.ibb.co/QYV3R0F/download-9.png" group-title="KIDS",KIDS | STORY | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67168.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | SHAPE RHYMES | ENGLISH" tvg-logo="https://i.ibb.co/y60Lp8Y/download-11.png" group-title="KIDS",KIDS | SHAPE RHYMES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67135.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | SAMURAI JACK" tvg-logo="https://i.ibb.co/dt0gL0J/download-7.png" group-title="USA | KIDS",USA | SAMURAI JACK
-http://thesky.live:8080/live/12626263737@/01828288/67136.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | SONY YAY | HINDI" tvg-logo="https://i.ibb.co/S37j9qy/download-31.png" group-title="KIDS",KIDS | SONY YAY | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67094.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | SONIC | MULTI-AUDIO" tvg-logo="https://i.ibb.co/S37j9qy/download-31.png" group-title="KIDS",KIDS | SONIC | MULTI-AUDIO
-http://thesky.live:8080/live/12626263737@/01828288/67096.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | POPEYE THE SAILOR MAN" tvg-logo="https://i.ibb.co/fXTTBnZ/download-6.png" group-title="USA | KIDS",USA | POPEYE THE SAILOR MAN
-http://thesky.live:8080/live/12626263737@/01828288/67137.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | MASH AND BEAR | ENGLISH" tvg-logo="https://i.ibb.co/9YQrXqw/download-4-1.png" group-title="KIDS",KIDS | MASH AND BEAR | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67183.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CHU CHU TV | ENGLISH" tvg-logo="https://i.ibb.co/QK78MQg/download-5.png" group-title="KIDS",KIDS | CHU CHU TV | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67184.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | PJ MASK | ENGLISH" tvg-logo="https://i.ibb.co/KmhztQn/download-5.png" group-title="KIDS",KIDS | PJ MASK | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67138.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | PERMAN | HINDI" tvg-logo="https://i.ibb.co/2tHWKp4/download-29.png" group-title="KIDS",KIDS | PERMAN | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67146.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | LONNEY TUNES PLATINUM COLLECTION" tvg-logo="https://i.ibb.co/rkRtTJ6/download-28.png" group-title="USA | KIDS",USA | LONNEY TUNES PLATINUM COLLECTION
-http://thesky.live:8080/live/12626263737@/01828288/67147.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | MR BEAN" tvg-logo="https://i.ibb.co/sCsDgKF/download-32.png" group-title="USA | KIDS",USA | MR BEAN
-http://thesky.live:8080/live/12626263737@/01828288/67181.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | DUCK TALES" tvg-logo="https://i.ibb.co/rwXxKRf/download-23.png" group-title="USA | KIDS",USA | DUCK TALES
-http://thesky.live:8080/live/12626263737@/01828288/67153.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | DUCK TALES CLASSIC" tvg-logo="https://i.ibb.co/rwXxKRf/download-23.png" group-title="USA | KIDS",USA | DUCK TALES CLASSIC
-http://thesky.live:8080/live/12626263737@/01828288/67154.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | ANGERY BIRDS TOONS | ENGLISH" tvg-logo="https://i.ibb.co/gtMbHnm/download-20.png" group-title="KIDS",KIDS | ANGERY BIRDS TOONS | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67164.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | ABBY HATCHER" tvg-logo="https://i.ibb.co/xfMKRCd/download-7.png" group-title="USA | KIDS",KIDS | ABBY HATCHER
-http://thesky.live:8080/live/12626263737@/01828288/67166.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | BABY TOOT" tvg-logo="https://i.ibb.co/F8ggw2B/download-10.png" group-title="USA | KIDS",USA | BABY TOOT
-http://thesky.live:8080/live/12626263737@/01828288/67169.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CN HD+ | HINDI" tvg-logo="https://i.ibb.co/cY7y9Zr/download-15.png" group-title="KIDS",KIDS | CN HD+ | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67126.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | BABAY BAO PANDA HD" tvg-logo="https://i.ibb.co/pykmgNq/download-13.png" group-title="KIDS",KIDS | BABAY BAO PANDA HD
-http://thesky.live:8080/live/12626263737@/01828288/67173.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | BOB THE TRAIN" tvg-logo="https://i.ibb.co/Wp3B49z/download-2-4.png" group-title="USA | KIDS",USA | BOB THE TRAIN
-http://thesky.live:8080/live/12626263737@/01828288/67179.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | HICKORY DICKORY DOCK" tvg-logo="https://i.ibb.co/YQxzBNs/download-12.png" group-title="USA | KIDS",USA | HICKORY DICKORY DOCK
-http://thesky.live:8080/live/12626263737@/01828288/67171.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | BEN TEN CLASSIC | HINDI" tvg-logo="https://i.ibb.co/nkH93wh/download-17.png" group-title="KIDS",KIDS | BEN TEN CLASSIC | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67159.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | BEN 10 ALIEN FORCE | HINDI" tvg-logo="https://i.ibb.co/gDXgM0q/download-18.png" group-title="KIDS",KIDS | BEN 10 ALIEN FORCE | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67160.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | BEN 10 OMNIVERSE | HINDI" tvg-logo="https://i.ibb.co/k1TgwN2/download-16.png" group-title="KIDS",KIDS | BEN 10 OMNIVERSE | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67158.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | BEN 10 ULTIMATE ALIEN | HINDI" tvg-logo="https://i.ibb.co/gDXgM0q/download-18.png" group-title="KIDS",KIDS | BEN 10 ULTIMATE ALIEN | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67152.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | PEPPA PIG" tvg-logo="https://i.ibb.co/KFP2R5x/download-4.png" group-title="USA | KIDS",USA | PEPPA PIG
-http://thesky.live:8080/live/12626263737@/01828288/67140.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | PEPPA PIG 2" tvg-logo="https://i.ibb.co/KFP2R5x/download-4.png" group-title="USA | KIDS",USA | PEPPA PIG 2
-http://thesky.live:8080/live/12626263737@/01828288/67139.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | PAW PETROL" tvg-logo="https://i.ibb.co/J79jVqj/download-21.png" group-title="USA | KIDS",USA | PAW PETROL
-http://thesky.live:8080/live/12626263737@/01828288/67145.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | PAW PETROL TOY STORY" tvg-logo="https://i.ibb.co/zr1ZQxg/download.png" group-title="USA | KIDS",USA | PAW PETROL TOY STORY
-http://thesky.live:8080/live/12626263737@/01828288/67144.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | PAW PETROL UNBOXING TOY" tvg-logo="https://i.ibb.co/zr1ZQxg/download.png" group-title="USA | KIDS",USA | PAW PETROL UNBOXING TOY
-http://thesky.live:8080/live/12626263737@/01828288/67143.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | RHYMES | ENGLISH" tvg-logo="https://i.ibb.co/4JYg8FP/Masha-and-the-Bear-Nursery-Rhymes-TV-Series-874848130-large.png" group-title="KIDS",KIDS | RHYMES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67182.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | ANIMAL RHMYES | ENGLISH" tvg-logo="https://i.ibb.co/PF8MWL7/images.png" group-title="KIDS",KIDS | ANIMAL RHMYES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67163.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | NUMBER RHMYES | ENGLISH" tvg-logo="https://i.ibb.co/PcS85HT/download-2-4.png" group-title="KIDS",KIDS | NUMBER RHMYES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67178.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | BOOM BUDDIES RHYMES" tvg-logo="https://i.ibb.co/HBjPCKq/download-13.png" group-title="USA | KIDS",USA | BOOM BUDDIES RHYMES
-http://thesky.live:8080/live/12626263737@/01828288/67172.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | FINGER FAMILY | ENGLISH" tvg-logo="https://i.ibb.co/n7bCDcL/download-3.png" group-title="KIDS",KIDS | FINGER FAMILY | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67141.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | BABAY RHYMES | ENGLISH" tvg-logo="https://i.ibb.co/JB5rc6r/images.png" group-title="KIDS",KIDS | BABAY RHYMES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67174.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | ABCD RHYMES 2 | ENGLISH" tvg-logo="https://i.ibb.co/411h8P6/download-21.png" group-title="KIDS",KIDS | ABCD RHYMES 2 | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67165.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | ANIMAL RHYMES | ENGLISH" tvg-logo="https://i.ibb.co/58r1cJM/download-13.png" group-title="KIDS",KIDS | ANIMAL RHYMES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67175.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | COLOUR RHYMES | ENGLISH" tvg-logo="https://i.ibb.co/ZzjVzv6/download-14.png" group-title="KIDS",KIDS | COLOUR RHYMES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67156.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | NURSERY RHYMES 2 | ENGLISH" tvg-logo="https://i.ibb.co/S6LgpdN/download-3-1.png" group-title="KIDS",KIDS | NURSERY RHYMES 2 | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67180.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | NURSERY RHYMES 3 | ENGLISH" tvg-logo="https://i.ibb.co/Tc9N3sD/download-2-4.png" group-title="KIDS",KIDS | NURSERY RHYMES 3 | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67177.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | NURSERY RHYMES 4 | ENGLISH" tvg-logo="https://i.ibb.co/p0BT235/download-2.png" group-title="KIDS",KIDS | NURSERY RHYMES 4 | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67142.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | FIVE LITTLE RHYMES | ENGLISH" tvg-logo="https://i.ibb.co/ZhQnnR8/download-24.png" group-title="KIDS",KIDS | FIVE LITTLE RHYMES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67151.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CHRISTMAS RHYMES | ENGLISH" tvg-logo="https://i.ibb.co/1MxKMX8/download-15.png" group-title="KIDS",KIDS | CHRISTMAS RHYMES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67157.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | FRUITS VEGETABLE RHYMES | ENGLISH" tvg-logo="https://i.ibb.co/vqHh6Lm/download-25.png" group-title="KIDS",KIDS | FRUITS VEGETABLE RHYMES | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67150.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK | PORTUGAL" tvg-logo="https://i.ibb.co/xHY40PX/download-24.png" group-title="KIDS",KIDS | CARTOON NETWORK | PORTUGAL
-http://thesky.live:8080/live/12626263737@/01828288/67106.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK | PL" tvg-logo="https://i.ibb.co/xHY40PX/download-24.png" group-title="KIDS",KIDS | CARTOON NETWORK | PL
-http://thesky.live:8080/live/12626263737@/01828288/67109.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Baby | PORTUGAL" tvg-logo="https://i.ibb.co/PWc2H8w/download-25.png" group-title="KIDS",KIDS | Baby | PORTUGAL
-http://thesky.live:8080/live/12626263737@/01828288/67107.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Zone | PORTUGAL" tvg-logo="https://i.ibb.co/S0NLwsy/images.png" group-title="KIDS",KIDS | Zone | PORTUGAL
-http://thesky.live:8080/live/12626263737@/01828288/67110.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Motu Patlu Comedy Gags" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bf4e3d6e68b51dfd17cdacad6461cdc24371b1102f840f9ba06b1db9bb42a6ad._BR-6_AC_SX720_FMjpg_.jpg" group-title="KIDS | 24/7",24/7 Motu Patlu Comedy Gags
-http://thesky.live:8080/live/12626263737@/01828288/207987.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg" group-title="KIDS | 24/7",24/7 Ben 10
-http://thesky.live:8080/live/12626263737@/01828288/207988.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZN1P32SHviL3SV51qLivxycvcx.jpg" group-title="KIDS | 24/7",24/7 Doraemon
-http://thesky.live:8080/live/12626263737@/01828288/207989.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chhota Bheem aur Gadadhari Bheem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l70DQGuXiFKcVZfclxyHY25siWh.jpg" group-title="KIDS | 24/7",24/7 Chhota Bheem aur Gadadhari Bheem
-http://thesky.live:8080/live/12626263737@/01828288/207990.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | GENERTOX REX | HINDI" tvg-logo="https://i.ibb.co/0BLWvm3/download-26.png" group-title="KIDS",KIDS | GENERTOX REX | HINDI
-http://thesky.live:8080/live/12626263737@/01828288/67149.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | AVATAR THE LAST AIRBENDER | ENGLISH" tvg-logo="https://i.ibb.co/wKrGw7W/download-19.png" group-title="KIDS",KIDS | AVATAR THE LAST AIRBENDER | ENGLISH
-http://thesky.live:8080/live/12626263737@/01828288/67162.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | ETV Bal Bharat" tvg-logo="https://i.ibb.co/Rk6rns4R/images-1.png" group-title="KIDS",KIDS | ETV Bal Bharat
-http://thesky.live:8080/live/12626263737@/01828288/251545.ts
+
+#EXTINF:-1, IN: Pogo_Hindi
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1918.ts
+#EXTINF:-1,IN: POGO (ENGLISH)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/Me4wtREzwF/7220.ts
+#EXTINF:-1,IN: Disney Channel (4K)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
+#EXTINF:-1,Kids: Hungama
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18456.ts
+#EXTINF:-1,KIDS: SUPER HUNGAMA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/66162.ts
+#EXTINF:-1,IN:  Nick_Hindi
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/205.ts
+#EXTINF:-1,IN: Nick+ FHD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7438.ts
+#EXTINF:-1,IN: NICK (4K).
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98880.ts
+#EXTINF:-1,IN: Nick_Junior
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/206.ts
+#EXTINF:-1,IN: sonic_Hindi
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/207.ts
+#EXTINF:-1,IN: Discovery_Kids_1
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/208.ts
+#EXTINF:-1,IN : CARTOON NETWORK HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/8.ts
+#EXTINF:-1,KIDS-SPIDER MAN 2008
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147720.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1981
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147721.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1967
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147722.ts
+#EXTINF:-1,KIDS-SLUGTERRA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147723.ts
+#EXTINF:-1,KIDS-Shinsen
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147724.ts
+#EXTINF:-1,KIDS-SHAPE RHYMES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147725.ts
+#EXTINF:-1,KIDS-SAMURAI JACK
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147726.ts
+#EXTINF:-1,KIDS-POPEYE THE SAILOR MAN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147727.ts
+#EXTINF:-1,KIDS-PJ MASK
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147728.ts
+#EXTINF:-1,KIDS-PEPPA PIG 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147729.ts
+#EXTINF:-1,KIDS-PEPPA PIG
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147730.ts
+#EXTINF:-1,KIDS-Finger
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147731.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 4
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147732.ts
+#EXTINF:-1,KIDS-PAW PETROL TOY STORY
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147733.ts
+#EXTINF:-1,KIDS-PAW PETROL TOY STORY
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147734.ts
+#EXTINF:-1,KIDS-PAW PETROL
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147735.ts
+#EXTINF:-1,KIDS-PERMAN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147736.ts
+#EXTINF:-1,KIDS-KUNG FU PANDA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147738.ts
+#EXTINF:-1,KIDS-GENERTOX REX
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147740.ts
+#EXTINF:-1,KIDS-FRUITS VEGETABLE RHYMES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147741.ts
+#EXTINF:-1,KIDS-FIVE LITTLE RHYMES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147742.ts
+#EXTINF:-1,KIDS-BEN 10 ULTIMATE ALIEN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147743.ts
+#EXTINF:-1,KIDS-DUCK TALES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147744.ts
+#EXTINF:-1,KIDS-DUCK TALES CLASSIC
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147745.ts
+#EXTINF:-1,KIDS-DORAEMON
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147746.ts
+#EXTINF:-1,KIDS-COLOUR RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147747.ts
+#EXTINF:-1,KIDS-CHRISTMAS RHYMES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147748.ts
+#EXTINF:-1,KIDS-BEN 10 OMNIVERSE
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147749.ts
+#EXTINF:-1,KIDS-BEN TEN CLASSIC
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147750.ts
+#EXTINF:-1,KIDS-BEN 10 ALIEN FORCE HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147751.ts
+#EXTINF:-1,KIDS-ART-FUN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147752.ts
+#EXTINF:-1,KIDS-AVATAR THE LAST AIRBENDER HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147753.ts
+#EXTINF:-1,KIDS-ANIMAL RHMYES
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147754.ts
+#EXTINF:-1,KIDS-ANGERY BIRDS TOONS HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147755.ts
+#EXTINF:-1,KIDS-ABCD RHYMES HD 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147756.ts
+#EXTINF:-1,KIDS-ABBY HATCHER
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147757.ts
+#EXTINF:-1,KIDS-NURSER RHYMES HD 4
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147758.ts
+#EXTINF:-1,KIDS-STORY
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147759.ts
+#EXTINF:-1,KIDS-BABY TOOT
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147760.ts
+#EXTINF:-1,KIDS-BIRTHDAY SONGS
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147761.ts
+#EXTINF:-1,KIDS-HICKORY DICKORY DOCK
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147762.ts
+#EXTINF:-1,KIDS-BOOM BUDDIES RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147763.ts
+#EXTINF:-1,KIDS-BABAY BAO PANDA HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147769.ts
+#EXTINF:-1,KIDS-BABAY RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147770.ts
+#EXTINF:-1,KIDS-ANIMAL RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147771.ts
+#EXTINF:-1,KIDS-A B C D RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147772.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 3
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147773.ts
+#EXTINF:-1,KIDS-NUMBER RHMYES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147774.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147776.ts
+#EXTINF:-1,KIDS-MR BEAN HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147777.ts
+#EXTINF:-1,KIDS-RHYMES HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147778.ts
+#EXTINF:-1,KIDS-MASH AND BEAR HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147779.ts
+#EXTINF:-1,KIDS-CHU CHU TV HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147780.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/319402.ts
+
 
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Kids;Religious",God Stands Kids Club TV Arabic
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
@@ -5795,7 +5859,11 @@ https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
 #EXTINF:-1, 48
 http://157.15.187.3:25092/hls/48/48.m3u8
-#EXTINF:-1, Epic Kids
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-1-2026-10_36_34-PM-1-200x300.png",Shemaroo Kids
+https://vodaapp2.shemaroo.com/du_kids/du_kids_1080/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2023/08/ChatGPT-Image-Aug-1-2026-10_59_01-PM-1-200x300.png",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2021/11/ChatGPT-Image-Jul-23-2026-07_05_35-PM-1-200x300.png",Epic Kids
 https://live-epickids-samsungtv.videostech.cloud/playlist.m3u8
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-YAY.png", HINDI| SONY YAY
 http://line.umetop.pro/play/live.php?mac=00:1A:79:8F:BA:8A&stream=156089&extension=m3u8
@@ -6822,7 +6890,10 @@ https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_480/index.m3
 https://tvboss.ziboplay.buzz/Starnewstest_transmission/index.mpd
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.sbtvus.com/images/logo.png", SB TV US
 https://livestream.sbtvus.com/hls/stream.m3u8
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jatvbd.com/wp-content/uploads/2024/12/Jatv-Logo-new.png",Jatv
+https://dish.porosh.com.bd/hls/jtvnews.m3u
+#EXTINF:-1 tvg-logo="",Nagorik Tv
+https://bdstream.bdstreamhubiptv.workers.dev/Nagorik_Tv.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://invision24tv.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-05-17-at-23.47.19_4aa1784f.jpg",In Vision 24
 https://dish.porosh.live/tmp_hls/invision24/index.m3u8
@@ -7678,32 +7749,92 @@ https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://safina.tj/wp-content/uploads/2025/05/tvs_main_logo.jpg",Safina
 https://8tbg22s62dh.a.trbcdn.net/livemaster/mak2d_l2xthxq3ux.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-1-2026-10_36_34-PM-1-200x300.png",Shemaroo Kids
+https://vodaapp2.shemaroo.com/du_kids/du_kids_1080/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-1-2026-11_48_15-PM-1-200x300.png",Shemaroo Music Hits
+https://vodaapp2.shemaroo.com/du_filmigaane/du_filmigaane_1080/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-1-2026-11_44_41-PM-1-200x300.png",Shemaroo Movies
+https://vodaapp2.shemaroo.com/du_bollywoodmovies1/du_bollywoodmovies_1080/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-1-2026-11_41_28-PM-1-200x300.png",Shemaroo Comedy
+https://vodaapp2.shemaroo.com/du_comedy/du_comedy_1080/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2023/08/ChatGPT-Image-Aug-1-2026-10_59_01-PM-1-200x300.png",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2022/06/ChatGPT-Image-Aug-1-2026-10_49_29-PM-1-200x300.png",Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2021/04/ChatGPT-Image-Dec-30-2025-04_01_25-PM-1-200x300.png",Shemaroo MarathiBana
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2021/01/ChatGPT-Image-Aug-1-2026-10_46_42-PM-1-200x300.png",Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/02/ChatGPT-Image-Aug-1-2026-11_07_25-PM-1-200x300.png",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-12-2026-11_18_09-PM-1-200x300.png",Epic Crimes
+https://live-epiccrime-samsungtv.videostech.cloud/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/05/ChatGPT-Image-Jul-23-2026-07_05_41-PM-1-200x300.png",Epic Music
+https://live-epicmusic-samsungtv.videostech.cloud/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2021/11/ChatGPT-Image-Jul-23-2026-07_05_35-PM-1-200x300.png",Epic Kids
+https://live-epickids-samsungtv.videostech.cloud/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2021/11/ChatGPT-Image-Jul-23-2026-07_14_35-PM-1-200x300.png",Epic Bhojpuri
+https://live-epicbhojpuri-samsungtv.videostech.cloud/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/04/ChatGPT-Image-Jul-23-2026-07_08_11-PM-1-200x300.png",Epic Bharat
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/04/ChatGPT-Image-Jul-23-2026-07_08_11-PM-1-200x300.png",Epic Bharat
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2020/02/ChatGPT-Image-Jul-23-2026-07_11_45-PM-1-200x300.png",Epic TV
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/07/ChatGPT-Image-Jul-24-2026-11_59_53-AM-1-200x300.png",DocuBay
+https://live-docubay-samsungtv.videostech.cloud/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-09_07_34-PM-1-200x300.png",Kings Of Comedy
+https://cc-ejrl4az77gvl4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejrl4az77gvl4/OTM/OTM_KINGS_OF_COMEDY_SAMSUNG/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/01/ChatGPT-Image-Feb-18-2026-03_30_43-PM-1-200x300.png",Comedy Tadka
+https://streams2.sofast.tv/r/ptnr-swifttv/title-Comedy_Tadka/WiseM3U8_27/sofast/cleanhls/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2024/07/ChatGPT-Image-Apr-1-2026-10_11_30-AM-1-200x300.png",Comedy King
+https://d348ydbk2sf0eq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ttp5jxbr5oygy/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN3600006RT&ads.ssai_vendor=SSSLIVE&pb_type=pb-ttp5jxbr5oygy_cloudfront
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2024/07/ChatGPT-Image-Feb-18-2026-03_13_57-PM-1-200x300.png",Pitaara Comedy
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-217489/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-09_13_00-PM-1-200x300.png",CBC Comedy
+https://d3egupdxpfpmvt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvmrdj3mfu8h4/CBC_Comedy.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-10_34_22-PM-1-200x300.png",Bollywood Max
+https://vods2.aynaott.com/hindimovies/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2023/12/ChatGPT-Image-Dec-18-2025-12_18_43-PM-1-200x300.png",Bollywood 4U
+https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2022/09/ChatGPT-Image-Jan-28-2026-12_35_10-PM-1-200x300.png",Bollywood HD
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2024/03/ChatGPT-Image-Apr-1-2026-11_37_34-AM-1-200x300.png",Bollywood Masala
+https://sofast-lg.vgcdn.net/sofastplayout/751631cf-7a0d-356e-676e-b84cfec03391_0_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-9-2025-01_00_55-PM-1-200x300.png",Bollywood TV
+https://streams2.sofast.tv/r/ptnr-swifttv/title-BOLLYWOOD_TV/sofastplayout/c36a36b6-d7aa-5004-64de-848ef811ce8c_0_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/11/ChatGPT-Image-Feb-7-2026-09_30_17-AM-1-200x300.png",The Movie Club+2
+https://cc-el8oh7stk6uz8.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-el8oh7stk6uz8/RMNK/Amagi/TMC2_IN/TMC2_IN.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_26_47-AM-1-200x300.png",The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_28_28-AM-1-200x300.png",South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_32_06-AM-1-200x300.png",Hollywood Desi
+https://cc-u6hadnoh0u6td.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u6hadnoh0u6td/OTM/OTM_HollywoodActionHindi-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/06/ChatGPT-Image-Jul-23-2026-07_32_30-PM-1-200x300.png",NH BollyGold
+https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/06/ChatGPT-Image-Jul-23-2026-07_29_34-PM-1-200x300.png",NH BollyRaga
+https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/06/ChatGPT-Image-Jul-23-2026-07_27_31-PM-1-200x300.png",NH BollyFlix
+https://2591a0ff9bc74048b89ae1954c9f7bdb.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyflix-airtel/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2024/07/ChatGPT-Image-Apr-1-2026-10_11_30-AM-1-200x300.png",Comedy King
+https://jmp2.uk/stvp-IN3600006RT
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-7-2025-07_07_29-PM-1-200x300.png",Evergreen Hits
+https://mumt07.tangotv.in/zHjX9OFlEVERGREENHITS2/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-09_58_41-PM-1-200x300.png",Hitz Entertainment
+https://amigofx.com:1936/hitzentertainment/hitzentertainment/playlist.m3u8
 #EXTINF:-1,discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1,Pk sport
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1,Bangla Wurope
 https://cdn.ghuddi.live/tvapp/Bangla_TV_EU_New/playlist.m3u8
-#EXTINF:-1,Shemaroou Mang
-https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
-#EXTINF:-1,Shemaroo Tv
-https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1,M Tunes
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/playlist.m3u8
 #EXTINF:-1,M Tv
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-#EXTINF:-1,Shemaro Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1,Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1,Epic music
-https://live-epicmusic-samsungtv.videostech.cloud/playlist.m3u8
-#EXTINF:-1,Epic Bhojpuri
-https://live-epicbhojpuri-samsungtv.videostech.cloud/playlist.m3u8
-#EXTINF:-1,Epic tv
-https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1,Epic Bhojpuri
-https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://redforce.live/assets/images/MAX%2011748857466.png",Max 1
 http://103.175.73.12:8080/live/164/164_0.m3u8
@@ -7786,7 +7917,9 @@ https://aps32.playlist.ttvnw.net/v1/playlist/Cv4GDnqRpqYCS2ln6Qro8y2ABHU5fEPkbrH
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://familytvbd.com/wp-content/uploads/2023/10/Logo.png",Family Tv
-https://aps33.playlist.ttvnw.net/v1/playlist/Cu0G03IhT_9XBcvJ96P1wVgP_TyxYkf2M6N0PgpBdunTOQbp_nP2fxsZG3YVjmAVwugFz_uVo3Cu8H1GVwT_GCAEWR7xmv-BurKlSDqXrhcsJ94hmD_-gXjZ6r9TymQuy_JbjpDsGeiAWP6pB-7jY0TSizYCaoP4Bknw78OX8SlFkNs44pOwPvU5k8jniwMKby7D4XNJ-DJ0DNOp5rbTrWyRvm1icB68vSHe5lbGb7WdhmQdtlmboYWgBTWPXiwwwhtoKgNfKa7DFaH1dMlahsVU_ZG9lL9nyCmnBg-1JBs8BFXQW_qD0y7bOY07wCPrZPehKkqGillOqWBjKXHF3uUoajAwbQb2NxXEULrhZO2u6u8t3Eclr-E1f9OEFc9BB0387rO1lLXoQTSjEzu3mG5cgbITJHebq6EHBO6lN4X4S_qxjpQn4vMOH-zwEpdxcIZiTB2HjNPxgB-ihMnUN_tpRKy-Uq1GBUBciCfBGACnam8iVQ-B9kGSPnnBd3qLZHPDoFbKU2wlQHGbhQlxSkKLmf2JZ88QwfLOZG249-OdTu0_aC_Mlr2vQ8nar4MqTFLGbEGG9U9fy2VLlxJx6jPEn7VoGYKlbyxwqS61qbDNvRsXsEjDlm2ni-Ca_amglirr0ZcvpqSZq6iR-0fA-f6Ds9HPgQMRY_AgZBTuxo96ndrAGxH75WrDDsFMpmXnDIDwcovR_n8kpiyhxqDeu3oid5y6FW6nt_p2u6qWNCtmjQVAnqpq7lhjxWsY6zzFkWkwyLnQrFPWvBllm5nJ_cn4ClEof1vVLYJ2NC7vN3iP-bBQx9W-ofa1RFQTAiTggroMpr_Q9a4A0poaFaSFjQD7sXgd4nD_1arRjHeqz9dmX1hIsZRXXAPQqkyYvziMIut0I3eQt6uSEYUv9KVDW4Fp_LHf-N2Hm27VG5E-3uNwmk6EEoVQ7h41jjvdiAyP7z2ZbKwX8cqZLuKTC3-zFSDEM7Xn5miZkGT30HkaReZ9GKQtlD0h4ZNAn0iFcQKi0plbCloT43HeVOBgec9VRmKe0GQiJA37DSigmAjksdf4ZnN3ykLz85EgXhrr7yUJxbWNvl6mTrgEdDcL2S26zKkpC_lDC3_itmhT6_AmZv05Y66O7cVVZZImDj34gHA2yukw_myIU4OAB8ssKe1piBoMUmS7MO1T04nSpg9HIAEqCXVzLXdlc3QtMjDGDw.m3u8
+https://aps33.playlist.ttvnw.net/v1/playlist/Cu8GR5g9MOorAuzucGLCglsHwu02DDKdJg4o8bZ1qLw3alYqfRFLgX7dNPy13bH2Z_5I86tqEIPwhWbIsuQuzbdLgOVjV4flpx2Jpq1lruScCDQNIDRTT54fjsF18R15CGtie8p5n4dxwdfJZq1u0-P5hfu7xY0yi4AnSwBV6CmAMIIYY66aXHidX0e1L7LVO_WNg3ICJTivDe1BV6-zA2dwWqeJCvdH3W7aKeeJtJZBrDISQJAGAh_e-YMwVQJej6NXzJtO4tiffB8gNXxzirM2NUKpNUSuG7ey57uRDPqkQR4Y1I3fgy9gRd4_6M7ZVcWTnffDiLoovK6hPaVG1jvSovKcw7rcs_V_mzHVxczLYkNvuMBFZnaksmw8I9ZjN1N_mqdC7XybHwVkno9AcopRRMrOFRnDGfS91t-NTnoe4USXNc2aRNJVyXjfyPR5tUrKeV0zPxxO-QWWp1Y7D7assZuyo9wDoJQY5CF_074dbHt1SkT1PLKGUNYRWwpt6gAMMw-R8ChfqzmXjGcEPSWmfeG_s3i5qvLKjQil9HRFtpmQGrEaMDXa1Gi0C_zMMXQ84e4wraovezVGDrplW-4NUiozTDmouBRlzgNizIAmQbN_rR6FB9oGbDOxN15SDDXy2bXN0zzOoeV4uac85tXUQ0cqJTnNIFx5Giq-gtBf9eWunPGNL2LvmYFXUzjN3W_BoJJ9BeCDLB2PcAvOgNkL6W5_DaFbqAjMGsheUPr9PxYiEE_0nEhL7xy9qkI8X4iINSCAUZ1gLUIrsr4O976WvHNQ5_V-U5ETkUa6UsqAy3pE7X_5p3xgqklo-UHWSxfUonPhfJe1ED1YTMklFrVuwAmqyP-vkoAfXO9MHf1euNCNkP2KsKi2qNU5Sf7_32_W9rUrE-3MtVvcwbTU4AOmkFAHlEtlT6iPk3Bk2O7HwmDPwURFdJ3u098aH_he_f_SZfvdUNON6MZZNF48m792wqSiTDXLgKtzmx225OWWMYQB-nbsRAtpUF2Uey5-UyCRs1duuA33nxuJdAl-EZNkURvjZW48NnLCDYYxiPX2NJMreC8ZAMerqsx95mXibrn8HPb45lHWfgW_qWmORE3Kmt-XaqzIFWP_SLLV7T7X8p-uSYiy9V7Bg4fCLjbGgXKad4J5sgLUlkxhY_uyD49KGgyI4DVYCQY_vKWerSUgASoJdXMtd2VzdC0yMPEP.m3u8
+
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.shadhinbanglanews.com/uploads/logo/1773072286_456123.jpeg%20copy.jpg",Shadin Bangla
 https://aps32.playlist.ttvnw.net/v1/playlist/CoIHxjqSc1GTLdpPEmo31avsjKWP9qgKL6T4pkeGY-KaKuQyF2N0t8f18Ke--NfRSlcsMLc8wbOM19GKyRx2Cu97L92fNenzsJed77_hq0klH-KlyDjysvppryR3jEwNKklSifKVuqynZzGtcRHfzltNrLdoA5TANCtwpZtevvaKjnYJ4VojoDAbY4qGdqwu8HXLJPEbX0PaC2_OBKIVf34Jwbj1Q_E9RipAeQFhqapV_HgLKO8L4i3xN7ZRjZwEwkiHTYvrIDoavRjxzxiJL7W-8noBvub4CZBqC2NXfufBgOtJ8YKF-S6DNYdkA_--DZzpxbZfl6TmDShaOvKQFnVhyLu5POuA1SCY7lvIG5EfjT49wo-Zb43x9EXR-DSPd_EsjRGmXgVkfNl_bCOmUzOvEftmo29qicxCEc6jWzDLnmFGauWui7rk2MaCl75faz_xfzoHpJtbh6KxSxh5bAY6mxjwxVN1hmGwCVACrgwA45hi7L9nRxT8fzzSitIMHek8mZBbicc3ZWbafuuVjXlVCPPGyAm6BVNIC8KBDZsPv8ap5EHxAqOl6wIZHbVXVsYGs6jZyJAE9XOehzz383aopkO0n_7TOrNPXgBpCWhY0xjUHzpn2MTqJhsLlPIJrOTz0ju45xc1t9Rx6Apuau4hf_b1340Rum2kp6MmsjmUmTXrtPYuFqfAbXNntGesM_45E143dOZ3Th5ntQ57IGRjpCm9zJ0yNv6fJH-T6POMYjA5KuyYKxeyU_HXhiqwyWrPZa6pl3S5Sx0NkNQZQBvALEmTOK4PbLDjPMXUAdWw6oKKUjeDdTHp182B7u18MVQ8u2oZASxKTpYAT49k7NttnzK_2cItctATCqvw37gc6Ca_Qc0CF9IUBFRxzJJJq5Y1EghMIKA2Tb3UPDJJWb0c5P6vFgTX7JIuCjwYyaUhJdTCP025cgSF4UP9BZAqlDcVhJoiOJ0gCv1KPC2yExvkmUGKsF4FQJkNLp8sjUJ_9UQzYCJI-MWpUVcp6o1V12vTq_QNw7CAzZKemgdWw0N65D2g2DfWasybtSfJaYslyStvmIBhtXlwPFPcWShq4KTjKjq14y-MJdryNw4F6eNo8R7YMrO90wZ-lXRn1RshzFWLgsILb275LP59imTHco4g5XMxgRetBFrRKve9OUxbfm-zq2oibFtkj1Q-viPe0kwLUBoMdr09dRN73xz4Dg7hIAEqCXVzLXdlc3QtMjCaDw.m3u8
