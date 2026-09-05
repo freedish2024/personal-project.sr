@@ -9629,7 +9629,7 @@ https://network24.live:4433/Newsinbangla/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.zengatv.com/sristitv.html?s=live%20tv",Sristi TV
 https://legitpro.co.in/live7/sristitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN-Zodiak TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv-150x150.jpg?x95285" group-title="bangla-channel",IN-Zodiak TV
-https://ranacable.duckdns.org/ZodiakTv/embed.html
+https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLT7UxJc5_ljWWF_dWi0wzrZRWo4iFFFSfmA&s",DRISHTI
 https://ranacable.duckdns.org/Test/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDowGVSB1iNxdyqP6cFQ9Hq3IHuBKFCoiTcfxOecAgd7jT3KAx4-8asV_M4oP7_ng7Maenw_C_3ka1xxzhARNZFh0.jpg",Rana Cable TV
@@ -9646,6 +9646,21 @@ https://ranacable.duckdns.org/AloTv/tracks-v1a1/index.m3u8
 https://ranacable.duckdns.org/Bprimebangla/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNe8OlKS40TMuhCALqSDvjNmHvspW8VDmpltAzcgFLg&s",Montel News
 https://ranacable.duckdns.org/montelnews/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/SGCN_Music_2024.png/revision/latest?cb=20250530033624",SGCN MUSIC
+https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/SGCN_Banglar_Jatra.png/revision/latest/scale-to-width-down/135?cb=20250530042834",SGCN BANGLA JATRA
+https://bdix.ottking.top:8082/SGCN-JATRA/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/58/SGCN_Cinema_2024.png/revision/latest/scale-to-width-down/132?cb=20250530033535",SGCN CINEMA
+https://bdix.ottking.top:8082/SGCN-CINEMA/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/64/SGCN_Bangla_Classic.png/revision/latest/scale-to-width-down/132?cb=20250530042210",SGCN BANGLA CLASSIC
+https://bdix.ottking.top:8082/SGCN-CLASSIC/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/90/SGCN_Bangla_Cinema.png/revision/latest/scale-to-width-down/132?cb=20250530042129",SGCN BANGLA CINEMA
+https://bdix.ottking.top:8082/SGCN-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e7/SGCN_Binodon.png/revision/latest/scale-to-width-down/132?cb=20250530042412",SGCN BINODON
+https://bdix.ottking.top:8082/SGCN-BINODON/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/SGCN_Hollywood.png/revision/latest/scale-to-width-down/132?cb=20250530042346",SGCN HOLLYWOD
+https://bdix.ottking.top:8082/SGCN-HOLLYWOOD/index.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4F6eDLkmHlpRCUXaecnQ8_AAEIKGWhFKKnA&s",Sonar Bangla
 https://stream.ottlive.co.in/sonarbangla/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNe8OlKS40TMuhCALqSDvjNmHvspW8VDmpltAzcgFLg&s",Montel News
@@ -9990,6 +10005,8 @@ https://account2.livebox.co.in/Motuahls/live.m3u8
 https://amigofx.com:1936/dbhakti/dbhakti/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1r7W5OlU0jJZ4sWUw-70wzSsaDcaz9UFiLJOipMBqw&s",Jtbs Classic
 https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0c/SGCN_Bhakti_2024.png/revision/latest/scale-to-width-down/132?cb=20250530033505",SGCN BANGLA BHAKTI
+https://bdix.ottking.top:8082/SGCN-BHAKTI/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.oxolive.com/wp-content/uploads/2021/05/ChatGPT-Image-Oct-27-2025-07_31_02-PM-1-200x300.png",Sangeet Bangla 
 https://cdn-4.pishow.tv/live/1143/master.m3u8
