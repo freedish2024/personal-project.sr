@@ -1,0 +1,89 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg" group-title="India",ENT | Epic TV
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1615915601Gangaur_TV____720x960.webp" group-title="India",ENT | Gangaur
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="India",MOV | NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOVIES_TVSETS_TVW_720x960.webp" group-title="India",MOV | PITAARA MOVIES
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png" group-title="India",MOV | South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zee_Bollywood_%282025%29.svg" group-title="India",MOV | ZEE BOLLYWOOD
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="India",MU | 8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/18845391659x_JHAKAASmob_384x512.webp" group-title="India",MU | 9X JHAKAAS
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashanmob_384x512.webp" group-title="India",MU | 9X TASHAN
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png" group-title="India",MU | B4U Music India
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png" group-title="India",MU | BritAsiaTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q7G21N6/Deewana.png" group-title="India",MU | DEEWANA HD
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22994/haryana-beat/logo_20241127_213000_70.png" group-title="India",MU | Haryana Beat
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg" group-title="India",MU | Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/9x_Jalwa.png" group-title="India",MU | Jalwa
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="India",MU | Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Mastiii_2023.jpg" group-title="India",MU | Mastiii
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="India",MU | MNTV Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png" group-title="India",MU | NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23049/pitaara-tv/logo_20231219_220959_63.png" group-title="India",MU | Pitaara TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/PTC_Chakde.jpg" group-title="India",MU | PTC Chakde
+https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Ptc_Music.jpg" group-title="India",MU | PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xS5lNT.png" group-title="India",MU | Public Music
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg" group-title="India",MU | Punjabi Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68.png" group-title="India",MU | Saga Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/5e027b28-fb0e-49cc-9962-44babcc450ce/0.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/X3ttehXK00EG5HC9KkuXk_X8hoRON7OI8bdibhFqXi_UVstDxXktnWGp7uQPnQJypO-lb0OL=s72-c-k-c0x00ffffff-no-rj" group-title="India",MU | Saga Music Haryanvi
+https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="India",MU | Sana Plus
+https://galaxyott.live/hls/sanaplus.m3u8
+#EXTINF:-1 tvg-logo="https://steelbirdmusic.tv/m/images/logo1.png" group-title="India",MU | Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+
+https://bdix.ottking.top/mobile/SGCN-BHAKTI/video.m3u8?token=axAjCb3jZOsj21
+
+https://bdix.ottking.top/mobile/SGCN-JATRA/video.m3u8?token=axAjCb3jZOsj21
+
+https://bdix.ottking.top/mobile/SGCN-HOLLYWOOD/video.m3u8?token=axAjCb3jZOsj21
+
+https://bdix.ottking.top/mobile/SGCN-CLASSIC/video.m3u8?token=axAjCb3jZOsj21
+
+https://bdix.ottking.top/mobile/SGCN-BANGLA-CINEMA/video.m3u8?token=axAjCb3jZOsj21
+
+
+
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/SGCN_Banglar_Jatra.png/revision/latest/scale-to-width-down/135?cb=20250530042834",SGCN BANGLA JATRA
+https://bdix.ottking.top:8082/SGCN-JATRA/index.m3u8?token=axAjCb3jZOsj21
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0c/SGCN_Bhakti_2024.png/revision/latest/scale-to-width-down/132?cb=20250530033505",SGCN BANGLA BHAKTI
+https://bdix.ottking.top:8082/SGCN-BHAKTI/index.m3u8?token=axAjCb3jZOsj21
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/SGCN_Hollywood.png/revision/latest/scale-to-width-down/132?cb=20250530042346",SGCN HOLLYWOD
+https://bdix.ottking.top:8082/SGCN-HOLLYWOOD/index.m3u8?token=axAjCb3jZOsj21
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/64/SGCN_Bangla_Classic.png/revision/latest/scale-to-width-down/132?cb=20250530042210",SGCN BANGLA CLASSIC
+https://bdix.ottking.top:8082/SGCN-CLASSIC/index.m3u8?token=axAjCb3jZOsj21
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/90/SGCN_Bangla_Cinema.png/revision/latest/scale-to-width-down/132?cb=20250530042129",SGCN BANGLA CINEMA
+https://bdix.ottking.top:8082/SGCN-BANGLA-CINEMA/index.m3u8?token=axAjCb3jZOsj21
+
+
+
+
+
