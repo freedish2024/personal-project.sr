@@ -1,0 +1,162 @@
+plugins {
+    id("com.android.application")
+    id("org.jetbrains.kotlin.android")
+}
+
+android {
+    namespace = "com.example.livetv"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.livetv"
+        minSdk = 23
+        targetSdk = 35
+        versionCode = 1
+        versionName = "1.0"
+    }
+}
+
+dependencies {
+    implementation("androidx.core:core-ktx:1.15.0")
+    implementation("androidx.appcompat:appcompat:1.7.0")
+
+    implementation("androidx.media3:media3-exoplayer:1.5.1")
+    implementation("androidx.media3:media3-ui:1.5.1")
+}
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:label="My Live TV"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="landscape"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+    </application>
+
+</manifest>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000">
+
+    <androidx.media3.ui.PlayerView
+        android:id="@+id/playerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:keepScreenOn="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="#151515">
+
+        <Button
+            android:id="@+id/btnSaudi"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Saudi Sunnah" />
+
+        <Button
+            android:id="@+id/btnSony"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Sony Entertainment" />
+
+    </LinearLayout>
+
+</LinearLayout>
+package com.example.livetv
+
+import android.os.Bundle
+import android.widget.Button
+import androidx.appcompat.app.AppCompatActivity
+import androidx.media3.common.MediaItem
+import androidx.media3.exoplayer.ExoPlayer
+import androidx.media3.ui.PlayerView
+
+class MainActivity : AppCompatActivity() {
+
+    private lateinit var playerView: PlayerView
+    private var player: ExoPlayer? = null
+
+    private val saudiSunnah =
+        "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+
+    private val sonyEntertainment =
+        "https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8"
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        setContentView(R.layout.activity_main)
+
+        playerView = findViewById(R.id.playerView)
+
+        val btnSaudi = findViewById<Button>(R.id.btnSaudi)
+        val btnSony = findViewById<Button>(R.id.btnSony)
+
+        initializePlayer()
+
+        btnSaudi.setOnClickListener {
+            playChannel(saudiSunnah)
+        }
+
+        btnSony.setOnClickListener {
+            playChannel(sonyEntertainment)
+        }
+    }
+
+    private fun initializePlayer() {
+
+        player = ExoPlayer.Builder(this).build()
+
+        playerView.player = player
+
+        playChannel(saudiSunnah)
+    }
+
+    private fun playChannel(url: String) {
+
+        val mediaItem = MediaItem.fromUri(url)
+
+        player?.apply {
+            setMediaItem(mediaItem)
+            prepare()
+            play()
+        }
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+
+        player?.release()
+        player = null
+    }
+}
+
+m
