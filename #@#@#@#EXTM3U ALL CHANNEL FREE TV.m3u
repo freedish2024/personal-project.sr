@@ -5283,6 +5283,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/jehEA54BIxFjn23xAmdw/posters/f20b1b2e-3662-4da5-a71b-3f769d2a9a4e.png" group-title="OTAPP",Islamic TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/islamic_tv
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/jehEA54BIxFjn23xAmdw/posters/f20b1b2e-3662-4da5-a71b-3f769d2a9a4e.png" group-title="OTAPP",Islamic TV
+https://bdix.ottking.top:8082/Islamic-TV/video.m3u8?token=kSQnfeLhaaeQj1
+#EXTINF:-1, Ltv-Waz-24/7
+https://bdix.ottking.top:8082/Ltv-Waz-24/7/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1, mmnhdquran
 http://mmn.mypsx.net:1935/live/mmnhdquran/chunklist_w731646300.m3u8
 #EXTINF:-1, Huda TV
@@ -5861,6 +5865,8 @@ http://198.195.239.50:8095/CARTON.NETWORK.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/NICK%20JR1745042397.png",Nick Jr
 http://198.195.239.50:8095/NICK.JR/index.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/BAL%20BHARAT1745041576.png",Etv Bal Bharat Bangla
+https://bdix.ottking.top:8082/BAL-BHARAT/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1,Durondo TV KIDS
 http://198.195.239.50:8095/duranta/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sonic KIDS
@@ -7125,10 +7131,14 @@ http://103.72.65.226:8080/Channel1/tracks-v1a1/mono.m3u8
 http://103.158.133.53:8080/Star_news/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Duronto Tv
 http://103.72.65.226:8080/duronoto_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WwOEQBojotoLpvMF2JhV1MWm9SwWDAj-9DM3mwfkhw&s"; Ltv
+https://bdix.ottking.top:8082/LTV/video.m3u8?token=kSQnfeLhaaeQj1
+#EXTINF:-1, Channel 1
+https://bdix.ottking.top:8082/Channel-1/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/Prime-Tv-Jagobd.png",Prime tv
-https://bdix.ottking.top:8082/Prime-TV/index.m3u8
+https://bdix.ottking.top:8082/Prime-TV/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1, OTT-KING-TV-music
-https://bdix.ottking.top:8082/OTT-KING-TV-music/index.m3u8
+https://bdix.ottking.top:8082/OTT-KING-TV-music/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1, sonyAath
 http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1, jalshaMovies
@@ -9769,17 +9779,17 @@ https://ranacable.duckdns.org/montelnews/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/SGCN_Music_2024.png/revision/latest?cb=20250530033624",SGCN MUSIC
 https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/SGCN_Banglar_Jatra.png/revision/latest/scale-to-width-down/135?cb=20250530042834",SGCN BANGLA JATRA
-https://bdix.ottking.top:8082/SGCN-JATRA/index.m3u8
+https://bdix.ottking.top:8082/SGCN-JATRA/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/58/SGCN_Cinema_2024.png/revision/latest/scale-to-width-down/132?cb=20250530033535",SGCN CINEMA
-https://bdix.ottking.top:8082/SGCN-CINEMA/index.m3u8
+https://bdix.ottking.top:8082/SGCN-CINEMA/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/64/SGCN_Bangla_Classic.png/revision/latest/scale-to-width-down/132?cb=20250530042210",SGCN BANGLA CLASSIC
-https://bdix.ottking.top:8082/SGCN-CLASSIC/index.m3u8
+https://bdix.ottking.top:8082/SGCN-CLASSIC/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/90/SGCN_Bangla_Cinema.png/revision/latest/scale-to-width-down/132?cb=20250530042129",SGCN BANGLA CINEMA
-https://bdix.ottking.top:8082/SGCN-BANGLA-CINEMA/index.m3u8
+https://bdix.ottking.top:8082/SGCN-BANGLA-CINEMA/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e7/SGCN_Binodon.png/revision/latest/scale-to-width-down/132?cb=20250530042412",SGCN BINODON
-https://bdix.ottking.top:8082/SGCN-BINODON/index.m3u8
+https://bdix.ottking.top:8082/SGCN-BINODON/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/SGCN_Hollywood.png/revision/latest/scale-to-width-down/132?cb=20250530042346",SGCN HOLLYWOD
-https://bdix.ottking.top:8082/SGCN-HOLLYWOOD/index.m3u8
+https://bdix.ottking.top:8082/SGCN-HOLLYWOOD/video.m3u8?token=kSQnfeLhaaeQj1
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4F6eDLkmHlpRCUXaecnQ8_AAEIKGWhFKKnA&s",Sonar Bangla
 https://stream.ottlive.co.in/sonarbangla/index.m3u8
@@ -10126,8 +10136,7 @@ https://amigofx.com:1936/dbhakti/dbhakti/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1r7W5OlU0jJZ4sWUw-70wzSsaDcaz9UFiLJOipMBqw&s",Jtbs Classic
 https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0c/SGCN_Bhakti_2024.png/revision/latest/scale-to-width-down/132?cb=20250530033505",SGCN BANGLA BHAKTI
-https://bdix.ottking.top:8082/SGCN-BHAKTI/index.m3u8
-
+https://bdix.ottking.top:8082/SGCN-BHAKTI/video.m3u8?token=kSQnfeLhaaeQj1
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.oxolive.com/wp-content/uploads/2021/05/ChatGPT-Image-Oct-27-2025-07_31_02-PM-1-200x300.png",Sangeet Bangla 
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.oxolive.com/wp-content/uploads/2023/06/ChatGPT-Image-May-24-2025-05_39_43-PM-200x300.png",Dhoom Music 
@@ -14453,141 +14462,6 @@ http://87.255.35.150:18212
 #EXTINF:,Sony yay 
 http://87.255.35.150:18285
 
-
-
-
-#EXTINF:-1,★☆★ COCUK ★☆★
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/95271
-#EXTINF:-1,TRT ÇOCUK HD+
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559706
-#EXTINF:-1,TRT ÇOCUK HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559705
-#EXTINF:-1,TRT DİYANET ÇOCUK HD+
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559704
-#EXTINF:-1,TRT DİYANET ÇOCUK HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559703
-#EXTINF:-1,BABY TV HD+
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559702
-#EXTINF:-1,BABY TV HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559701
-#EXTINF:-1,DISNEY JR HD+
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559700
-#EXTINF:-1,DISNEY JR HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559699
-#EXTINF:-1,DA VINCI HD+
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/597512
-#EXTINF:-1,SMART ÇOCUK HD+
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559698
-#EXTINF:-1,SMART ÇOCUK HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559697
-#EXTINF:-1,CARTOONITO FHD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674447
-#EXTINF:-1,CARTOONITO HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674448
-#EXTINF:-1,CARTOON NETWORK HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559696
-#EXTINF:-1,CARTOON NETWORK
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559695
-#EXTINF:-1,NICK JR HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559694
-#EXTINF:-1,NICK JR
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559693
-#EXTINF:-1,NICKELODEON HD+
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559691
-#EXTINF:-1,NICKELODEON HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559692
-#EXTINF:-1,NICKTOONS HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559690
-#EXTINF:-1,NICKTOONS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559689
-#EXTINF:-1,MINIKA GO HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559688
-#EXTINF:-1,MINIKA GO
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559687
-#EXTINF:-1,MINIKA ÇOCUK HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559686
-#EXTINF:-1,MINIKA ÇOCUK
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559685
-#EXTINF:-1,SPACETOON TV HD+
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/676842
-#EXTINF:-1,GÜLDÜY GÜLDÜY ÇOCUK
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571386
-#EXTINF:-1,BOOBA
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571382
-#EXTINF:-1,BARBİE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571379
-#EXTINF:-1,KRAL ŞAKİR
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571385
-#EXTINF:-1,CANIM KARDEŞİM
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559677
-#EXTINF:-1,ÇİZGİ FİLM TV
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571322
-#EXTINF:-1,MASAL DİYARI
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571380
-#EXTINF:-1,MAŞA İLE KOCA AYI
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571381
-#EXTINF:-1,LİMON İLE ZEYTİN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571318
-#EXTINF:-1,ŞEKER HOCA
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571384
-#EXTINF:-1,SEVİMLİ DOSTLAR
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571383
-#EXTINF:-1,PEPPA PİG
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571378
-#EXTINF:-1,NİLOYA 1
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571323
-#EXTINF:-1,NİLOYA 2
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571376
-#EXTINF:-1,KUKULİ 1
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571326
-#EXTINF:-1,KUKULİ 2
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571371
-#EXTINF:-1,PEPEE 1
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571375
-#EXTINF:-1,PEPEE 2
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571374
-#EXTINF:-1,RAFADAN TAYFA 1
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571373
-#EXTINF:-1,RAFADAN TAYFA 2
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571317
-#EXTINF:-1,PIJAMASKELİLER 1
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571372
-#EXTINF:-1,PIJAMASKELİLER 2
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571325
-#EXTINF:-1,ANİMASYON 1
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571310
-#EXTINF:-1,ANİMASYON 2
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571309
-#EXTINF:-1,ANİMASYON 3
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571370
-#EXTINF:-1,ŞİRİNLER 1
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571369
-#EXTINF:-1,ŞİRİNLERLER 2
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571312
-#EXTINF:-1,WARNER BROS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571319
-#EXTINF:-1,TOM VE JERRY
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571324
-#EXTINF:-1,SCOOBY DOO
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571321
-#EXTINF:-1,HAYALET CASPER
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571320
-#EXTINF:-1,TAŞ DEVRİ
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571316
-#EXTINF:-1,REDKİT
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571314
-#EXTINF:-1,HEIDI
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571313
-#EXTINF:-1,ARI MAYA
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571315
-#EXTINF:-1,ALVİNNNN!
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571367
-#EXTINF:-1,MÜFETTİŞ GADGET
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571366
-#EXTINF:-1,TRANSFORMERS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571365
-#EXTINF:-1,JURASSİC WORLD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571368
 #EXTINF:-1,★☆★ SPECIAL BOX COCUK 24/7 ★☆★
 http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210351
 #EXTINF:-1,COCUK 7/24 | ANGRY BIRDS TOONS
