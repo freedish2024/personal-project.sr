@@ -886,6 +886,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1,abnsat
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:-1 tvg-id="StarWorldMiddleEast.ae@SD",Star World Middle East (720p)
+http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png" ,السعودية الآن 
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440390
@@ -5257,6 +5259,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://stream.ottplus.live/live/islamic_tv/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/01/Islamictvbd-768x768.jpeg",Islamic TV
 https://bdix.ottking.top:8082/Islamic-TV/video.m3u8?token=ottking_247_7
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/01/Islamictvbd-768x768.jpeg",Islamic TV
+https://toffee-proxy.usergamil15.workers.dev/islamic_tv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x13834",ATN ISLAMIC 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
@@ -5308,9 +5312,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/islamic_tv
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/jehEA54BIxFjn23xAmdw/posters/f20b1b2e-3662-4da5-a71b-3f769d2a9a4e.png" group-title="OTAPP",Islamic TV
-https://bdix.ottking.top:8082/Islamic-TV/video.m3u8?token=kSQnfeLhaaeQj1
+https://bdix.ottking.top:8082/Islamic-TV/video.m3u8?token=ottking_247_7
 #EXTINF:-1, Ltv-Waz-24/7
-https://bdix.ottking.top:8082/Ltv-Waz-24/7/video.m3u8?token=kSQnfeLhaaeQj1
+https://bdix.ottking.top:8082/Ltv-Waz-24/7/video.m3u8?token=ottking_247_7
 #EXTINF:-1, mmnhdquran
 http://mmn.mypsx.net:1935/live/mmnhdquran/chunklist_w731646300.m3u8
 #EXTINF:-1, Huda TV
@@ -5976,9 +5980,9 @@ https://stream8.cinerama.uz/1407/index.m3u8
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png?ref=skym3u.dev",Duronto TV
-http://103.135.253.32:8080/DORONTU-TV/index.m3u8
+http://103.158.133.53:8080/Durontotv_ibstvbd.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png?ref=skym3u.dev",Nick Bangla
-http://103.135.253.32:8080/NICK/index.m3u8
+http://103.158.133.53:8080/Nick/ibstvbd.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kGj5L3xW/20240823_021535.png?ref=skym3u.dev",Hungama
 http://103.135.253.32:8080/HUNGAMA/index.m3u8
 #EXTINF:-1, Duronto
@@ -5993,6 +5997,8 @@ http://149.100.11.252:8000/play/a056/index.m3u8
 https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="GreenGoldTV.in@India",Green Gold TV (1080p)
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonArabia.ae@SD",Nickelodeon Arabia (1080i)
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/DURANTA%20TV1745043400.png",Duranta TV
@@ -6034,6 +6040,447 @@ http://198.195.239.50:8095/pogo/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/cartoonNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nick Jr
 http://198.195.239.50:8095/nickJr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,HBO ANIMATION
+http://asmr4k.world:8080/hr7457755/h47544577/389158
+#EXTINF:-1,HBO KIDS
+http://asmr4k.world:8080/hr7457755/h47544577/389159
+#EXTINF:-1,NETFLIX KIDS H265
+http://asmr4k.world:8080/hr7457755/h47544577/1152745
+#EXTINF:-1,Netflix Kids
+http://asmr4k.world:8080/hr7457755/h47544577/385891
+#EXTINF:-1,FR | NETFLIX KIDS
+http://asmr4k.world:8080/hr7457755/h47544577/389143
+#EXTINF:-1,EN | NETFLIX  KIDS
+http://asmr4k.world:8080/hr7457755/h47544577/389119
+#EXTINF:-1,MBC ANIME
+http://asmr4k.world:8080/hr7457755/h47544577/389059
+#EXTINF:-1,MBC TOON
+http://asmr4k.world:8080/hr7457755/h47544577/389060
+#EXTINF:-1,[OSN] OSN Baby TV *
+http://asmr4k.world:8080/hr7457755/h47544577/1173234
+#EXTINF:-1,[OSN] OSN Bloomberg
+http://asmr4k.world:8080/hr7457755/h47544577/1173236
+#EXTINF:-1,[OSN] OSN Disney Channel *
+http://asmr4k.world:8080/hr7457755/h47544577/1173247
+#EXTINF:-1,[OSN] OSN Disney Junior *
+http://asmr4k.world:8080/hr7457755/h47544577/1173248
+#EXTINF:-1,[OSN] OSN Disney XD
+http://asmr4k.world:8080/hr7457755/h47544577/1173249
+#EXTINF:-1,[OSN] OSN Kid Zone Arabic **
+http://asmr4k.world:8080/hr7457755/h47544577/1173258
+#EXTINF:-1,[OSN] OSN Kid Zone English **
+http://asmr4k.world:8080/hr7457755/h47544577/1173259
+#EXTINF:-1,[OSN] OSN Kids *
+http://asmr4k.world:8080/hr7457755/h47544577/1173260
+#EXTINF:-1,[OSN] OSN Nick JR
+http://asmr4k.world:8080/hr7457755/h47544577/1173275
+#EXTINF:-1,[OSN] OSN Nick Toons *
+http://asmr4k.world:8080/hr7457755/h47544577/1173276
+#EXTINF:-1,[OSN] OSN Nickelodeon *
+http://asmr4k.world:8080/hr7457755/h47544577/1173277
+#EXTINF:-1,SHAHID Animation
+http://asmr4k.world:8080/hr7457755/h47544577/365435
+#EXTINF:-1,SHAHID Animation EN
+http://asmr4k.world:8080/hr7457755/h47544577/365436
+#EXTINF:-1,Signal Anime AR
+http://asmr4k.world:8080/hr7457755/h47544577/389326
+#EXTINF:-1,Signal Anime EN
+http://asmr4k.world:8080/hr7457755/h47544577/389327
+#EXTINF:-1,hulu Animation
+http://asmr4k.world:8080/hr7457755/h47544577/389425
+#EXTINF:-1,KD | MASHA & THE BEAR
+http://asmr4k.world:8080/hr7457755/h47544577/389520
+#EXTINF:-1,KD | BILL & SEBASTIAN
+http://asmr4k.world:8080/hr7457755/h47544577/389521
+#EXTINF:-1,KD | SHAUN THE SHEEP
+http://asmr4k.world:8080/hr7457755/h47544577/389522
+#EXTINF:-1,KD | TELETUBBIES
+http://asmr4k.world:8080/hr7457755/h47544577/389523
+#EXTINF:-1,KD | SPONGEBOB
+http://asmr4k.world:8080/hr7457755/h47544577/389524
+#EXTINF:-1,KD | ADNAN & LINA
+http://asmr4k.world:8080/hr7457755/h47544577/389525
+#EXTINF:-1,KD | THA SMURFS
+http://asmr4k.world:8080/hr7457755/h47544577/389526
+#EXTINF:-1,KD | TOM & JERRY
+http://asmr4k.world:8080/hr7457755/h47544577/389527
+#EXTINF:-1,KD | COCOMELON AR
+http://asmr4k.world:8080/hr7457755/h47544577/389528
+#EXTINF:-1,KD | COCOMELON EN
+http://asmr4k.world:8080/hr7457755/h47544577/389529
+#EXTINF:-1,KD | MR BEAN
+http://asmr4k.world:8080/hr7457755/h47544577/389530
+#EXTINF:-1,KD | Three Bears
+http://asmr4k.world:8080/hr7457755/h47544577/389531
+#EXTINF:-1,KD | ليث ذا كينج
+http://asmr4k.world:8080/hr7457755/h47544577/389532
+#EXTINF:-1,KD | بطاريق مدغشقر
+http://asmr4k.world:8080/hr7457755/h47544577/389533
+#EXTINF:-1,KD | قصص الأنبياء
+http://asmr4k.world:8080/hr7457755/h47544577/389534
+#EXTINF:-1,KD | قصص الإنسان في القرآن
+http://asmr4k.world:8080/hr7457755/h47544577/389535
+#EXTINF:-1,KD | قصص النساء في القرآن
+http://asmr4k.world:8080/hr7457755/h47544577/389536
+#EXTINF:-1,KD | قصص العجائب في القرآن
+http://asmr4k.world:8080/hr7457755/h47544577/389537
+#EXTINF:-1,KD | قصص الحيوان في القرآن
+http://asmr4k.world:8080/hr7457755/h47544577/389538
+#EXTINF:-1,KD | قصص الآيات في القرآن
+http://asmr4k.world:8080/hr7457755/h47544577/389539
+#EXTINF:-1,KD | قصص الآطفال
+http://asmr4k.world:8080/hr7457755/h47544577/389540
+#EXTINF:-1,CARTOON NETWORK
+http://asmr4k.world:8080/hr7457755/h47544577/389541
+#EXTINF:-1,CARTOON NETWORK EN
+http://asmr4k.world:8080/hr7457755/h47544577/389542
+#EXTINF:-1,Cartoonito EN
+http://asmr4k.world:8080/hr7457755/h47544577/389543
+#EXTINF:-1,NICK
+http://asmr4k.world:8080/hr7457755/h47544577/389544
+#EXTINF:-1,Nickelodeon en español
+http://asmr4k.world:8080/hr7457755/h47544577/389545
+#EXTINF:-1,Nick Ukraine
+http://asmr4k.world:8080/hr7457755/h47544577/389546
+#EXTINF:-1,BeIN_Boomerang
+http://asmr4k.world:8080/hr7457755/h47544577/389547
+#EXTINF:-1,SPACETOON
+http://asmr4k.world:8080/hr7457755/h47544577/389548
+#EXTINF:-1,Rotana Kids
+http://asmr4k.world:8080/hr7457755/h47544577/389549
+#EXTINF:-1,MAJID
+http://asmr4k.world:8080/hr7457755/h47544577/389550
+#EXTINF:-1,Signal Kids EN
+http://asmr4k.world:8080/hr7457755/h47544577/389551
+#EXTINF:-1,guli
+http://asmr4k.world:8080/hr7457755/h47544577/389552
+#EXTINF:-1,TIJI in French
+http://asmr4k.world:8080/hr7457755/h47544577/389553
+#EXTINF:-1,PBS KIDS
+http://asmr4k.world:8080/hr7457755/h47544577/389554
+#EXTINF:-1,Turkish Kids
+http://asmr4k.world:8080/hr7457755/h47544577/389555
+#EXTINF:-1,atfal wamawahib
+http://asmr4k.world:8080/hr7457755/h47544577/389556
+#EXTINF:-1,the Smurfs EN
+http://asmr4k.world:8080/hr7457755/h47544577/389557
+#EXTINF:-1,KIDS SAT
+http://asmr4k.world:8080/hr7457755/h47544577/389558
+#EXTINF:-1,TAHA TV
+http://asmr4k.world:8080/hr7457755/h47544577/389559
+#EXTINF:-1,zoomoo
+http://asmr4k.world:8080/hr7457755/h47544577/389560
+#EXTINF:-1,ROMANCE
+http://asmr4k.world:8080/hr7457755/h47544577/389561
+#EXTINF:-1,SAUD AL-SHURAIM
+http://asmr4k.world:8080/hr7457755/h47544577/389562
+#EXTINF:-1,moonbug
+http://asmr4k.world:8080/hr7457755/h47544577/389563
+#EXTINF:-1,ROYA KIDS
+http://asmr4k.world:8080/hr7457755/h47544577/392976
+#EXTINF:-1,ROYA KIDS ORIGINALS
+http://asmr4k.world:8080/hr7457755/h47544577/392977
+#EXTINF:-1,ROYA KIDS SONGS
+http://asmr4k.world:8080/hr7457755/h47544577/392978
+#EXTINF:-1,ROYA KIDS STORIES
+http://asmr4k.world:8080/hr7457755/h47544577/392979
+#EXTINF:-1,Tom Hanks movies
+http://asmr4k.world:8080/hr7457755/h47544577/393008
+#EXTINF:-1,Tom Hanks Movies+
+http://asmr4k.world:8080/hr7457755/h47544577/393009
+#EXTINF:-1,Tom Cruise Movies
+http://asmr4k.world:8080/hr7457755/h47544577/393010
+#EXTINF:-1,Tom Cruise Movies 2
+http://asmr4k.world:8080/hr7457755/h47544577/393011
+#EXTINF:-1,[AR] Rotana Kids
+http://asmr4k.world:8080/hr7457755/h47544577/355833
+#EXTINF:-1,KD : MBC 3
+http://asmr4k.world:8080/hr7457755/h47544577/439844
+#EXTINF:-1,KD : TOYOR ALJANAH
+http://asmr4k.world:8080/hr7457755/h47544577/439845
+#EXTINF:-1,KD : Nickelodeon
+http://asmr4k.world:8080/hr7457755/h47544577/439846
+#EXTINF:-1,KD : Nick Toons
+http://asmr4k.world:8080/hr7457755/h47544577/439847
+#EXTINF:-1,KD : Nick JR
+http://asmr4k.world:8080/hr7457755/h47544577/439848
+#EXTINF:-1,KD : Cartoon Network AR
+http://asmr4k.world:8080/hr7457755/h47544577/439849
+#EXTINF:-1,KD : KARAMEESH
+http://asmr4k.world:8080/hr7457755/h47544577/439850
+#EXTINF:-1,KD : MARAH TV
+http://asmr4k.world:8080/hr7457755/h47544577/439851
+#EXTINF:-1,KD : SPACETOON
+http://asmr4k.world:8080/hr7457755/h47544577/439852
+#EXTINF:-1,KD : Baraem
+http://asmr4k.world:8080/hr7457755/h47544577/439853
+#EXTINF:-1,KD : Jeem
+http://asmr4k.world:8080/hr7457755/h47544577/439854
+#EXTINF:-1,KD : GULLI
+http://asmr4k.world:8080/hr7457755/h47544577/439855
+#EXTINF:-1,KD : HodHod  TV
+http://asmr4k.world:8080/hr7457755/h47544577/439856
+#EXTINF:-1,KD : Atfal mawaheb
+http://asmr4k.world:8080/hr7457755/h47544577/439857
+#EXTINF:-1,KD : BABY CHANNEL
+http://asmr4k.world:8080/hr7457755/h47544577/439858
+#EXTINF:-1,KD : MICKEY
+http://asmr4k.world:8080/hr7457755/h47544577/439859
+#EXTINF:-1,KD : TAHA
+http://asmr4k.world:8080/hr7457755/h47544577/439860
+#EXTINF:-1,KD : MOVIES Disney
+http://asmr4k.world:8080/hr7457755/h47544577/439861
+#EXTINF:-1,KD : DISNEY JUNIOR 4K
+http://asmr4k.world:8080/hr7457755/h47544577/439862
+#EXTINF:-1,KD : KIDS ZONE
+http://asmr4k.world:8080/hr7457755/h47544577/439863
+#EXTINF:-1,KD : majed 
+http://asmr4k.world:8080/hr7457755/h47544577/439864
+#EXTINF:-1,KD : BEIN BE JUNIOR
+http://asmr4k.world:8080/hr7457755/h47544577/439865
+#EXTINF:-1,MAJD Kids
+http://asmr4k.world:8080/hr7457755/h47544577/829497
+#EXTINF:-1,DISNEY 1
+http://asmr4k.world:8080/hr7457755/h47544577/1393437
+#EXTINF:-1,DISNEY 2
+http://asmr4k.world:8080/hr7457755/h47544577/1393438
+#EXTINF:-1,DISNEY 3
+http://asmr4k.world:8080/hr7457755/h47544577/1393439
+#EXTINF:-1,DISNEY 4
+http://asmr4k.world:8080/hr7457755/h47544577/1393440
+#EXTINF:-1,DISNEY 5
+http://asmr4k.world:8080/hr7457755/h47544577/1393441
+#EXTINF:-1,DISNEY 6
+http://asmr4k.world:8080/hr7457755/h47544577/1393442
+#EXTINF:-1,DISNEY 7
+http://asmr4k.world:8080/hr7457755/h47544577/1393443
+#EXTINF:-1,DISNEY 8
+http://asmr4k.world:8080/hr7457755/h47544577/1393444
+#EXTINF:-1,DISNEY 9
+http://asmr4k.world:8080/hr7457755/h47544577/1393445
+#EXTINF:-1,DISNEY 10
+http://asmr4k.world:8080/hr7457755/h47544577/1393446
+#EXTINF:-1,DISNEY 11
+http://asmr4k.world:8080/hr7457755/h47544577/1393447
+#EXTINF:-1,DISNEY 13
+http://asmr4k.world:8080/hr7457755/h47544577/1393448
+#EXTINF:-1,DISNEY 14
+http://asmr4k.world:8080/hr7457755/h47544577/1393449
+#EXTINF:-1,DISNEY 15
+http://asmr4k.world:8080/hr7457755/h47544577/1393450
+#EXTINF:-1,DISNEY 16
+http://asmr4k.world:8080/hr7457755/h47544577/1393451
+#EXTINF:-1,DISNEY 17
+http://asmr4k.world:8080/hr7457755/h47544577/1393452
+#EXTINF:-1,DISNEY 18
+http://asmr4k.world:8080/hr7457755/h47544577/1393453
+#EXTINF:-1,DISNEY 19
+http://asmr4k.world:8080/hr7457755/h47544577/1393454
+#EXTINF:-1,DISNEY 20
+http://asmr4k.world:8080/hr7457755/h47544577/1393455
+#EXTINF:-1,DISNEY 21
+http://asmr4k.world:8080/hr7457755/h47544577/1393456
+#EXTINF:-1,DISNEY 22
+http://asmr4k.world:8080/hr7457755/h47544577/1393457
+#EXTINF:-1,AR : SERAG 1 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393518
+#EXTINF:-1,AR : SERAG 2 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393519
+#EXTINF:-1,AR : SERAJ 3 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393520
+#EXTINF:-1,AR : SERAJ 4 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393521
+#EXTINF:-1,KD : مغامرات منصور
+http://asmr4k.world:8080/hr7457755/h47544577/1393522
+#EXTINF:-1,KD :  1 منصور بالفصحى
+http://asmr4k.world:8080/hr7457755/h47544577/1393523
+#EXTINF:-1,KD : منصور بالفصحى 2
+http://asmr4k.world:8080/hr7457755/h47544577/1393524
+#EXTINF:-1,KD : منصور بالفصحى 3
+http://asmr4k.world:8080/hr7457755/h47544577/1393525
+#EXTINF:-1,AR_ عدنان ولينا
+http://asmr4k.world:8080/hr7457755/h47544577/1393526
+#EXTINF:-1,AR_ 2 كان ياما كان
+http://asmr4k.world:8080/hr7457755/h47544577/1393527
+#EXTINF:-1,AR_ كان ياما كان 1
+http://asmr4k.world:8080/hr7457755/h47544577/1393528
+#EXTINF:-1,AR_ بوكيمون.
+http://asmr4k.world:8080/hr7457755/h47544577/1393529
+#EXTINF:-1,AR_ مغامرات سندباد
+http://asmr4k.world:8080/hr7457755/h47544577/1393530
+#EXTINF:-1,AR_ ماشة والدب
+http://asmr4k.world:8080/hr7457755/h47544577/1393531
+#EXTINF:-1,KD : عمر وهناء
+http://asmr4k.world:8080/hr7457755/h47544577/1393532
+#EXTINF:-1,KD : baby bus
+http://asmr4k.world:8080/hr7457755/h47544577/1393533
+#EXTINF:-1,KD : Emam El-Bukhari صدق رسول الله
+http://asmr4k.world:8080/hr7457755/h47544577/1393534
+#EXTINF:-1,KD : Masha & The Bear 1 ماشا والدب
+http://asmr4k.world:8080/hr7457755/h47544577/1393535
+#EXTINF:-1,KD : CoComelon كوكو ميلون
+http://asmr4k.world:8080/hr7457755/h47544577/1393536
+#EXTINF:-1,KD : Sponge bob سبونج بوب
+http://asmr4k.world:8080/hr7457755/h47544577/1393537
+#EXTINF:-1,KD : Teletubbies  تليتبيس
+http://asmr4k.world:8080/hr7457755/h47544577/1393538
+#EXTINF:-1,KD : 1  TOM AND JERRY توم وجيري
+http://asmr4k.world:8080/hr7457755/h47544577/1393539
+#EXTINF:-1,KD : 2  TOM AND JERRY توم وجيري
+http://asmr4k.world:8080/hr7457755/h47544577/1393540
+#EXTINF:-1,KD : 3 TOM AND JERRY  توم وجيري
+http://asmr4k.world:8080/hr7457755/h47544577/1393541
+#EXTINF:-1,KD : Fozi Mozi فوزي موزي
+http://asmr4k.world:8080/hr7457755/h47544577/1393542
+#EXTINF:-1,KD : Woody Wood pecker
+http://asmr4k.world:8080/hr7457755/h47544577/1393543
+#EXTINF:-1,KD : Shaun The Sheep
+http://asmr4k.world:8080/hr7457755/h47544577/1393544
+#EXTINF:-1,KD : Mr Bean مستر بين
+http://asmr4k.world:8080/hr7457755/h47544577/1393545
+#EXTINF:-1,KD : DORA دورا والأصدقاء
+http://asmr4k.world:8080/hr7457755/h47544577/1393546
+#EXTINF:-1,KD : CAT HOME بسبوس  بيوت
+http://asmr4k.world:8080/hr7457755/h47544577/1393547
+#EXTINF:-1,KD : KONAN  المحقق كونان م1
+http://asmr4k.world:8080/hr7457755/h47544577/1393548
+#EXTINF:-1,KD : KONAN المحقق كونان م2
+http://asmr4k.world:8080/hr7457755/h47544577/1393549
+#EXTINF:-1,KD : KONAN المحقق كونان م3
+http://asmr4k.world:8080/hr7457755/h47544577/1393550
+#EXTINF:-1,KD : Captin Majed كابتن ماجد
+http://asmr4k.world:8080/hr7457755/h47544577/1393551
+#EXTINF:-1,DEATH NOTE  مذكرة الموت
+http://asmr4k.world:8080/hr7457755/h47544577/1393552
+#EXTINF:-1,KD :  DIGITAL HEROS ابطال الديجتال
+http://asmr4k.world:8080/hr7457755/h47544577/1393553
+#EXTINF:-1,KD : Attack on Titan هجوم العمالقة
+http://asmr4k.world:8080/hr7457755/h47544577/1393554
+#EXTINF:-1,KD : Belle Sebastian بيل وسيباستيان
+http://asmr4k.world:8080/hr7457755/h47544577/1393555
+#EXTINF:-1,KD : FIRE MAN سامي رجل الاطفاء
+http://asmr4k.world:8080/hr7457755/h47544577/1393556
+#EXTINF:-1,KD : Gumball مغامرات كامبول
+http://asmr4k.world:8080/hr7457755/h47544577/1393557
+#EXTINF:-1,KD : Mawkly مسلسل ماوكي
+http://asmr4k.world:8080/hr7457755/h47544577/1393558
+#EXTINF:-1,KD : Nimer.Wardi النمر الوردي
+http://asmr4k.world:8080/hr7457755/h47544577/1393559
+#EXTINF:-1,KD : Sumfrs السنافر
+http://asmr4k.world:8080/hr7457755/h47544577/1393560
+#EXTINF:-1,KD : Babai مغامرات بباي
+http://asmr4k.world:8080/hr7457755/h47544577/1393561
+#EXTINF:-1,AR : علمو أولادكم القرآن
+http://asmr4k.world:8080/hr7457755/h47544577/1393562
+#EXTINF:-1,AR : تعلم مع زكريا
+http://asmr4k.world:8080/hr7457755/h47544577/1393563
+#EXTINF:-1,AR : الامثال في القرآن
+http://asmr4k.world:8080/hr7457755/h47544577/1393564
+#EXTINF:-1,AR : 1 اسرتنا
+http://asmr4k.world:8080/hr7457755/h47544577/1393565
+#EXTINF:-1,AR : أسرتنا 2
+http://asmr4k.world:8080/hr7457755/h47544577/1393566
+#EXTINF:-1,KD : AYAT صحبة الايات 1-15
+http://asmr4k.world:8080/hr7457755/h47544577/1393567
+#EXTINF:-1,KD : AYAT صحبة الايات 16-30
+http://asmr4k.world:8080/hr7457755/h47544577/1393568
+#EXTINF:-1,KD : ISLAM 1-15 هذا الاسلام
+http://asmr4k.world:8080/hr7457755/h47544577/1393569
+#EXTINF:-1,KD : ISLAM 15-30  هذا الاسلام
+http://asmr4k.world:8080/hr7457755/h47544577/1393570
+#EXTINF:-1,KD : YUSEF 1-15 يوسف الصديق
+http://asmr4k.world:8080/hr7457755/h47544577/1393571
+#EXTINF:-1,KD : YUSEF -15-30  يوسف الصديق
+http://asmr4k.world:8080/hr7457755/h47544577/1393572
+#EXTINF:-1,KD : Grizzy & les Lemmings
+http://asmr4k.world:8080/hr7457755/h47544577/1393573
+#EXTINF:-1,KD : MASHA AND THE BEAR
+http://asmr4k.world:8080/hr7457755/h47544577/1393574
+#EXTINF:-1,KD : BLIPPI EN
+http://asmr4k.world:8080/hr7457755/h47544577/1393575
+#EXTINF:-1,KD : Disney+  KID 1
+http://asmr4k.world:8080/hr7457755/h47544577/1393576
+#EXTINF:-1,AR : الرجل الحديدي
+http://asmr4k.world:8080/hr7457755/h47544577/1393577
+#EXTINF:-1,AR : NASTYA 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393578
+#EXTINF:-1,AR :  هدهد
+http://asmr4k.world:8080/hr7457755/h47544577/1393579
+#EXTINF:-1,AR : لؤلؤة امير الصحراء.
+http://asmr4k.world:8080/hr7457755/h47544577/1393580
+#EXTINF:-1,AR :  ديانا وروما.
+http://asmr4k.world:8080/hr7457755/h47544577/1393581
+#EXTINF:-1,AR : النمر المقنع
+http://asmr4k.world:8080/hr7457755/h47544577/1393582
+#EXTINF:-1,AR : الفريق ن
+http://asmr4k.world:8080/hr7457755/h47544577/1393583
+#EXTINF:-1,AR : WANASAT BABY 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393584
+#EXTINF:-1,AR : UNITE 2 BLAST 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393585
+#EXTINF:-1,AR : SHAUN THE SHEEP 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393586
+#EXTINF:-1,AR : MBC TOON 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393587
+#EXTINF:-1,AR : MAJID 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393588
+#EXTINF:-1,AR : KIDS ISLAMIC 1 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393589
+#EXTINF:-1,AR : FIX FOXI CARTON 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393590
+#EXTINF:-1,AR : CHU CHU 1 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393591
+#EXTINF:-1,AR : CHU CHU 2 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393592
+#EXTINF:-1,AR   AKWAM KIDS 1 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393480
+#EXTINF:-1,AR   AKWAM KIDS 2 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393481
+#EXTINF:-1,AR   AKWAM KIDS 3 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393482
+#EXTINF:-1,AR   AKWAM KIDS 4  4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393483
+#EXTINF:-1,AR   AKWAM KIDS 5 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393484
+#EXTINF:-1,AR   AKWAM KIDS 6 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393485
+#EXTINF:-1,AR   AKWAM KIDS 7 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393486
+#EXTINF:-1,AR   AKWAM KIDS 8 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393487
+#EXTINF:-1,AR   AKWAM KIDS 9 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393488
+#EXTINF:-1,AR   AKWAM KIDS 10 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393489
+#EXTINF:-1,AR   AKWAM KIDS 11 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393490
+#EXTINF:-1,AR   AKWAM KIDS 12 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393491
+#EXTINF:-1,AR   AKWAM KIDS 13 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393492
+#EXTINF:-1,AR   AKWAM KIDS 14  4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393493
+#EXTINF:-1,AR   AKWAM KIDS 3 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393494
+#EXTINF:-1,AR   AKWAM KIDS 4 4K
+http://asmr4k.world:8080/hr7457755/h47544577/1393495
+#EXTINF:-1,Christ. Koogi TV
+http://asmr4k.world:8080/hr7457755/h47544577/440500
+#EXTINF:-1,Christ- SAT-7 Kids
+http://asmr4k.world:8080/hr7457755/h47544577/440491
+#EXTINF:-1,[ISL] Al Majd Kids
+http://asmr4k.world:8080/hr7457755/h47544577/440515
+#EXTINF:-1,[ISL] Al Majd Masa
+http://asmr4k.world:8080/hr7457755/h47544577/440516
+#EXTINF:-1,[ISL] Al Majd Rawda
+http://asmr4k.world:8080/hr7457755/h47544577/440520
+#EXTINF:-1,[ISL] Al Majd Science
+http://asmr4k.world:8080/hr7457755/h47544577/440521
+#EXTINF:-1,[ISL] Al Majd Taghareed
+http://asmr4k.world:8080/hr7457755/h47544577/440522
+#EXTINF:-1,[ISL] Al Majd Basma
+http://asmr4k.world:8080/hr7457755/h47544577/440511
 
 #EXTINF:-1, PK | BABY TV FHD
 https://rolextv.one:443/live/8435630013/1234512345/144607.m3u8
@@ -7317,11 +7764,44 @@ http://103.16.24.4:8083/14.m3u8
 http://103.16.24.4:8083/15.m3u8
 #EXTINF:-1, Sun bangla
 http://103.135.253.32:8080/SUN-BANGLA/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1, Bengali Beast
+https://183.giatvcdn.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, TSport
+http://103.238.115.159:8080/T-SPORRTS-HD/index.m3u8?token=AKASH
+#EXTINF:-1, Rtv tile_6
+https://j6nfugukcl.gpcdn.net/tile_6/360p.m3u8
+#EXTINF:-1, Channel 9 ttile_7
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
+#EXTINF:-1, Ekattor ttile_1
+https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
+#EXTINF:-1, Btv ttile_2
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
+#EXTINF:-1, Satv ttile_3
+https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
+#EXTINF:-1, massranga ttile_4
+https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
+#EXTINF:-1, Channel i ttile_5
+https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8
+#EXTINF:-1, Dipto ttile_6
+https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
+#EXTINF:-1, Be
+https://j6nfugukcl.gpcdn.net/tile_2/360p.m3u8
+#EXTINF:-1, Hum
+https://j6nfugukcl.gpcdn.net/tile_2/360p.m3u8
+#EXTINF:-1, Hum Europ
+https://j6nfugukcl.gpcdn.net/tile_3/360p.m3u8
+#EXTINF:-1, Zee cinema
+https://j6nfugukcl.gpcdn.net/tile_4/360p.m3u8
+#EXTINF:-1, Bengali Beast
+https://j6nfugukcl.gpcdn.net/tile_5/360p.m3u8
+#EXTINF:-1, all
+https://j6nfugukcl.gpcdn.net/tile_7/360p.m3u8
 #EXTINF:-1, Gazi TV
 http://103.135.253.32:8080/Gazi-TV/index.m3u8
 #EXTINF:-1, Star News
 http://103.135.253.32:8080/Star-News/index.m3u8
+#EXTINF:-1, Star News
+https://bdix.ottking.top:8082/Star-News/index.m3u8?token=ottking_247_7
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WwOEQBojotoLpvMF2JhV1MWm9SwWDAj-9DM3mwfkhw&s",LTv
 http://138.252.145.236:8082/LTV/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kO8uM2Iwy-Ydtu6i3Gsku6Q2dskadTbtOUIEZ7BvGdNWQ=s900-c-k-c0x00ffffff-no-rj",GAAN BANGLA
@@ -7376,6 +7856,10 @@ http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 #EXTINF:-1,BTV News
 https://btv.hridoytv-channel.workers.dev/news.m3u8
+#EXTINF:-1, toffee_drama
+https://toffee-proxy.usergamil15.workers.dev/toffee_drama/index.m3u8
+#EXTINF:-1, toffee_movie
+https://toffee-proxy.usergamil15.workers.dev/toffee_movie/index.m3u8
 #EXTINF:-1,Channel 1
 http://sm-monirul.xyz/@monirul_Islam_SM/server/live.php?id=channel_1&sm=.m3u8:
 #EXTINF:-1,Star News
@@ -7445,9 +7929,6 @@ http://151.80.18.177:86/National_Geo_HD/tracks-v1a1/mono.m3u8
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1, travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv//1200.m3u8
-
-
-
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
@@ -9822,6 +10303,13 @@ https://uttar-purbanewsmedia.cloud/hls/dbangla/dbangla_live24X7/index.m3u8
 https://uttar-purbanewsmedia.cloud/hls/d24/d24live/index.m3u8
 #EXTINF:-1 tvg-logo="",purnima-TV
 http://162.4.178.27:8888/purnima-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="",purnima-TV
+http://138.252.145.251:8888/purnima-TV/index.m3u8
+#EXTINF:-1 tvg-logo="",purnima-TV
+https://bdix.ottking.top:8082/Rcn-cable-TV/index.m3u8?token=ottking_247_7
+#EXTINF:-1 tvg-logo="",Jtv-Bangla
+https://bdix.ottking.top:8082/Jtv-Bangla/video.m3u8?token=ottking_247_7
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WPHJrSMOtStXEjObsbf42tncU4DgHInuevnf3ZXQvq3H-2hzqX43F_Vh&s=10",RCTV Ent
 https://rctvraiganj.in/live/rctvent/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cb/RCTV_Sangbad_logo_2025.png/revision/latest/scale-to-width-down/1200?cb=20250823035651",RCTV Sangbad
@@ -10112,6 +10600,18 @@ https://ranacableiptv.work.gd/Trail2/index.m3u8
 https://ranacable.duckdns.org/montelnews/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/SGCN_Music_2024.png/revision/latest?cb=20250530033624",SGCN MUSIC
 https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/SGCN_Banglar_Jatra.png/revision/latest/scale-to-width-down/135?cb=20250530042834",SGCN BANGLA JATRA
+https://ranacable.duckdns.org/sgcn-jatra/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/58/SGCN_Cinema_2024.png/revision/latest/scale-to-width-down/132?cb=20250530033535",SGCN CINEMA
+https://ranacable.duckdns.org/sgcn-cinema/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/64/SGCN_Bangla_Classic.png/revision/latest/scale-to-width-down/132?cb=20250530042210",SGCN BANGLA CLASSIC
+https://ranacable.duckdns.org/sgcn-classic/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/90/SGCN_Bangla_Cinema.png/revision/latest/scale-to-width-down/132?cb=20250530042129",SGCN BANGLA CINEMA
+https://ranacable.duckdns.org/sgcn-bangla-cinema/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e7/SGCN_Binodon.png/revision/latest/scale-to-width-down/132?cb=20250530042412",SGCN BINODON
+https://ranacable.duckdns.org/sgcn-binodon/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/SGCN_Hollywood.png/revision/latest/scale-to-width-down/132?cb=20250530042346",SGCN HOLLYWOD
+https://ranacable.duckdns.org/sgcn-hollywood/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/SGCN_Banglar_Jatra.png/revision/latest/scale-to-width-down/135?cb=20250530042834",SGCN BANGLA JATRA
 https://bdix.ottking.top:8082/SGCN-JATRA/video.m3u8?token=ottking_247_7
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/58/SGCN_Cinema_2024.png/revision/latest/scale-to-width-down/132?cb=20250530033535",SGCN CINEMA
@@ -10468,6 +10968,8 @@ rtmp://account2.livebox.co.in/Motua/live
 rtmp://account11.livebox.co.in:1935/DEBASISH/live
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D Motua
 https://account2.livebox.co.in/Motuahls/live.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D BHAKTI
+https://ranacable.duckdns.org/sgcn-bhakti/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D BHAKTI
 https://amigofx.com:1936/dbhakti/dbhakti/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1r7W5OlU0jJZ4sWUw-70wzSsaDcaz9UFiLJOipMBqw&s",Jtbs Classic
@@ -14454,207 +14956,6 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95038
 #EXTINF:-1,24/7 Las aventuras de Timon y Pumba (e)
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102588
 
-
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/BARAEMKIDSEUROPE.png" ,|KIDS| Baraem ᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1254
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" ,|KIDS| beIN Boomerang.
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/2625
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png" ,|KIDS| beIN Cart Net Bein AR
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/4757
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/EUROPE/UK/CBEEBIES.png" ,|KIDS| BeIN CBeebies
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/7415
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/0tv_logo/527.png" ,|KIDS| beIN Junior ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/14567
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png" ,|KIDS| Cartoon Net
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1405
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png" ,|KIDS| Cartoon Network Arabia
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/154
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" ,|KIDS| CH Nickelodeon ᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/8264
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| DIANA&ROMA 01 ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146030
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| DIANA&ROMA 02 ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146031
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| DIANA&ROMA 03 ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146032
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| ELI Kids ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146038
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/MY-HD/FIXFOXI-1.png" ,|KIDS| FIX FOXI ᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/2564
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/0tv_logo/222.png" ,|KIDS| GULLI ARABIC
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/2559
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/ASIA/UAE/HODHODTV.png" ,|KIDS| Hod Hod KIDS
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1360
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/JEEMKIDS.png" tvg-id="jeemtv.qa" ,|KIDS| Jeem ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/78799
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Jugnu Kids 01 ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146033
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Jugnu Kids 02 ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146034
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUUQET-KIDS/KIDS.png" ,|KIDS| KARAMEESH
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/28198
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| KARAMEESH
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/83870
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Karazah Channel ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146042
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Kids Zone  ᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/14564
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| KIDZ ZONE
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/28386
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Lion Family ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146039
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/ALMAJDKIDSHD.png" ,|KIDS| Majid Kids TV
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1335
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Masha TV
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/83868
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/MY-HD/ MY MBC3.png" tvg-id="MBC 3 ARB" ,|KIDS| MBC 3
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1654
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/MICKEYCHANNEL.png" ,|KIDS| MICKEY-CHANNEL
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/83874
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/OSN/OSN-Kids.png" ,|KIDS| Movies Kids ᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/41
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Nastya&Did ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146040
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" ,|KIDS| Nickelodeon Jr ᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/14570
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKTOONS.png" ,|KIDS| OSN NICKTOONS
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/20420
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/ROTANA/Rotana_Kids.png" tvg-id="rotanakids.eg" ,|KIDS| Rotana Kids ᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/52658
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| SASUKI
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/83878
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Saud&Sara ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146041
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/SPACETOON.png" ,|KIDS| SPACETOON
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1283
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Super JOJO 01 ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146035
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Super JOJO 02 ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146036
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Super JOJO 03 ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146037
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/TAHAKIDS.png" ,|KIDS| TAHA
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/6146
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/Tom_Jerry.jpg" ,|KIDS| TOM AND JERY
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/83880
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/KIDS/TOYORALJANAHtoyoraljanah.png" ,|KIDS| Toyor AlJanah TV
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/151
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Wanasat Baby
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/83875
-#EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,|KIDS| Wolfoo Family Kids Cartoon ᵁᴴᴰ
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/146043
-#EXTINF:-1 group-title="|AR| ✪ AL MAJDE" tvg-logo="http://138.199.27.237:8080/0tv_logo/720.png" ,|MAJD| Al Majd  Rawadhah
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/77333
-#EXTINF:-1 group-title="|AR| ✪ AL MAJDE" tvg-logo="http://138.199.27.237:8080/0tv_logo/720.png" ,|MAJD| Al Majd Taghred
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/235481
-#EXTINF:-1 group-title="|US| ✪ KIDS NETWORK" ,|US| Yu-Gi-Oh! en español
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/247059
-#EXTINF:-1 group-title="|US| ✪ KIDS NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/640px-MeTV_Toons.png" ,US| MeTV Toons
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1504030
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ 123 HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391349
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ ABC HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391350
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ ALVINN CHIPMUNKS HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391351
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ ANGRY BIRDS BLUE HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391352
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ ANGRY BIRDS HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391353
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ BABY SHARK HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391354
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ BABY TV HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391355
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ BLIPPI HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391356
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ BLOOPIES HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391357
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ BLUEY HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391358
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ BOB THE BUILDER HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391359
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ BOSS BABY HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391360
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ CLOUD BABIES HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391361
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ COCOMELON HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391362
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ CUP HEAD SHOW HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391363
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ CURIOUS GEORGE HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391364
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ DIANA SHOW HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391365
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ FIREMAN SAM HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391366
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ GARFIELD SHOW HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391367
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ GECKO'S GARAGE HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391368
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ GO DO GO HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391369
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ GRIZZY HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391370
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ LARVA HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391371
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ LITTLE PONY HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391372
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ MASHA & BEAR HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391373
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ MICKEY MOUSE HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391374
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ MIGHT LITTLE BHEEM HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391375
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ MR.BEAN HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391376
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ NASTYA HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391377
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ ODDBODS HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391378
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ OGGY HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391379
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ OMAR & HANA HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391380
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ PAW PATROL HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391381
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ PEPPA PIG HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391382
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ PETS HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391383
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ PINK PANTHER HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391384
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ PJ MASKS HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391385
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ PROPHET STORIES HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391386
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ PUCCA HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391387
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ SHARKDOG HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391388
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ SHAUN THE SHEEP HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391389
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ SONIC HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391390
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ SPIDEY HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391391
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ SPONGEBOB HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391392
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ SUPER WIGNS HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391393
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ TOM & JERRY HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391394
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ VLAD & NIKI HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391395
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ VLAD-CHALLENGE HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391396
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ WOLFO HDW
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391397
-#EXTINF:-1 group-title="|US| ✪ PLAY KIDZ" tvg-logo="http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png" ,┃US┃ PLAY KIDZ ZIG SHARKO HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1391398
-#EXTINF:-1 group-title="Kids" tvg-logo="#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjGuvMTOQBUOeYLnu_fDtndrlI-3R2VoCSNePGe2p8KLhfeg66_huQNsg&s=10",Power Ranger
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/482144
-#EXTINF:-1,AR: Shehab TV HD
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/192411
 #EXTINF:-1,AR: Utoon TV HD
 http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/184144
 
@@ -14674,83 +14975,7 @@ http://87.255.35.150:18212
 #EXTINF:,Sony yay 
 http://87.255.35.150:18285
 
-
-#EXTINF:-1,★☆★ KINDER ★☆★
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/95621
-#EXTINF:-1,TOGGO FHD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674710
-#EXTINF:-1,TOGGO HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674709
-#EXTINF:-1,TOGGO PLUS FHD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674708
-#EXTINF:-1,TOGGO PLUS HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674707
-#EXTINF:-1,KIKA FHD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674706
-#EXTINF:-1,KIKA HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674705
-#EXTINF:-1,NICK JR HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674704
-#EXTINF:-1,NICK JR
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674703
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674702
-#EXTINF:-1,DISNEY CHANNEL HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674701
-#EXTINF:-1,FIX & FOXI HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674700
-#EXTINF:-1,FIX & FOXI
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674699
-#EXTINF:-1,CARTOON NETWORK FHD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674698
-#EXTINF:-1,CARTOON NETWORK HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674697
-#EXTINF:-1,CARTOONITO FHD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/637683
-#EXTINF:-1,CARTOONITO HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/637684
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674696
-#EXTINF:-1,COMEDY CENTRAL HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674695
-#EXTINF:-1,NICKELODEON FHD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674693
-#EXTINF:-1,NICKELODEON HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674694
-#EXTINF:-1,NICKTOONS HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674692
-#EXTINF:-1,NICKTOONS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674691
-#EXTINF:-1,BABY TV HD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674690
-#EXTINF:-1,BABY TV
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674689
-#EXTINF:-1,THE BOSS BABY
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674688
-#EXTINF:-1,KINDER 24/7 PEPPER ANN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614323
-#EXTINF:-1,KINDER 24/7 SPIDER-MAN COMIC
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614312
-#EXTINF:-1,KINDER 24/7 PHINEAS AND FERB
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614301
-#EXTINF:-1,KINDER 24/7 DOUG
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614300
-#EXTINF:-1,KINDER 24/7 JoNaLu
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614298
-#EXTINF:-1,KINDER 24/7 DUCKTALES
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614296
-#EXTINF:-1,KINDER 24/7 DARKWING DUCK
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614295
-#EXTINF:-1,KINDER 24/7 GOOFY AND MAX
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614299
-#EXTINF:-1,KINDER 24/7 LEGO
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614322
-#EXTINF:-1,KINDER 24/7 CALLIOU
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614321
-#EXTINF:-1,KINDER 24/7 SPIDEY und SEINE SUPER FREUNDE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601480
-#EXTINF:-1,KINDER 24/7 ANGRY BIRDS VERRUCKTER SOMMER
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601479
+:8080/@Melek/TOegq4PGJ4/674691
 #EXTINF:-1,KINDER 24/7 BAYMAX
 http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601478
 #EXTINF:-1,KINDER 24/7 BLUEY
