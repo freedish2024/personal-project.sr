@@ -5688,6 +5688,46 @@ https://mrzplayin.fun/roarzon/stream.php?id=7eccfe540a7590406ef28bd40c13ffa0&e=.
 #EXTINF:-1 group-title="Kids" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonyyay.png",Sony Yay Bangla
 http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAbLkfGY3GNU6F7z4B1mzxn7Q0_b5queLQiFNmlWGhw&s=10",Gopal Bhar
+https://playout.vidiyo.com/api/v1/streams/c1a13d9ffbf62c613fe2e912fe97b4c36ff09aee4825964bc793902995880388/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNys_tABy8wFovL2yW-wsDOVthPZzwxjQDTwUmMRBzMQ&s=10",Bantul The Gret
+https://playout.vidiyo.com/api/v1/streams/ac8a2c0e72eadbff9acb5d1e4a730385933f748f20f83b78b541498a6407115d/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/34ee5095-5b54-4162-ba17-62e9dd7820d8/logo-1793646002849.jpeg",I-SAT
+https://playout.vidiyo.com/api/v1/streams/da5ce2ec72bd82e2cc5962ca848ef630bf4a2e20d335ec0ecdc4e4c493efce8b/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw28vTWTJQ4oAQjYIUQg_938KbVxwSbL9AlIQyS2RYIQ&s",Ben 10 24/7 hindi
+https://playout.vidiyo.com/api/v1/streams/f99e880b7985a81935fb9819108aaead32efcef9ef18844339c06fe25131a72b/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajj-SfiWO7agWhIV_LwXewa59liHo9217Ijy7WU6BRA&s=10",Gon the stone age boy
+https://playout.vidiyo.com/api/v1/streams/e28f71f6d63a5ba71bc6f5e4674727c6acc0bc72f6c344975d79e0f9d11833e2/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/968d9598-5156-4b81-b387-854b14c8aa5f/logo-1793228945695.png",LA CHAINE DU PERE NOEL
+https://playout.vidiyo.com/api/v1/streams/022a8d1f012c511d40ae3a853d10f4195b1f79085118dc467240b48c580a7e3e/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/channels/96429df9-268b-45cb-8cb8-7872ee937165/avatar-1791275490810.png",HanaKoCles
+https://playout.vidiyo.com/api/v1/streams/406cba01232b2f7d86c60ae5d289482bf08bfb865bd07de28b82203bc995a5a7/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/44d579b2-65e0-4c4d-b457-7c4443e02721/logo-1793241428753.png",Happychaneel
+https://playout.vidiyo.com/api/v1/streams/c3cef247eb85ca846e34485182331310320b02b7954f384440ed2582f5de96db/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/9bed5ceb-c8ee-4f6b-b0a5-d3e74d9ffc6f/logo-1789845783666.png",Sbt Maranhão Tv
+https://playout.vidiyo.com/api/v1/streams/a8c3c000c1ec1d31fad387dd3a44fe4f670f10d201edaa28f713bef9141657b2/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/channels/191a554b-1b1c-4a7b-95f4-0b9e8bbbacca/avatar-1782996481579.png",Toon Time
+https://playout.vidiyo.com/api/v1/streams/m9a4ueygv2dtetpxmjicauwey8mn3e0c/master.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.bengalbeats.com/media/common/logo.png",Bengali Beats
+https://playout.vidiyo.com/api/v1/streams/d2bdcf50874a2edd4c78a1d0b9da43c28eabf7bac3928ea3e5eab39eb695ecb8/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/channels/e25fee9c-34ec-4655-8e96-532c79f95261/avatar-1792852392742.png",Bangladesi Viral Vidieo
+https://playout.vidiyo.com/api/v1/streams/1a6f628a2b1df0034523f3fd22fd02c33f0b94846aa0d4159461fb77fa8d0fce/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHjEMNun2_VlaDK4V4VKvHDukO7Vpr1o52gjD-dSJ1Q&s=10",24/7 Bengali Old Songs
+https://playout.vidiyo.com/api/v1/streams/2f2564d81116d8fdce4bf6c925574af6338735dc544829b24fdb53732376dfd7/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDaplBawqfmUBB5X41NL0GIuVv3FCowcz4mfqeenV3VQ&s=10",24/7 90's Hindi Songs
+https://playout.vidiyo.com/api/v1/streams/c834d2119ef651d0a5a9ce90b24c457ff91a111944cf4c68a283495960ea69a9/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSV1rseWNpyAfmywC8aS1nLEBUe21ZIIQZKrGTG3tlnA&s",24/7 Alka Yagnik songs
+https://playout.vidiyo.com/api/v1/streams/7bb6222176df58d5e42983dd8c71a2532d5b4316d9321382afb288b8112f6fa1/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjVIXcrXEWC5RfqylYxeY3HWvwl-soeL93konVmNroQ&s=10",24/7 T Play Mixx - Hindi
+https://playout.vidiyo.com/api/v1/streams/9141021324cdecbf3d25c2e3cda6fc08b568847f878fa8dfcade437bcee65f4d/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",24/7 Udit Narayan Songs
+https://playout.vidiyo.com/api/v1/streams/d1181fc3accaeda6fd73d4828bb8425ffc3ab8ce751ea5603acb4481493a83ed/master.m3u8/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/channels/1e4a0233-ca70-4903-812f-db5132fd5f75/avatar-1787766603384.png",Niooon
+https://playout.vidiyo.com/api/v1/streams/11df95386c136ffd24a5dfffb355df629cea8ef766c594a5eb7a7e255e8e41fd/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/27e655ca-00c8-42d4-922e-4db6fc78f95d/logo-1794467966425.jpeg",ASS TV
+https://playout.vidiyo.com/api/v1/streams/1fdda660938e2b03fd27efedc403651730ec0078eabd46709af9ef7d8e3a2f57/master.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS824divMKgrWNVfYRT7qTw5UVDDf02fzNAG9LlU-oF3bHaQijj-0qHvIcj&s=10",Gopal Bhar 209611
 https://183.giatvcdn.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-6-231/list/rsz1170x658withlogoa42e8a74c9f14b5782c42e183fcb5e19.jpg",Batul The Great
@@ -5941,6 +5981,8 @@ http://iptv.prosto.tv:7000/ch76/video.m3u8
 http://iptv.prosto.tv:7000/ch77/video.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://maraya.faulio.com/storage/mediagallery/8c/49/fullhd_4832dcbdd0e9f53d27177b56d59e193be5c0df7b.png",Maraya Tv 
 https://live.kwikmotion.com/smckidslive/tjkids1.smil/playlist.m3u8
+#EXTINF:-1,Disny-Channel-Hindi
+http://103.238.115.159:8080/SDSD/index.m3u8?token=ZIBOPLAYVS
 
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD",Disney Channel HD (1080p)
 https://bdix.ottking.top:8082/Disney-HD/index.m3u8?token=ottking_247_7
@@ -5966,6 +6008,8 @@ https://bdix.ottking.top:8082/POGO/index.m3u8?token=ottking_247_7
 https://bdix.ottking.top:8082/Discovery-Kids/index.m3u8?token=ottking_247_7
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/CARTOON%20NETWORK1745033414.png",Cartoon Networ HD
 https://bdix.ottking.top:8082/cartoon_network_sd/index.m3u8?token=ottking_247_7
+#EXTINF:-1,Disny-Channel-Hindi
+https://bdix.ottking.top:8082/Disny-Channel-Hindi/video.m3u8?token=ottking_247_7
 #EXTINF:-1,disney-xd
 http://185.227.34.179:8080/disney-xd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,disney-channel-hd
@@ -10406,6 +10450,10 @@ https://satpros.tech/hls/omm/stream/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8
 #EXTINF:0, Assam Talks
 https://tvsen7.aynaott.com/AssamTalks/tracks-v1/mono.ts.m3u8
+#EXTINF:0, Dd Tripura
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
+#EXTINF:0, jonakk
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD",Movies Now HD (576p)
@@ -10455,7 +10503,7 @@ http://103.67.97.46/0.ts
 http://103.67.97.45:81/0.ts
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://admin.sunskytv.com/thumb/578.png",AMAR BANGLA 
 http://103.172.152.218:8086/0.ts
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://multireach.in/wp-content/uploads/2023/05/RTV-Bangla.jpeg", RTV Bangla
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/122ad7ce-00d5-4dbd-ac83-9721cc1f5852.jpg", RTV Bangla
 http://150.129.178.198:8086/0.ts
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://rbanglasaradin.in/wp-content/uploads/2025/02/FINAL-copy.jpg", RTV Bangla News
 http://202.142.126.138:8086/0.ts
