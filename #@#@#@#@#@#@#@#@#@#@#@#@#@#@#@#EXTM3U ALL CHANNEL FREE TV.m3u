@@ -94,6 +94,8 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv4/playlist.m
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/3bug9dU.png",Iqraa TV  
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv5/playlist.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://fomnybox.com/tvlogo/zad-tv-live.jpg",Zad Tv
+https://183.giatvcdn.com/ssh101/ssh101/7877/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zad.tv/wp-content/uploads/2015/04/logo.png" group-title="Saudi Arabia(السعودية)", ZAD
 https://filoox.vercel.app/live/353569.m3u8
 #EXTINF:-1 tvg-logo="https://www.zad.tv/wp-content/uploads/2015/04/logo.png" group-title="Saudi Arabia(السعودية)", ZAD
@@ -723,119 +725,6 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660548
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] إغلب السقا
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660549
 
-#EXTINF:-1 tvg-name="Music: Music Alhanen" group-title="ARABIC MUSIC",Music: Music Alhanen
-http://fastshare1.com:80/live/25711345/late8airline/319374.ts
-#EXTINF:-1 tvg-name="Music: Music Alremas 2" group-title="ARABIC MUSIC",Music: Music Alremas 2
-http://fastshare1.com:80/live/25711345/late8airline/319375.ts
-#EXTINF:-1 tvg-name="Music: Music Alremas" group-title="ARABIC MUSIC",Music: Music Alremas
-http://fastshare1.com:80/live/25711345/late8airline/319376.ts
-#EXTINF:-1 tvg-name="Music: Arabica TV" group-title="ARABIC MUSIC",Music: Arabica TV
-http://fastshare1.com:80/live/25711345/late8airline/319377.ts
-#EXTINF:-1 tvg-name="Music: Arabica TV" group-title="ARABIC MUSIC",Music: Arabica TV
-http://fastshare1.com:80/live/25711345/late8airline/319378.ts
-#EXTINF:-1 tvg-name="Music: Free TV" group-title="ARABIC MUSIC",Music: Free TV
-http://fastshare1.com:80/live/25711345/late8airline/319379.ts
-#EXTINF:-1 tvg-name="Music: Mazzika TV" group-title="ARABIC MUSIC",Music: Mazzika TV
-http://fastshare1.com:80/live/25711345/late8airline/319380.ts
-#EXTINF:-1 tvg-name="Music: Nogoum FM TV" group-title="ARABIC MUSIC",Music: Nogoum FM TV
-http://fastshare1.com:80/live/25711345/late8airline/319381.ts
-#EXTINF:-1 tvg-name="Music: Dijlah Zaman TV" group-title="ARABIC MUSIC",Music: Dijlah Zaman TV
-http://fastshare1.com:80/live/25711345/late8airline/319382.ts
-#EXTINF:-1 tvg-name="Music: MBC FM HD" group-title="ARABIC MUSIC",Music: MBC FM HD
-http://fastshare1.com:80/live/25711345/late8airline/319383.ts
-#EXTINF:-1 tvg-name="Music: Panorama FM 4K" group-title="ARABIC MUSIC",Music: Panorama FM 4K
-http://fastshare1.com:80/live/25711345/late8airline/319384.ts
-#EXTINF:-1 tvg-name="Music: Wanasah TV" group-title="ARABIC MUSIC",Music: Wanasah TV
-http://fastshare1.com:80/live/25711345/late8airline/319385.ts
-#EXTINF:-1 tvg-name="Music: Aghani" group-title="ARABIC MUSIC",Music: Aghani
-http://fastshare1.com:80/live/25711345/late8airline/319386.ts
-#EXTINF:-1 tvg-name="Music: Rotana Clip HD" group-title="ARABIC MUSIC",Music: Rotana Clip HD
-http://fastshare1.com:80/live/25711345/late8airline/319387.ts
-#EXTINF:-1 tvg-name="Music: Rotana Music HD" group-title="ARABIC MUSIC",Music: Rotana Music HD
-http://fastshare1.com:80/live/25711345/late8airline/319388.ts
-#EXTINF:-1 tvg-name="Music: One TV" group-title="ARABIC MUSIC",Music: One TV
-http://fastshare1.com:80/live/25711345/late8airline/319389.ts
-#EXTINF:-1 tvg-name="Music: Al Moled" group-title="ARABIC MUSIC",Music: Al Moled
-http://fastshare1.com:80/live/25711345/late8airline/319390.ts
-#EXTINF:-1 tvg-name="Music:  Mosaique FM" group-title="ARABIC MUSIC",Music:  Mosaique FM
-http://fastshare1.com:80/live/25711345/late8airline/319391.ts
-#EXTINF:-1 tvg-name="Music: Radio FM 90" group-title="ARABIC MUSIC",Music: Radio FM 90
-http://fastshare1.com:80/live/25711345/late8airline/319392.ts
-#EXTINF:-1 tvg-name="Music: Om kalthum أم كلثوم‎" group-title="ARABIC MUSIC",Music: Om kalthum أم كلثوم‎
-http://fastshare1.com:80/live/25711345/late8airline/319393.ts
-#EXTINF:-1 tvg-name="Music: Trace Muzika" group-title="ARABIC MUSIC",Music: Trace Muzika
-http://fastshare1.com:80/live/25711345/late8airline/319394.ts
-#EXTINF:-1 tvg-name="Music: Trace Urban" group-title="ARABIC MUSIC",Music: Trace Urban
-http://fastshare1.com:80/live/25711345/late8airline/319395.ts
-#EXTINF:-1 tvg-name="Shahid Ramadan Maana" group-title="SHAHED BOX",Shahid Ramadan Maana
-http://fastshare1.com:80/live/25711345/late8airline/308972.ts
-#EXTINF:-1 tvg-name="Shahid The Game HD" group-title="SHAHED BOX",Shahid The Game HD
-http://fastshare1.com:80/live/25711345/late8airline/308973.ts
-#EXTINF:-1 tvg-name="Shahid Selfie HD" group-title="SHAHED BOX",Shahid Selfie HD
-http://fastshare1.com:80/live/25711345/late8airline/308974.ts
-#EXTINF:-1 tvg-name="Shahid Bab Al Hara" group-title="SHAHED BOX",Shahid Bab Al Hara
-http://fastshare1.com:80/live/25711345/late8airline/308975.ts
-#EXTINF:-1 tvg-name="Shahid Wifi HD" group-title="SHAHED BOX",Shahid Wifi HD
-http://fastshare1.com:80/live/25711345/late8airline/308976.ts
-#EXTINF:-1 tvg-name="Shahid Al Kabeer Awi" group-title="SHAHED BOX",Shahid Al Kabeer Awi
-http://fastshare1.com:80/live/25711345/late8airline/308977.ts
-#EXTINF:-1 tvg-name="Shahid AL Hufra" group-title="SHAHED BOX",Shahid AL Hufra
-http://fastshare1.com:80/live/25711345/late8airline/308978.ts
-#EXTINF:-1 tvg-name="Shahid Al Asouf" group-title="SHAHED BOX",Shahid Al Asouf
-http://fastshare1.com:80/live/25711345/late8airline/308979.ts
-#EXTINF:-1 tvg-name="Shahid Movies Action" group-title="SHAHED BOX",Shahid Movies Action
-http://fastshare1.com:80/live/25711345/late8airline/308980.ts
-#EXTINF:-1 tvg-name="Shahid Movies Thriller" group-title="SHAHED BOX",Shahid Movies Thriller
-http://fastshare1.com:80/live/25711345/late8airline/308981.ts
-#EXTINF:-1 tvg-name="Shahid Aflam" group-title="SHAHED BOX",Shahid Aflam
-http://fastshare1.com:80/live/25711345/late8airline/308982.ts
-#EXTINF:-1 tvg-name="Shahid Movies" group-title="SHAHED BOX",Shahid Movies
-http://fastshare1.com:80/live/25711345/late8airline/308983.ts
-#EXTINF:-1 tvg-name="Shahid Al Hassan HD" group-title="SHAHED BOX",Shahid Al Hassan HD
-http://fastshare1.com:80/live/25711345/late8airline/308984.ts
-#EXTINF:-1 tvg-name="Shahid Freej HD" group-title="SHAHED BOX",Shahid Freej HD
-http://fastshare1.com:80/live/25711345/late8airline/308985.ts
-#EXTINF:-1 tvg-name="Shahid Naser Al Qassaby" group-title="SHAHED BOX",Shahid Naser Al Qassaby
-http://fastshare1.com:80/live/25711345/late8airline/308986.ts
-#EXTINF:-1 tvg-name="Shahid Rouya" group-title="SHAHED BOX",Shahid Rouya
-http://fastshare1.com:80/live/25711345/late8airline/308987.ts
-#EXTINF:-1 tvg-name="Shahid AlThaqafeya HD" group-title="SHAHED BOX",Shahid AlThaqafeya HD
-http://fastshare1.com:80/live/25711345/late8airline/308988.ts
-#EXTINF:-1 tvg-name="Shahid Nature Time" group-title="SHAHED BOX",Shahid Nature Time
-http://fastshare1.com:80/live/25711345/late8airline/308989.ts
-#EXTINF:-1 tvg-name="Shahid Gulli Bil Arabi" group-title="SHAHED BOX",Shahid Gulli Bil Arabi
-http://fastshare1.com:80/live/25711345/late8airline/308990.ts
-#EXTINF:-1 tvg-name="Shahid Tiji" group-title="SHAHED BOX",Shahid Tiji
-http://fastshare1.com:80/live/25711345/late8airline/308991.ts
-#EXTINF:-1 tvg-name="Shahid International" group-title="SHAHED BOX",Shahid International
-http://fastshare1.com:80/live/25711345/late8airline/308992.ts
-#EXTINF:-1 tvg-name="Shahid Ramez" group-title="SHAHED BOX",Shahid Ramez
-http://fastshare1.com:80/live/25711345/late8airline/308993.ts
-#EXTINF:-1 tvg-name="Shahid Top Gear HD" group-title="SHAHED BOX",Shahid Top Gear HD
-http://fastshare1.com:80/live/25711345/late8airline/308994.ts
-#EXTINF:-1 tvg-name="Shahid Levanat HD" group-title="SHAHED BOX",Shahid Levanat HD
-http://fastshare1.com:80/live/25711345/late8airline/308995.ts
-#EXTINF:-1 tvg-name="Shahid Tash HD" group-title="SHAHED BOX",Shahid Tash HD
-http://fastshare1.com:80/live/25711345/late8airline/308996.ts
-#EXTINF:-1 tvg-name="Shahid Al Arabiya Business HD" group-title="SHAHED BOX",Shahid Al Arabiya Business HD
-http://fastshare1.com:80/live/25711345/late8airline/308997.ts
-#EXTINF:-1 tvg-name="Shahid Khaleeji HD" group-title="SHAHED BOX",Shahid Khaleeji HD
-http://fastshare1.com:80/live/25711345/late8airline/308998.ts
-#EXTINF:-1 tvg-name="Shahid WrestleMania HD" group-title="SHAHED BOX",Shahid WrestleMania HD
-http://fastshare1.com:80/live/25711345/late8airline/308999.ts
-#EXTINF:-1 tvg-name="Shahid Desi Play HD" group-title="SHAHED BOX",Shahid Desi Play HD
-http://fastshare1.com:80/live/25711345/late8airline/309000.ts
-#EXTINF:-1 tvg-name="Shahid Hassino HD" group-title="SHAHED BOX",Shahid Hassino HD
-http://fastshare1.com:80/live/25711345/late8airline/309001.ts
-#EXTINF:-1 tvg-name="Shahid Maraya HD" group-title="SHAHED BOX",Shahid Maraya HD
-http://fastshare1.com:80/live/25711345/late8airline/309002.ts
-#EXTINF:-1 tvg-name="Shahid Top Chef HD" group-title="SHAHED BOX",Shahid Top Chef HD
-http://fastshare1.com:80/live/25711345/late8airline/309003.ts
-#EXTINF:-1 tvg-name="Shahid Masrah Masr HD" group-title="SHAHED BOX",Shahid Masrah Masr HD
-http://fastshare1.com:80/live/25711345/late8airline/309004.ts
-#EXTINF:-1 tvg-name="Shahid Ragel We Set Settat HD" group-title="SHAHED BOX",Shahid Ragel We Set Settat HD
-http://fastshare1.com:80/live/25711345/late8airline/309005.ts
-
 
 #EXTINF:-1 group-title="Arab" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/m3alitv.jpg?v=6",M3alitv
 https://kali.vdopanel.com:3797/live/bashaclicklive.m3u8
@@ -851,8 +740,6 @@ http://161.97.165.169:80/BeinGroup/SYRIA2025/7.m3u8
 http://161.97.165.169:80/BeinGroup/SYRIA2025/8.m3u8
 #EXTINF:-1,I plus tv(Islamic)
 https://5dd3981940faa.streamlock.net/iplustv/iplustv/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="Japan"tvg-logo="https://www.chaojidianshi.net/img/609a5bc805240_fvfz.png",Tawaf Tv
 https://sg1.agromegamedia.com/memfs/4715f8bf-19a0-4aea-ad0c-7b8ec8d5df43.m3u8
@@ -3254,8 +3141,6 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 http://208.86.19.13:81/512.stream/index.m3u8
 
 
-
-
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam.jpg",SALAAM CHANNEL
 https://cd198.anystream.uk:8082/hls/sa1aamch568/index.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x13834",ATN ISLAMIC
@@ -4685,8 +4570,6 @@ https://bozztv.com/rongo/rongo-DeeptoTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bangla BD: VIJOY TV" group-title="BANGLA",Bangla BD: VIJOY TV
 https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="BANGLADESH",•●★--- Welcome ----★●•
-http://opplex.ch:8080/Adnan8439/Adnan0000/245892
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="BANGLADESH",IND-Bangla: Zee Bangla HD
 http://opplex.ch:8080/Adnan8439/Adnan0000/245893
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Colors Bangla" tvg-logo="" group-title="BANGLADESH",BD-loc: Colors Bangla
@@ -4857,8 +4740,6 @@ http://opplex.ch:8080/Adnan8439/Adnan0000/440504
 http://opplex.ch:8080/Adnan8439/Adnan0000/440505
 #EXTINF:-1 tvg-id="" tvg-name="CineMania Bangla 15 FHD" tvg-logo="" group-title="CineMania Bangla Cinema",CineMania Bangla 15 FHD
 http://opplex.ch:8080/Adnan8439/Adnan0000/440506
-
-
 
 #EXTINF:-1 tvg-name="Zee Bangla FHD" group-title="BANGLA IN",Zee Bangla FHD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/537.ts
@@ -5690,14 +5571,69 @@ http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAbLkfGY3GNU6F7z4B1mzxn7Q0_b5queLQiFNmlWGhw&s=10",Gopal Bhar
 https://playout.vidiyo.com/api/v1/streams/c1a13d9ffbf62c613fe2e912fe97b4c36ff09aee4825964bc793902995880388/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAbLkfGY3GNU6F7z4B1mzxn7Q0_b5queLQiFNmlWGhw&s=10",Gopal Bhar
+https://183.giatvcdn.com/giatvplayout7/giatv-212178/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNys_tABy8wFovL2yW-wsDOVthPZzwxjQDTwUmMRBzMQ&s=10",Bantul The Gret
 https://playout.vidiyo.com/api/v1/streams/ac8a2c0e72eadbff9acb5d1e4a730385933f748f20f83b78b541498a6407115d/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNys_tABy8wFovL2yW-wsDOVthPZzwxjQDTwUmMRBzMQ&s=10",Bantul The Gret
+https://183.giatvcdn.com/giatvplayout7/giatv-212451/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSom9195XvJvT6YLxsMaGSaw0NxcmokI0wlzxO59z9V5A&s=10",Lullu Bhuter Goppo
+https://183.giatvcdn.com/giatvplayout7/giatv-212377/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvuEaTdLR_Y02dYs7HF0SoU6wmBELdIZ80TN-AlXKaDw&s",Thakumar Jhuli
+https://183.giatvcdn.com/giatvplayout7/giatv-212240/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nrd21vrcbYQRg0lJaTYhsONm6pccDR7kVAFHvASl9Q&s=10",Nut Boltu
+https://183.giatvcdn.com/giatvplayout7/giatv-212211/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnug_Xn8SjAel6miRPRTF3lQThMNxBgu-dYQS4L7sBA&s=10",Tenida
+https://183.giatvcdn.com/giatvplayout7/giatv-212346/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9tbANI4bOZCZKWc4lrxgjC6SBKokcpZWCbPOXs56XA&s=10",Nonta Fonta
+https://183.giatvcdn.com/giatvplayout7/giatv-212307/playlist.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/34ee5095-5b54-4162-ba17-62e9dd7820d8/logo-1793646002849.jpeg",I-SAT
 https://playout.vidiyo.com/api/v1/streams/da5ce2ec72bd82e2cc5962ca848ef630bf4a2e20d335ec0ecdc4e4c493efce8b/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlW5qSxZUmGuvKQvpeO4U4FM-eSyv-85Aqw&s",Doreamon
+https://183.giatvcdn.com/giatvplayout7/giatv-212251/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Dv6jnZS4fiFl7t05ozBIgXa9NGcXOEu2kSg9MnAAOQ&s",Motu patlu
+https://183.giatvcdn.com/giatvplayout7/giatv-212241/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRf79pHZ5CZYFxDeQzCmXUUUt_EeilTF6ILS4sRFjqQw&s=10",Oggy
+https://183.giatvcdn.com/giatvplayout7/giatv-212276/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVcVlXJinWQj14bb6XbtyyKDIBEgzB1HZAuAmYoYIyeA&s=10",Ninja Hattori
+https://183.giatvcdn.com/giatvplayout7/giatv-212254/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqpm7g-G76G3iAvtOx0y2aPrzX13TIT5K_ktfbqhVuw&s=10",Shiva
+https://183.giatvcdn.com/giatvplayout7/giatv-212277/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://image.tmdb.org/t/p/w342/7qJEhLlky9aZq0LdkXt98YLbITI.jpg",Shin Chan
+https://183.giatvcdn.com/giatvplayout7/giatv-210780/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH22Fhpwg4ewA-li9quJUcbqQ-4OZ975wqNM7dnH6Tkg&s=10",Bas baro henry
+https://183.giatvcdn.com/giatvplayout7/giatv-212238/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw28vTWTJQ4oAQjYIUQg_938KbVxwSbL9AlIQyS2RYIQ&s",Ben 10 24/7 hindi
 https://playout.vidiyo.com/api/v1/streams/f99e880b7985a81935fb9819108aaead32efcef9ef18844339c06fe25131a72b/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajj-SfiWO7agWhIV_LwXewa59liHo9217Ijy7WU6BRA&s=10",Gon the stone age boy
 https://playout.vidiyo.com/api/v1/streams/e28f71f6d63a5ba71bc6f5e4674727c6acc0bc72f6c344975d79e0f9d11833e2/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcL72Ue20YBaFuwHDTp3eaPfqTxSurXn-eMbHS5Db5w&s=10",SCOOBY
+https://183.giatvcdn.com/giatvplayout7/giatv-212534/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://ssh101.com/img/monitvhd.jpg",Monitvhd
+https://183.giatvcdn.com/ssh101/ssh101/monitvhd/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://ssh101.com/img/simptestnews.jpg",Simptestnews
+https://183.giatvcdn.com/ssh101/ssh101/simptestnews/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScw9-BPoolplgP74mOFT2qy83jxK5iKQ-xr7er76yQKg&s=10",DISNEY
+https://183.giatvcdn.com/giatvplayout7/giatv-212532/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjs2eH6CYT869Yd85bQupLqm0w8P6Fb8K2T5faQufWxQ&s=10",DORA
+https://183.giatvcdn.com/giatvplayout7/giatv-212535/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1794968236",Tom And Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-212536/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1794968236",Tom And Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-212079/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1794968236",Tom And Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-212062/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1794968236",Tom And Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-212056/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1794968236",Tom And Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-212049/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1794968236",Tom And Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-212020/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1794968236",Tom And Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-212013/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxzRQH722ZaGtexuIRBlhq-iPmpiQelff1UqMqkPDbHA&s",Retromagicochnl
+https://183.giatvcdn.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/968d9598-5156-4b81-b387-854b14c8aa5f/logo-1793228945695.png",LA CHAINE DU PERE NOEL
 https://playout.vidiyo.com/api/v1/streams/022a8d1f012c511d40ae3a853d10f4195b1f79085118dc467240b48c580a7e3e/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/channels/96429df9-268b-45cb-8cb8-7872ee937165/avatar-1791275490810.png",HanaKoCles
@@ -5708,13 +5644,122 @@ https://playout.vidiyo.com/api/v1/streams/c3cef247eb85ca846e34485182331310320b02
 https://playout.vidiyo.com/api/v1/streams/a8c3c000c1ec1d31fad387dd3a44fe4f670f10d201edaa28f713bef9141657b2/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/channels/191a554b-1b1c-4a7b-95f4-0b9e8bbbacca/avatar-1782996481579.png",Toon Time
 https://playout.vidiyo.com/api/v1/streams/m9a4ueygv2dtetpxmjicauwey8mn3e0c/master.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnx56GGQBf9paw8X7CzrLWBrpjQqQNsPGtyQjdxcFIQ&s=10",cup head
+https://183.giatvcdn.com/giatvplayout7/giatv-212545/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIcOn_ZDkbEP7ULHxQsaRFyMHmtoOmGrA-O3nlXZnEg&s=10",isla drama
+https://183.giatvcdn.com/giatvplayout7/giatv-212544/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpoDVbv_ccCIqarSETlrE5W5P2W6cK5-QLnRABfQcKw&s=10",SUPERGATOS
+https://183.giatvcdn.com/giatvplayout7/giatv-212541/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC3iAyJNIdUcGxlEY6gERyWZB1SHfmQkWpIc9T7ZDhwQ&s=10",teletubbies
+https://183.giatvcdn.com/giatvplayout7/giatv-212537/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3r0unBQj0CoKkB_S8dZCbncGzlbVn3w_Qdbd-J0TiZA&s=10",dbsuper
+https://183.giatvcdn.com/giatvplayout7/giatv-212538/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MNhRDWZwy9SjdUimv4HXt8UEaJULktm_EdLB1vOgOw&s=10",LOS CASAGRANDE
+https://183.giatvcdn.com/giatvplayout7/giatv-212533/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAVK_YNlJtPtLVlA1YffCgZeXIX-SB75esUAHGnu9xqA&s=10",BATMAN LA SERIE ANIMADA
+https://183.giatvcdn.com/giatvplayout7/giatv-212528/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/211970.jpg?1794927413",pptv
+https://183.giatvcdn.com/giatvplayout7/giatv-211970/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://ssh101.com/img/tvretropalm2020.jpg",TVretropalm2020
+https://183.giatvcdn.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://ssh101.com/img/lamixtv.jpg",xiomoz
+https://183.giatvcdn.com/ssh101/ssh101/xiomoz/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://rtv-panda.neocities.org/panda_logo.png",Ttvpanda
+https://183.giatvcdn.com/ssh101/ssh101/rtvpanda/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.scdn.co/image/ab67656300005f1f22f7446bc9985f63ad5b7337",Retro Blast Tv
+https://retroblast.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Cartoon Cartoons
+https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGfjq-QKtdzn0M7ITDl2HLhcg74cyf36JK85Yv2ylijA&s=10",Bomarengar
+https://183.giatvcdn.com/giatvplayout7/giatv-212030/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MoPKiUK_c1hGtYqiekwFCAAD5nb-0VAvNVqi9tq47g&s",Bojlos Cartoon
+https://183.giatvcdn.com/giatvplayout7/giatv-212008/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT38uWXUreeY1TRxFlVY1U4IiYHBgnFyGyPTEynyQBh2A&s=10",Sumaq tv
+https://183.giatvcdn.com/ssh101/ssh101/makins/playlist.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Ittadi.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled0",Itadi
+https://183.giatvcdn.com/giatvplayout7/giatv-212279/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/7YR2vbGk/bm.jpg",Bangla Movies
+https://183.giatvcdn.com/giatvplayout7/giatv-212308/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/7YR2vbGk/bm.jpg",Bangla Dabbing Movies
+https://183.giatvcdn.com/giatvplayout7/giatv-210419/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUQvRemPSjrGOuONJqosOv-3FBQhEMKooO-8Q1psWEQ&s",Bangla Music 
+https://183.giatvcdn.com/giatvplayout7/giatv-212306/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/HnyQPzkF/wind-of-change.jpg",Bangla Music song
+https://183.giatvcdn.com/giatvplayout7/giatv-212399/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/HnyQPzkF/wind-of-change.jpg",Bangla Music Ols Song
+https://183.giatvcdn.com/giatvplayout7/giatv-212422/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetdoMXBeHXZDNV4FsmO1J3MPOYuetyb4jCNGw_KSkXQ&s=10",Svf Music 
+https://183.giatvcdn.com/giatvplayout7/giatv-212398/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlXKLhD7M8Q163Bf21J4KRn4A6NDjkQX5JYmoz0V3n8Q&s=10",Bangla Natok Music 
+https://183.giatvcdn.com/giatvplayout7/giatv-212399/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.bengalbeats.com/media/common/logo.png",Bengali Beats
+https://183.giatvcdn.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.bengalbeats.com/media/common/logo.png",Bengali Beats
 https://playout.vidiyo.com/api/v1/streams/d2bdcf50874a2edd4c78a1d0b9da43c28eabf7bac3928ea3e5eab39eb695ecb8/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/channels/e25fee9c-34ec-4655-8e96-532c79f95261/avatar-1792852392742.png",Bangladesi Viral Vidieo
 https://playout.vidiyo.com/api/v1/streams/1a6f628a2b1df0034523f3fd22fd02c33f0b94846aa0d4159461fb77fa8d0fce/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHjEMNun2_VlaDK4V4VKvHDukO7Vpr1o52gjD-dSJ1Q&s=10",24/7 Bengali Old Songs
 https://playout.vidiyo.com/api/v1/streams/2f2564d81116d8fdce4bf6c925574af6338735dc544829b24fdb53732376dfd7/master.m3u8
+#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg",Humayun Ahmed 
+https://183.giatvcdn.com/giatvplayout7/giatv-210444/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6d7sdOr_I2vWoQqX1ozxa4ekLrOsHkyBYh780dGNqg&s=10",Times Music
+https://183.giatvcdn.com/giatvplayout7/giatv-212411/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2c9l3ZNKvUhoDLsvd-yQ_1zQEc4TtmKHLarRudZhEgA&s=10",Hindi Movies Ultra
+https://183.giatvcdn.com/giatvplayout7/giatv-212382/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPe3O_jeickw6Z79dMPCIgK7YzZOY83rwkVeNEDQvaw&s=10",Mr Beast
+https://183.giatvcdn.com/giatvplayout7/giatv-212328/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5545qG3utP_G1Jg_D2IW0hZjxDVPXmMAigHxX-3qc4Q&s=10",Kapil sarma sho 
+https://183.giatvcdn.com/giatvplayout7/giatv-212354/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAdH1uVNcv8pFat6BP6bPcnwYpHSaAZ3YWBJyD26tCg&s=10",Tarak Mehta Ka Ulta Chasma
+https://183.giatvcdn.com/giatvplayout7/giatv-212189/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212480
+https://183.giatvcdn.com/giatvplayout7/giatv-212480/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212452
+https://183.giatvcdn.com/giatvplayout7/giatv-212452/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212397
+https://183.giatvcdn.com/giatvplayout7/giatv-212397/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212395
+https://183.giatvcdn.com/giatvplayout7/giatv-212395/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212396
+https://183.giatvcdn.com/giatvplayout7/giatv-212396/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212394
+https://183.giatvcdn.com/giatvplayout7/giatv-212394/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212393
+https://183.giatvcdn.com/giatvplayout7/giatv-212393/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212390
+https://183.giatvcdn.com/giatvplayout7/giatv-212390/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212389
+https://183.giatvcdn.com/giatvplayout7/giatv-212389/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQjXtfO1tkWr0p_hYG2mv9n_rTnzoVbyzJxAJm2Znxw&s=10",Coke Studio
+https://183.giatvcdn.com/giatvplayout7/giatv-212376/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2c9l3ZNKvUhoDLsvd-yQ_1zQEc4TtmKHLarRudZhEgA&s=10",Hindi Music Ultra
+https://183.giatvcdn.com/giatvplayout7/giatv-212373/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212371
+https://183.giatvcdn.com/giatvplayout7/giatv-212371/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212372
+https://183.giatvcdn.com/giatvplayout7/giatv-212372/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212365
+https://183.giatvcdn.com/giatvplayout7/giatv-212365/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",T Serial
+https://183.giatvcdn.com/giatvplayout7/giatv-212355/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212345
+https://183.giatvcdn.com/giatvplayout7/giatv-212345/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212305
+https://183.giatvcdn.com/giatvplayout7/giatv-212305/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212299
+https://183.giatvcdn.com/giatvplayout7/giatv-212299/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212175
+https://183.giatvcdn.com/giatvplayout7/giatv-212175/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212174
+https://183.giatvcdn.com/giatvplayout7/giatv-212174/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212173
+https://183.giatvcdn.com/giatvplayout7/giatv-212173/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212172
+https://183.giatvcdn.com/giatvplayout7/giatv-212172/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.vidiyo.com/branding/ffe249cb-98e0-440c-9a8c-c48c48e4dcfa/logo-1794365991309.png",TPlay Music 212171
+https://183.giatvcdn.com/giatvplayout7/giatv-212171/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDaplBawqfmUBB5X41NL0GIuVv3FCowcz4mfqeenV3VQ&s=10",24/7 90's Hindi Songs
 https://playout.vidiyo.com/api/v1/streams/c834d2119ef651d0a5a9ce90b24c457ff91a111944cf4c68a283495960ea69a9/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSV1rseWNpyAfmywC8aS1nLEBUe21ZIIQZKrGTG3tlnA&s",24/7 Alka Yagnik songs
@@ -5770,23 +5815,23 @@ https://183.giatvcdn.com/giatvplayout7/giatv-210780/tracks-v1a1/mono.ts.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-210779/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/nz4WS5nT/cid-bengali.jpg",Cid Bengali
 https://183.giatvcdn.com/giatvplayout7/giatv-210419/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play Cartoon classic
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/index.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play Wow movies
 https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play magicplus
 https://183.giatvcdn.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play DELESTEENVIVO
 https://183.giatvcdn.com/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/playlist.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play dball
 https://183.giatvcdn.com/giatv/giatv-dball/dball/playlist.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play cartoonchannelph
 https://183.giatvcdn.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play animalbox
 https://183.giatvcdn.com/giatv/giatv-animalbox/animalbox/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
 https://183.giatvcdn.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play MYJETIXRETRO
 https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
 https://183.giatvcdn.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
@@ -5796,8 +5841,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
 https://183.giatvcdn.com/giatv-vocaloidtv/vocaloidtv/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
 https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
-https://183.giatvcdn.com/giatvplayout7/giatv-209905/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
 https://183.giatvcdn.com/giatvplayout7/giatv-209905/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
@@ -5812,7 +5855,7 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208170/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-209979/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
 https://183.giatvcdn.com/giatvplayout7/giatv-209872/playlist.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play MYJETIXRETRO
 https://183.giatvcdn.com/giatvplayout7/giatv-211388/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
 https://183.giatvcdn.com/giatvplayout7/giatv-211400/playlist.m3u8
@@ -6043,7 +6086,14 @@ https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonArabia.ae@SD",Nickelodeon Arabia (1080i)
 http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
-
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="Animation",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids",Disney Channel (Japan)
+http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network (Japan) HD 
+http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst (720p)
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/DURANTA%20TV1745043400.png",Duranta TV
 http://198.195.239.50:8095/DURANTA.TV.HD/index.m3u8
@@ -7200,43 +7250,6 @@ http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="disney channel india" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png" group-title="Kids",Disney Channel HD
 https://t.freetv.fun/live/disney-channel.m3u8
 #EXTINF:-1, Ytv
-https://edge2.roarzone.net:8447/roarzone/edge5/ytv/index.m3u8?token=c0f267899296d7bf6cb35c9195035a8d817001ca-8deb9d24b8d254be9173886728b94a05-1780232109-1780221309
-#EXTINF:-1, Cartoon Network Hd
-https://edge2.roarzone.net:8447/roarzone/edge5/cartoon-network/index.m3u8?token=f03530ccecc68d4730114753d69d13ccdf4154db-7daf4b0d2484fdb87befebb88e4f7912-1780232109-1780221309
-#EXTINF:-1, Nick
-https://edge2.roarzone.net:8447/roarzone/edge5/nickelodeon/index.m3u8?token=f4014b4f24e05d67469dad2f7b6b43fb50675fe1-3b699351101e6da0373916094bbfcd88-1780232109-1780221309
-#EXTINF:-1, Pogo
-https://edge2.roarzone.net:8447/roarzone/edge3/pogo_sd/index.m3u8?token=edfadf18b0753a0b29a274eedf14139cf3f04ec9-4f1ea88c718302cc1173c7dd76e35f83-1780232109-1780221309
-#EXTINF:-1, Discovery Kids
-https://edge2.roarzone.net:8447/roarzone/edge3/discovery_kids/index.m3u8?token=d319f9ede204a5caedf3798a3ff12b65a78c0c3f-2ca1912a3a073b0e09f1f7f62415a19c-1780232109-1780221309
-#EXTINF:-1, Sony Yay
-https://edge2.roarzone.net:8447/roarzone/edge3/sonyyay/index.m3u8?token=438ccb7560f0b5b59500cef1eabf9c949d68cf8d-c6ebb88c5203c54bca358f3bbd151fe2-1780232109-1780221309
-#EXTINF:-1, Cartoon Network Hd +
-https://edge2.roarzone.net:8447/roarzone/edge3/cartoon_network_hd/index.m3u8?token=3d10d5fee9fbbb3faeaaa3cb8a3680cf20b91b60-8c72a76f497d0570cdbbaba6e9c746fb-1780232109-1780221309
-#EXTINF:-1, 3abn Kids
-https://edge2.roarzone.net:8447/roarzone/edge5/3abn-kids/index.m3u8?token=46db032e63f41a30965ce1695c4952247aa9bffd-8c3003792c613290268aad03e3613ea2-1780232109-1780221309
-#EXTINF:-1, Dios Te Ve Kids
-https://edge2.roarzone.net:8447/roarzone/edge5/dios-te-ve-kids/index.m3u8?token=8f1321646f2ce7d55c8f9af8c1ba751e49223926-301fbc338d9658d05347e461df112bcf-1780232109-1780221309
-#EXTINF:-1, Kids Pang Tv
-https://edge2.roarzone.net:8447/roarzone/edge5/kids-pang-tv/index.m3u8?token=8fefd5a6f394ab013bfa9f29ea8e1fd5121b8bf1-f9e894576af995aeb9da179eb611411f-1780232109-1780221309
-#EXTINF:-1, Disney Xd
-https://edge2.roarzone.net:8447/roarzone/edge5/disney-xd/index.m3u8?token=394a870aac54a53f74a2a6c22a9613693034e536-b853d9b2519dbdd6f9620b9d69b915a7-1780232109-1780221309
-#EXTINF:-1, Disney Jr
-https://edge2.roarzone.net:8447/roarzone/edge5/disney-jr/index.m3u8?token=9555ee1f6e20eb31ed3d7f4d9482ca8d08f86501-411153f805c4623fd82622d615b6e4cb-1780232109-1780221309
-#EXTINF:-1, Nicktoons
-https://edge2.roarzone.net:8447/roarzone/edge5/nicktoons/index.m3u8?token=62faa3a6ed81050a7d7f0f844b172662c7b9fc85-1bd1d9111428aaf17940d2a52a70b923-1780232109-1780221309
-#EXTINF:-1, Nickjr
-https://edge2.roarzone.net:8447/roarzone/edge5/nickjr/index.m3u8?token=0379118a3c2a9d1fc84f137a7a3ea7ddc734f5d6-828071e5b080f38380bcdba2798ae9c9-1780232109-1780221309
-#EXTINF:-1, Teen Nick
-https://edge2.roarzone.net:8447/roarzone/edge5/teen-nick/index.m3u8?token=4dfe16ea2ce90800200b159ec246c902a436cd02-8755e18d785c05cacc31f1db6a0bdd69-1780232109-1780221309
-#EXTINF:-1, Disney Channel
-https://edge2.roarzone.net:8447/roarzone/edge5/disney-channel/index.m3u8?token=4ad2b3c3028fd85f76a09045dfa69c8c23b13ab6-8c8081bf8570f993b87925548da91f90-1780232109-1780221309
-#EXTINF:-1, Moonbug Kids
-https://edge2.roarzone.net:8447/roarzone/edge5/moonbug-kids/index.m3u8?token=f7e2390559e564e1ea671bf32f2052c0d683b205-b740d3600354bc22bde06bbf09e98337-1780232109-1780221309
-#EXTINF:-1, Tvcarib Kids & Teens
-https://edge2.roarzone.net:8447/roarzone/edge5/tvcarib-kids-teens/index.m3u8?token=ef554d69cae27ea11ce1a9678c7090df100deedb-60ef254a452e2ea3ccbc730f1335ad0d-1780232109-1780221309
-#EXTINF:-1, Pbs Kids
-https://edge2.roarzone.net:8447/roarzone/edge5/pbs-kids/index.m3u8?token=a67f7b70f3e640563a2fdd7b6878a6625fc8cb46-80d0ca22be30d474f9263114c23e1ce1-1780232109-1780221309
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/DURANTA%20TV1745043400.png",Duranta TV
 http://103.204.43.87:8080/live/1/1/290.m3u8
@@ -7836,7 +7849,7 @@ https://j6nfugukcl.gpcdn.net/tile_2/360p.m3u8
 https://j6nfugukcl.gpcdn.net/tile_3/360p.m3u8
 #EXTINF:-1, Zee cinema
 https://j6nfugukcl.gpcdn.net/tile_4/360p.m3u8
-#EXTINF:-1, Bengali Beast
+#EXTINF:-1, zee cinema hd
 https://j6nfugukcl.gpcdn.net/tile_5/360p.m3u8
 #EXTINF:-1, all
 https://j6nfugukcl.gpcdn.net/tile_7/360p.m3u8
@@ -8304,7 +8317,10 @@ http://103.121.61.218/tmp_hls/92262bf907af914b95a0fc33c3f33bf6/index.m3u8
 http://103.121.61.218/tmp_hls/c2e7b5bb0ec8bb7e2aaf8a5516ca5387/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/upload/tv/tv_1787570339_8448.png",Citizen24 tv
 http://103.121.61.218//tmp_hls/958c530554f78bcd8e97125b70e6973d/index.m3u8
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://https://porosh.com.bd/upload/tv/tv_1795001164_2411.png",Durbar TV
+http://103.121.61.218/tmp_hls/ecd1b059424d5e0056f579a391d1ead9/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://porosh.com.bd/upload/tv/tv_1794956953_4683.png",T Bangla Tv
+http://103.121.61.218/tmp_hls/bd4a6d0563e0604510989eb8f9ff71f5/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/J4nkLqHS/20260321_075216.png",Islamic TV
@@ -9372,13 +9388,11 @@ https://aps32.playlist.ttvnw.net/v1/playlist/Cv4GDnqRpqYCS2ln6Qro8y2ABHU5fEPkbrH
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://familytvbd.com/wp-content/uploads/2023/10/Logo.png",Family Tv
-https://aps33.playlist.ttvnw.net/v1/playlist/Cu8GR5g9MOorAuzucGLCglsHwu02DDKdJg4o8bZ1qLw3alYqfRFLgX7dNPy13bH2Z_5I86tqEIPwhWbIsuQuzbdLgOVjV4flpx2Jpq1lruScCDQNIDRTT54fjsF18R15CGtie8p5n4dxwdfJZq1u0-P5hfu7xY0yi4AnSwBV6CmAMIIYY66aXHidX0e1L7LVO_WNg3ICJTivDe1BV6-zA2dwWqeJCvdH3W7aKeeJtJZBrDISQJAGAh_e-YMwVQJej6NXzJtO4tiffB8gNXxzirM2NUKpNUSuG7ey57uRDPqkQR4Y1I3fgy9gRd4_6M7ZVcWTnffDiLoovK6hPaVG1jvSovKcw7rcs_V_mzHVxczLYkNvuMBFZnaksmw8I9ZjN1N_mqdC7XybHwVkno9AcopRRMrOFRnDGfS91t-NTnoe4USXNc2aRNJVyXjfyPR5tUrKeV0zPxxO-QWWp1Y7D7assZuyo9wDoJQY5CF_074dbHt1SkT1PLKGUNYRWwpt6gAMMw-R8ChfqzmXjGcEPSWmfeG_s3i5qvLKjQil9HRFtpmQGrEaMDXa1Gi0C_zMMXQ84e4wraovezVGDrplW-4NUiozTDmouBRlzgNizIAmQbN_rR6FB9oGbDOxN15SDDXy2bXN0zzOoeV4uac85tXUQ0cqJTnNIFx5Giq-gtBf9eWunPGNL2LvmYFXUzjN3W_BoJJ9BeCDLB2PcAvOgNkL6W5_DaFbqAjMGsheUPr9PxYiEE_0nEhL7xy9qkI8X4iINSCAUZ1gLUIrsr4O976WvHNQ5_V-U5ETkUa6UsqAy3pE7X_5p3xgqklo-UHWSxfUonPhfJe1ED1YTMklFrVuwAmqyP-vkoAfXO9MHf1euNCNkP2KsKi2qNU5Sf7_32_W9rUrE-3MtVvcwbTU4AOmkFAHlEtlT6iPk3Bk2O7HwmDPwURFdJ3u098aH_he_f_SZfvdUNON6MZZNF48m792wqSiTDXLgKtzmx225OWWMYQB-nbsRAtpUF2Uey5-UyCRs1duuA33nxuJdAl-EZNkURvjZW48NnLCDYYxiPX2NJMreC8ZAMerqsx95mXibrn8HPb45lHWfgW_qWmORE3Kmt-XaqzIFWP_SLLV7T7X8p-uSYiy9V7Bg4fCLjbGgXKad4J5sgLUlkxhY_uyD49KGgyI4DVYCQY_vKWerSUgASoJdXMtd2VzdC0yMPEP.m3u8
-
+https://aps33.playlist.ttvnw.net/v1/playlist/CrkH7nQr-mb2g5vVT20qckdkgWK5epW-SQaUSLiR7MvauAx_TpsLahOp-LCBabCcH2Dq81km9iO505tfUvmcPmcfSjDiT2ZCBzxJG6NK9oG50XOE853FQ3gy-MXT4Eq4BPy-Hng75ZBvW979Bg4ZGlxj1QDdYTRnMqcwvMPYWVlJeSDgYbxS05CKthMo1I7_1MGL-pRRGLb4CjMoFjWHH77um-6PDYnB8j5ebL2wqpWDd_JE_1RDyIAGlWqRz6cFyIf8xPkvh3y2NCD3-VKrzwLV9iBp3WZeH_TSaCoAAp3xMw24kVKQ0vhnoawaikiFatzJqojD8U8uanWS4GzqbKQhol65Hl6ZvW4yWaCnb3xaBaOJX8RBNGOFCGfVAiDic4ffgmynkp_1ENIKml9wFRVHm5Wap33imbo_6Hv9xminB8OS2xn69-epBoVYbGbPEG2bZR19r6Vk_3qC1Fb2jaPgqrN77_IIwDK9G_hwGnLtsxCuw5ShD_mTThBJetryz85icxrfSyz-5yTuokVpZE1qD0JA72mwc-L9rGwIjwW1hXceKISm-grLEmO7ybNpDZY1lCAszufJHOonkbPKlMYGyUZ0-ZsTkIoSb1rpJ-r8N8k-at1qnMNhzIsWXHadimj3RwzbhuteRYVuFjKlxB60yNZMfIg8olUY7Q5t4gHLFERC2SkQI80UcMWvr4Pic7yPdHQqCHk7Cw3KykCHRrRWMDwVQoihj6mU-iCVAmosFnyZDmKnZj0j2CnWXwubXJcXGNFTN5kC3ko5C1FNILs7ozB4gljlQH0yYmGAabSGSWhNjvcJhCNZ07w_dPuoSDG-aQveZgKWbjDCyZVCpXQBSJ6GUOSU56l7AAemDDQBxK9oDfUYsu4hAVUcBCow52JFInOJ2tPccu1uxQoQzhsOslTHyztVHIuPnAiGHaruJz2sAB-s83bhmnaIwkayn2EKYRAEX5GmZVIWqnvQm84q3jpXOA9bnMf6Hq1xQxFCt34CgtUbSc4s3ZJNVfVl7vkhSjtLAw4M2sb1go3Lyhc0hQvkATQpIIti3kmUEl_77nOvzFsUXYm8x43SYsmp_wc8spNUgf3eskAegb2iU1V-8SDWHjQb4BufhIsUhOZhSMqbHKwlkQyS9b_NLgOHfVi7UAh1S-g6vT1ppKLbAEFSUvIoHoOSM4phhvQbqS7UMSGzhC79BAHUy20xIhZ-B2TytSsNYezajxzWZGrhUN0BSdgwjCyzUFKz1BFestJVseTNQOBo1iaPTNIaDBY3YIqi25e9cUzyECABKgl1cy13ZXN0LTIwzBA.m3u8
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.shadhinbanglanews.com/uploads/logo/1773072286_456123.jpeg%20copy.jpg",Shadin Bangla
 https://aps32.playlist.ttvnw.net/v1/playlist/CoIHxjqSc1GTLdpPEmo31avsjKWP9qgKL6T4pkeGY-KaKuQyF2N0t8f18Ke--NfRSlcsMLc8wbOM19GKyRx2Cu97L92fNenzsJed77_hq0klH-KlyDjysvppryR3jEwNKklSifKVuqynZzGtcRHfzltNrLdoA5TANCtwpZtevvaKjnYJ4VojoDAbY4qGdqwu8HXLJPEbX0PaC2_OBKIVf34Jwbj1Q_E9RipAeQFhqapV_HgLKO8L4i3xN7ZRjZwEwkiHTYvrIDoavRjxzxiJL7W-8noBvub4CZBqC2NXfufBgOtJ8YKF-S6DNYdkA_--DZzpxbZfl6TmDShaOvKQFnVhyLu5POuA1SCY7lvIG5EfjT49wo-Zb43x9EXR-DSPd_EsjRGmXgVkfNl_bCOmUzOvEftmo29qicxCEc6jWzDLnmFGauWui7rk2MaCl75faz_xfzoHpJtbh6KxSxh5bAY6mxjwxVN1hmGwCVACrgwA45hi7L9nRxT8fzzSitIMHek8mZBbicc3ZWbafuuVjXlVCPPGyAm6BVNIC8KBDZsPv8ap5EHxAqOl6wIZHbVXVsYGs6jZyJAE9XOehzz383aopkO0n_7TOrNPXgBpCWhY0xjUHzpn2MTqJhsLlPIJrOTz0ju45xc1t9Rx6Apuau4hf_b1340Rum2kp6MmsjmUmTXrtPYuFqfAbXNntGesM_45E143dOZ3Th5ntQ57IGRjpCm9zJ0yNv6fJH-T6POMYjA5KuyYKxeyU_HXhiqwyWrPZa6pl3S5Sx0NkNQZQBvALEmTOK4PbLDjPMXUAdWw6oKKUjeDdTHp182B7u18MVQ8u2oZASxKTpYAT49k7NttnzK_2cItctATCqvw37gc6Ca_Qc0CF9IUBFRxzJJJq5Y1EghMIKA2Tb3UPDJJWb0c5P6vFgTX7JIuCjwYyaUhJdTCP025cgSF4UP9BZAqlDcVhJoiOJ0gCv1KPC2yExvkmUGKsF4FQJkNLp8sjUJ_9UQzYCJI-MWpUVcp6o1V12vTq_QNw7CAzZKemgdWw0N65D2g2DfWasybtSfJaYslyStvmIBhtXlwPFPcWShq4KTjKjq14y-MJdryNw4F6eNo8R7YMrO90wZ-lXRn1RshzFWLgsILb275LP59imTHco4g5XMxgRetBFrRKve9OUxbfm-zq2oibFtkj1Q-viPe0kwLUBoMdr09dRN73xz4Dg7hIAEqCXVzLXdlc3QtMjCaDw.m3u8
-
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-world.png",Tvn World
@@ -10505,9 +10519,9 @@ http://103.67.97.45:81/0.ts
 http://103.172.152.218:8086/0.ts
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/122ad7ce-00d5-4dbd-ac83-9721cc1f5852.jpg", RTV Bangla
 http://150.129.178.198:8086/0.ts
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://rbanglasaradin.in/wp-content/uploads/2025/02/FINAL-copy.jpg", RTV Bangla News
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://remakenews.in/wp-content/uploads/2026/06/cropped-RN-150.png", RTV Bangla News
 http://202.142.126.138:8086/0.ts
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://rbanglasaradin.in/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-18-at-10.46.40-PM.jpeg", Black TV Newz Bangla
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://blacknewz.in/wp-content/uploads/2026/06/cropped-5-768x336.jpg", Black TV Newz Bangla
 http://202.142.126.139:8086/0.ts
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://sambadsironam.com/assets/logo-CWNMMpHk.png",Sambad Shironam
 http://banglaplus.dataplayer.in:8080/live/sambadsironam.m3u8
@@ -11017,11 +11031,11 @@ rtmp://account11.livebox.co.in:1935/DEBASISH/live
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D Motua
 https://account2.livebox.co.in/Motuahls/live.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D BHAKTI
-https://ranacable.duckdns.org/sgcn-bhakti/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ56lirx9ZYZXKXJO_yzb6UWsYsPmlrSL1JFvbgd1YP0u.jpg",D BHAKTI
 https://amigofx.com:1936/dbhakti/dbhakti/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1r7W5OlU0jJZ4sWUw-70wzSsaDcaz9UFiLJOipMBqw&s",Jtbs Classic
 https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0c/SGCN_Bhakti_2024.png/revision/latest/scale-to-width-down/132?cb=20250530033505",SGCN BANGLA BHAKTI
+https://ranacable.duckdns.org/sgcn-bhakti/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0c/SGCN_Bhakti_2024.png/revision/latest/scale-to-width-down/132?cb=20250530033505",SGCN BANGLA BHAKTI
 https://bdix.ottking.top:8082/SGCN-BHAKTI/video.m3u8?token=ottking_247_7
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.oxolive.com/wp-content/uploads/2021/05/ChatGPT-Image-Oct-27-2025-07_31_02-PM-1-200x300.png",Sangeet Bangla 
@@ -11211,45 +11225,6 @@ https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w5722
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://doyeltv.com/wp-content/uploads/2023/08/Doyel-TV-Logo.png",Doyal Tv
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8_output_0.m3u8?session=CghVWYQpypHZ3QZSv2jgwA
 
-#EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png",Bangla dhum
-https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/jj5QHB7R/csb.jpg",Coke Studio 
-https://tplay.live/playlist/music/coke-studio-bangla/index.m3u8
-#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg",Humayun Ahmed 
-https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
-#EXTINF:-1 group-title="Bangladesh"tvg-logo="https://i.postimg.cc/7YR2vbGk/bm.jpg",Bangla Movies 
-https://tplay.live/playlist/movies/bangla-movies/index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/HnyQPzkF/wind-of-change.jpg",Music
-https://tplay.live/playlist/music/wind-of-change/index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/FFSwCT9W/crime-patrol.jpg",Crime Patrol
-https://tplay.live/playlist/mix/crime-patrol-bengali.index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/nz4WS5nT/cid-bengali.jpg",Cid Bengali
-https://tplay.live/playlist/mix/cid-bengali.index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x67896",Btv Chittagong 
-https://tplay.live/out/news/btv-chattagram.index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x67896",Songsod Tv 
-https://tplay.live/out/news/bd-sangsad.index.m3u8
-
-#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg",Humayun Ahmed 
-https://live20.bozztv.com/giatvplayout7/giatv-210444/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Bangladesh"tvg-logo="https://i.postimg.cc/7YR2vbGk/bm.jpg",Bangla Movies 
-https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/jj5QHB7R/csb.jpg",Coke Studio 
-https://live20.bozztv.com/giatvplayout7/giatv-210733/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png",Bangla dhum
-https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/HnyQPzkF/wind-of-change.jpg",Music
-https://live20.bozztv.com/giatvplayout7/giatv-210427/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/FFSwCT9W/crime-patrol.jpg",Crime Patrol
-https://live20.bozztv.com/giatvplayout7/giatv-210780/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/nz4WS5nT/cid-bengali.jpg",Cid Bengali
-https://live20.bozztv.com/giatvplayout7/giatv-210779/tracks-v1a1/mono.ts.m3u8
-
-
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x67896",Btv Chittagong
-https://bozztv.com/rongo/rongo-BTVChattagram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x67896",Songsod Tv
-https://bozztv.com/rongo/rongo-SangsadTV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49",Gseries Drama
@@ -12497,59 +12472,11 @@ http://tv.bdiptv.store/live/restreax/refstream/238.m3u8
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Entertainment",Sun Bangla  (ENTERTAINMENT)
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1669.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10012.jpg" group-title="Entertainment",NKTV BANGLA  (Pishow)
-https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c45f3659eebe8f0ffa9
-#EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10018.jpg" group-title="Entertainment",RENGONI  (Pishow)
-https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c46f3659eebe8f0ffbb
-#EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10019.jpg" group-title="Entertainment",SPONDON
-https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c46f3659eebe8f0ffbe
-#EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10006.png" group-title="Entertainment",Jonack  (Pishow)
-https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c45f3659eebe8f0ff9a
-#EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10009.jpg" group-title="Entertainment",ND 24  (Pishow)
-https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c45f3659eebe8f0ffa0
-#EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10013.jpg" group-title="Entertainment",NKTV PLUS  (Pishow)
-https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c45f3659eebe8f0ffac
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="Kids",Sony Yay
 https://falconftp.noobmaster.xyz/SONYYAY/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FE0w9oV0EKEdjMkoN1eNdo4cz4uD7hX7VA&s",,24/7 KIDS | Tom And Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6VW8yo69XZOzaRklyFyCyE18gnNsiMnLfFECQHop7g&s",Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png",,24/7 KIDS | DORAEMON
-https://tplay.live/playlist/kids/doraemon/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeLp4P6XZ1SDTn8quiW6P34E1kbIR5mpYUvawTyXyvUx6yaQbDy1dQAHY&s=10",Motu Patlu 
-https://tplay.live/playlist/kids/motu-patlu/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg",Oggy
-https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/Kz0h2LzX/ninja-hattori.jpg",Ninja Hattori
-https://tplay.live/playlist/kids/ninja-hattori/index.m3u8
-
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FE0w9oV0EKEdjMkoN1eNdo4cz4uD7hX7VA&s",,24/7 KIDS | Tom And Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png",,24/7 KIDS | DORAEMON
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeLp4P6XZ1SDTn8quiW6P34E1kbIR5mpYUvawTyXyvUx6yaQbDy1dQAHY&s=10",Motu Patlu 
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg",Oggy
-https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/Kz0h2LzX/ninja-hattori.jpg",Ninja Hattori
-https://live20.bozztv.com/giatvplayout7/giatv-210448/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
-https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlczne51AG7SlhLmYYjFntqA8Hpr9YQXZCtjqMcQqTqhb5kld9oGHubtl9&s=10",The simpsons",The simpsons 
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
-https://live20.bozztv.com/giatvplayout7/giatv-209644/index.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209634/index.m3u8
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play Cartoon
-https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png",SONY YAY Bengali
 http://103.180.212.191:3500/live/3424.m3u8
@@ -12618,7 +12545,6 @@ http://103.180.212.191:3500/live/1282.m3u8
 http://103.180.212.191:3500/live/1066.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png" group-title="KID'S",KHUSHBOO BANGLA
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="", PLANET FUN
@@ -12691,7 +12617,6 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Uncategorized",MAJID
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjGuvMTOQBUOeYLnu_fDtndrlI-3R2VoCSNePGe2p8KLhfeg66_huQNsg&s=10",Power Ranger
@@ -13385,22 +13310,7 @@ https://live.dinesh29.com.np/stream/jiotv/nickhindi/master.m3u8
 https://live.dinesh29.com.np/stream/jiotv/powerkidstv/master.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/YTfbaxj.png",Super Hungama tv  
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
-#EXTINF:-1 ,Disnwy Channel
-https://tiger-hub.vercel.app/kids_Zone/Disney-Channel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Osn
-https://tiger-hub.vercel.app/OSN/Kids/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,cartoon
-https://tiger-hub.vercel.app/kids_Zone/Cartoon-box/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Oddboods
-https://tiger-hub.vercel.app/kids_Zone/Oddboods/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Micky mouse
-https://tiger-hub.vercel.app/kids_Zone/Micky-mouse/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Tom&jerry
-https://tiger-hub.vercel.app/kids_Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Mighty Little bim
-https://tiger-hub.vercel.app/kids_Zone/Mighty-Little-Bim/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Larva
-https://tiger-hub.vercel.app/kids_Zone/Larva/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 ,Classic Cartoon
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/P5N3B2Y/1FFD206BC2ED/m.m3u8
 #EXTINF:-1 ,Wow Kids
@@ -15023,133 +14933,6 @@ http://87.255.35.150:18212
 #EXTINF:,Sony yay 
 http://87.255.35.150:18285
 
-:8080/@Melek/TOegq4PGJ4/674691
-#EXTINF:-1,KINDER 24/7 BAYMAX
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601478
-#EXTINF:-1,KINDER 24/7 BLUEY
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601477
-#EXTINF:-1,KINDER 24/7 BOBS BURGERS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601476
-#EXTINF:-1,KINDER 24/7 CARS on the ROAD
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601475
-#EXTINF:-1,KINDER 24/7 CHIP und CHAP DAS LEBEN IM PARK
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601474
-#EXTINF:-1,KINDER 24/7 CHIP und CHAP DIE RITTER DES RECHTS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601473
-#EXTINF:-1,KINDER 24/7 DARKWING DUCK DER SCHRECKEN DER BOSEWICHTE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601472
-#EXTINF:-1,KINDER 24/7 DAS HAUS DER 101 DALMATINER
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601471
-#EXTINF:-1,KINDER 24/7 DER GEIST und MOLLY MCGEE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601470
-#EXTINF:-1,KINDER 24/7 DIE BARBARIN und DER TROLL
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601469
-#EXTINF:-1,KINDER 24/7 DIE DANOS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601468
-#EXTINF:-1,KINDER 24/7 DIE GARDE DER LOWEN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601467
-#EXTINF:-1,KINDER 24/7 DIE GUMMIBARENBANDE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601466
-#EXTINF:-1,KINDER 24/7 DIE KLEINE MEERJUNGFRAU
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601465
-#EXTINF:-1,KINDER 24/7 DIE PROUDS LAUTTER und TRAUTER
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601464
-#EXTINF:-1,KINDER 24/7 DIE WUNDERBARE WELT VON MICKY MAUS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601463
-#EXTINF:-1,KINDER 24/7 DISNEY PRASENTIERT GOOFY IN ANLEINTUNG ZUM ZU HAUSE BLEIBEN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601462
-#EXTINF:-1,KINDER 24/7 DISNEY ALADDIN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601461
-#EXTINF:-1,KINDER 24/7 DISNEY GROBE PAUSE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601460
-#EXTINF:-1,KINDER 24/7 DISNEY HOUSE of MOUSE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601459
-#EXTINF:-1,KINDER 24/7 DOGS in SPACE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601458
-#EXTINF:-1,KINDER 24/7 DUCK TALES
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601457
-#EXTINF:-1,KINDER 24/7 DUCK TALES NEUS aus ENTENHAUSEN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601456
-#EXTINF:-1,KINDER 24/7 DUG TAGE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601455
-#EXTINF:-1,KINDER 24/7 ELENA von AVALOR
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601454
-#EXTINF:-1,KINDER 24/7 FAMILY GUY
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601453
-#EXTINF:-1,KINDER 24/7 FILLMORE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601452
-#EXTINF:-1,KINDER 24/7 GARGOYLES AUF den SCHWINGEN der GERECHTIGKEIT
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601451
-#EXTINF:-1,KINDER 24/7 GHOST FORCE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601450
-#EXTINF:-1,KINDER 24/7 GIGANTOSAURUS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601449
-#EXTINF:-1,KINDER 24/7 GOOFY und MAX
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601448
-#EXTINF:-1,KINDER 24/7 ICE AGE SCRATS ABENTEUER
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601447
-#EXTINF:-1,KINDER 24/7 KIM POSSIBLE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601446
-#EXTINF:-1,KINDER 24/7 KUKEN im EINSATZ
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601445
-#EXTINF:-1,KINDER 24/7 LEGO ELVES SECRETS of ELVENDALE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601444
-#EXTINF:-1,KINDER 24/7 MARVEL SUPERHELDEN ABENTEUER
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601443
-#EXTINF:-1,KINDER 24/7 MARVEL MOON GIRL and DEVIL DINOSAUR
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601442
-#EXTINF:-1,KINDER 24/7 MICKEY MAUS WUNDERHAUS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601441
-#EXTINF:-1,KINDER 24/7 MIGHTY EXPRESS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601440
-#EXTINF:-1,KINDER 24/7 MIRA DIE MEISTERDETEKTIVIN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601439
-#EXTINF:-1,KINDER 24/7 MONSTER BEI DER ARBEIT
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601438
-#EXTINF:-1,KINDER 24/7 OLAF PRASENTIER
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601437
-#EXTINF:-1,KINDER 24/7 PIXAR POPCORN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601436
-#EXTINF:-1,KINDER 24/7 SABER RIDER und die STAR SHERRIFFS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601435
-#EXTINF:-1,KINDER 24/7 STAR WARS THE BAD BATCH
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601434
-#EXTINF:-1,KINDER 24/7 THE ROCKETEER
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601433
-#EXTINF:-1,KINDER 24/7 TOM and JERRY IN NEW YORK
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601432
-#EXTINF:-1,KINDER 24/7 WAS IST WAS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601431
-#EXTINF:-1,KINDER 24/7 WILLKOMMEN im HAUS der EULEN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601430
-#EXTINF:-1,KINDER 24/7 WILLKOMMEN im GRAVITY FALLS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601429
-#EXTINF:-1,KIDS 24/7 KICKERS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/569375
-#EXTINF:-1,KIDS 24/7 WEIHNACHTSMANN UND Co.KG
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/569374
-#EXTINF:-1,KIDS 24/7 BOB DER BAUMEISTER
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598754
-#EXTINF:-1,KIDS 24/7 FEUERWEHRMANN SAM
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598753
-#EXTINF:-1,KIDS 24/7 DIE DINOS
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598747
-#EXTINF:-1,SERIE 24/7 PAW PATROL
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598746
-#EXTINF:-1,KIDS 24/7 BEYBLADE V-FORCE
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598745
-#EXTINF:-1,KIDS 24/7 BEYBLADE REVOLUTION
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598744
-#EXTINF:-1,KIDS 24/7 YU GI OH
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598743
-#EXTINF:-1,KIDS 24/7 PEPPA PIG
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598741
-#EXTINF:-1,SERIE 24/7 SPONGEBOB SCHWAMMKOPF
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/585657
-#EXTINF:-1,KINDER 24/7 MUPPET BABIES
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210900
-#EXTINF:-1,KINDER 24/7 DIE GARDE DER LOEWEN
-http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210897
 
 
 #EXTINF:-1,Duacovery kid
@@ -15199,149 +14982,6 @@ http://vocotv.live:80/yesterday/yesterday/91201
 #EXTINF:-1,24/7 Ben 10
 http://vocotv.live:80/yesterday/yesterday/102453
 
-
-#EXTINF:-1 tvg-id="NULL" tvg-name="* TURK COCUK *" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/turkcocuk.png" group-title="TURK COCUK",* TURK COCUK *
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/37333
-#EXTINF:-1 tvg-id="" tvg-name="TR:BABY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/babytv.png" group-title="TURK COCUK",TR:BABY TV HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89191
-#EXTINF:-1 tvg-id="" tvg-name="TR:CARTOON NETWORK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonnetwork.png" group-title="TURK COCUK",TR:CARTOON NETWORK HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89200
-#EXTINF:-1 tvg-id="" tvg-name="TR:CARTOONITO HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonito.png" group-title="TURK COCUK",TR:CARTOONITO HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114502
-#EXTINF:-1 tvg-id="" tvg-name="TR:COCUK SMART HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/smarttv.png" group-title="TURK COCUK",TR:COCUK SMART HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89196
-#EXTINF:-1 tvg-id="" tvg-name="TR:DA VINCI KIDS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/davincikids.png" group-title="TURK COCUK",TR:DA VINCI KIDS HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/90690
-#EXTINF:-1 tvg-id="" tvg-name="TR:DISNEY JUNIOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/disneyjunior.png" group-title="TURK COCUK",TR:DISNEY JUNIOR HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/90689
-#EXTINF:-1 tvg-id="" tvg-name="TR:GAMETOON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/2/gametoon.png" group-title="TURK COCUK",TR:GAMETOON HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114286
-#EXTINF:-1 tvg-id="" tvg-name="TR:MOOBUG KIDS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/moonbug-kids.png" group-title="TURK COCUK",TR:MOOBUG KIDS HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114796
-#EXTINF:-1 tvg-id="" tvg-name="TR:MINIKA COCUK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/minikacocuk.png" group-title="TURK COCUK",TR:MINIKA COCUK HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89195
-#EXTINF:-1 tvg-id="" tvg-name="TR:MINIKA GO HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/gominika.png" group-title="TURK COCUK",TR:MINIKA GO HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89194
-#EXTINF:-1 tvg-id="" tvg-name="TR:NICK JR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickjr.png" group-title="TURK COCUK",TR:NICK JR HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89192
-#EXTINF:-1 tvg-id="" tvg-name="TR:NICKELODEON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickelodeon.png" group-title="TURK COCUK",TR:NICKELODEON HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89193
-#EXTINF:-1 tvg-id="" tvg-name="TR:NICKTOONS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/nicktoons.png" group-title="TURK COCUK",TR:NICKTOONS HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/90692
-#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK DIYANET HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/trt-cocuk-diyanet.png" group-title="TURK COCUK",TR:TRT COCUK DIYANET HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114501
-#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/trtcocuk.png" group-title="TURK COCUK",TR:TRT COCUK HD
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89189
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - 64 KARE ULKESI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/64kareulkesi.png" group-title="TURK COCUK",TR:GLIFE - 64 KARE ULKESI Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112283
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ADISEBABA MASAL Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/adisebabamasal.png" group-title="TURK COCUK",TR:GLIFE - ADISEBABA MASAL Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112284
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ADVENTURE TIME Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/adventuretime.png" group-title="TURK COCUK",TR:GLIFE - ADVENTURE TIME Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114117
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ANGRY BIRDS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/angrybirds.png" group-title="TURK COCUK",TR:GLIFE - ANGRY BIRDS Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112285
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - AVATAR Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/avatar.png" group-title="TURK COCUK",TR:GLIFE - AVATAR Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112286
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - BEN10 Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/ben10.png" group-title="TURK COCUK",TR:GLIFE - BEN10 Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114104
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - BLUEY Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/bluey.png" group-title="TURK COCUK",TR:GLIFE - BLUEY Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112287
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - BOOBA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/booba.png" group-title="TURK COCUK",TR:GLIFE - BOOBA Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112459
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CAILLOU Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/caillou.png" group-title="TURK COCUK",TR:GLIFE - CAILLOU Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112288
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CANIM KARDESIM Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/canimkardesim.png" group-title="TURK COCUK",TR:GLIFE - CANIM KARDESIM Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112460
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CHICKY Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/chicky.png" group-title="TURK COCUK",TR:GLIFE - CHICKY Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114116
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CILGIN ORMAN Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/cilginorman.png" group-title="TURK COCUK",TR:GLIFE - CILGIN ORMAN Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114115
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - COCUK ILAHI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/cocukilahi.png" group-title="TURK COCUK",TR:GLIFE - COCUK ILAHI Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112463
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DORU Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/doru.png" group-title="TURK COCUK",TR:GLIFE - DORU Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112289
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - EGE ILE GAGA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/egeilegaga.png" group-title="TURK COCUK",TR:GLIFE - EGE ILE GAGA Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112290
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GABBYNIN HAYAL EVI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/hayalevi.png" group-title="TURK COCUK",TR:GLIFE - GABBYNIN HAYAL EVI Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112464
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GRIZZY Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/grizy.png" group-title="TURK COCUK",TR:GLIFE - GRIZZY Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112291
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GUMBALL Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/gumball.png" group-title="TURK COCUK",TR:GLIFE - GUMBALL Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114114
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - HEIDI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/heide.png" group-title="TURK COCUK",TR:GLIFE - HEIDI Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114108
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - JURASSIC WORLD Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/jurassicpark.png" group-title="TURK COCUK",TR:GLIFE - JURASSIC WORLD Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114107
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KRAL SAKIR Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kralsakir.png" group-title="TURK COCUK",TR:GLIFE - KRAL SAKIR Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112292
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUCUK BHEEM ILE BUYUK MACERALAR Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/kucuk.png" group-title="TURK COCUK",TR:GLIFE - KUCUK BHEEM ILE BUYUK MACERALAR Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114102
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUCUK KAMYON LEO Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kucukkamyonleo.png" group-title="TURK COCUK",TR:GLIFE - KUCUK KAMYON LEO Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112467
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUKULI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kukuli.png" group-title="TURK COCUK",TR:GLIFE - KUKULI Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112293
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUZU SHAUN Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kuzuha.png" group-title="TURK COCUK",TR:GLIFE - KUZU SHAUN Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114113
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - LIMON ILE ZEYTIN Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/limonilezeytin.png" group-title="TURK COCUK",TR:GLIFE - LIMON ILE ZEYTIN Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112294
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MASA ILE KOCA AYI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/masailekocaayi.png" group-title="TURK COCUK",TR:GLIFE - MASA ILE KOCA AYI Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112282
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MOLANG Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/molang.png" group-title="TURK COCUK",TR:GLIFE - MOLANG Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114121
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MUFETTIS GADGET Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/mufettisgasget.png" group-title="TURK COCUK",TR:GLIFE - MUFETTIS GADGET Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114112
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - NASREDDIN HOCA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/nasreddinhoca.png" group-title="TURK COCUK",TR:GLIFE - NASREDDIN HOCA Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112295
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - NILOYA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/niloya.png" group-title="TURK COCUK",TR:GLIFE - NILOYA Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112296
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - NINJAGO Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/ninjago.png" group-title="TURK COCUK",TR:GLIFE - NINJAGO Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112461
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - OSCAR COLLERDE Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/oscarcollarde.png" group-title="TURK COCUK",TR:GLIFE - OSCAR COLLERDE Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112462
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PATRON BEBEK Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/patronbebek.png" group-title="TURK COCUK",TR:GLIFE - PATRON BEBEK Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112297
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PAW PATROL Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pawpetrol.png" group-title="TURK COCUK",TR:GLIFE - PAW PATROL Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114106
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PEPE Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pepe.png" group-title="TURK COCUK",TR:GLIFE - PEPE Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112298
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PEPPA PIG Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/peppapig.png" group-title="TURK COCUK",TR:GLIFE - PEPPA PIG Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114105
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PIRIL Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/piril.png" group-title="TURK COCUK",TR:GLIFE - PIRIL Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114111
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PISI TV Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pisitv.png" group-title="TURK COCUK",TR:GLIFE - PISI TV Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114110
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PJ MASKS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pjmaks.png" group-title="TURK COCUK",TR:GLIFE - PJ MASKS Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112299
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - POKEMON Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pokemon.png" group-title="TURK COCUK",TR:GLIFE - POKEMON Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114109
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - POWER RANGERS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/powerrangers.png" group-title="TURK COCUK",TR:GLIFE - POWER RANGERS Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112466
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - RAFADAN TAYFA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/rafadantayfa.png" group-title="TURK COCUK",TR:GLIFE - RAFADAN TAYFA Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112300
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - REGULAR SHOW Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/regularshow.png" group-title="TURK COCUK",TR:GLIFE - REGULAR SHOW Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114119
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SEKER HOCA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sekerhoca.png" group-title="TURK COCUK",TR:GLIFE - SEKER HOCA Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114120
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SEVIMLI DOSTLAR Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sevimlidostlar.png" group-title="TURK COCUK",TR:GLIFE - SEVIMLI DOSTLAR Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112301
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIHIRLI OKUL OTOBUSU Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sihirliotobus.png" group-title="TURK COCUK",TR:GLIFE - SIHIRLI OKUL OTOBUSU Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114118
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIRINLER Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sirinler.png" group-title="TURK COCUK",TR:GLIFE - SIRINLER Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112302
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SONIC Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sonic.png" group-title="TURK COCUK",TR:GLIFE - SONIC Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112303
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TAVSAN MOMO Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/tavsanmomo.png" group-title="TURK COCUK",TR:GLIFE - TAVSAN MOMO Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112385
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TAYO Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/tayo.png" group-title="TURK COCUK",TR:GLIFE - TAYO Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112386
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TEEN TITANS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/teentitans.png" group-title="TURK COCUK",TR:GLIFE - TEEN TITANS Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/115912
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TRANSFORMERS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/transfermoers.png" group-title="TURK COCUK",TR:GLIFE - TRANSFORMERS Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112387
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - WAKFU Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/WAKFU.png" group-title="TURK COCUK",TR:GLIFE - WAKFU Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112465
-#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - YILDIZ KIZ Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/yildizkiz.png" group-title="TURK COCUK",TR:GLIFE - YILDIZ KIZ Êœá´…
-http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114103
 
 #EXTINF:-1 tvg-id="1445" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/img/kanali-logo/rtl-kockica-logo.png" group-title="Kids" ,RTL Kockica
 http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1445
@@ -21082,8 +20722,6 @@ https://allinonereborn.com/spice.m3u8?id=14065
 
 #EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnIZ4skR_p141ReCcm6pvf67msiJ6bgP_gJg&s",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
 http://tv.indigotv.me:80/live.ts?channelId=44162&uid=7245&deviceMac=00:1A:79:4A:02:91|Referer=https://colorsscreen.com//&key=BDStreamHub
