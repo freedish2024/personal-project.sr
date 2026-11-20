@@ -5641,6 +5641,20 @@ https://183.giatvcdn.com/giatvplayout7/giatv-212049/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212020/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1794968236",Tom And Jerry
 https://183.giatvcdn.com/giatvplayout7/giatv-212013/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wpr6B_G_BvhVbYvL4EfoAUc4MpxMPDqb8JWBGb5mgw&s=10",TOONCAST
+http://170.83.16.50:80/TOONCAST/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpe8LFPmV-tKphAz57AuyfTqEA8TVwbfqwC0UyyLPQA&s=10",LOS ED
+https://183.giatvcdn.com/giatvplayout7/giatv-212607/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvil7H1YidKeHMX-0ayax91p83wWTBAWLMJjyiF3eAYw&s=10",The ant and the aardvark
+https://183.giatvcdn.com/giatvplayout7/giatv-212616/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB15PcysTTrCMR2GTkFSWRfU78oNVPzAJFoI5RrBqKcg&s=10",Galloo
+https://183.giatvcdn.com/giatvplayout7/giatv-212613/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKUtpfty8Y4AsmzCJ_sfxeIPQZeeT7NbqQ4-w0oHqLw&s=10",patula
+https://183.giatvcdn.com/giatvplayout7/giatv-212609/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqpZ3H7Oil7sJMaKPLQmAbPZ9r11ZgSfczMJofZsQXg&s=10",Megamente
+https://183.giatvcdn.com/giatvplayout7/giatv-212590/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3r0unBQj0CoKkB_S8dZCbncGzlbVn3w_Qdbd-J0TiZA&s=10",Dragon super
+https://183.giatvcdn.com/giatvplayout7/giatv-212588/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5KXxv2SsmTowtuIrdwtViE8YbMmWbiH2zQLq5jvRig&s=10",3 CABALLEROS
 https://183.giatvcdn.com/giatvplayout7/giatv-212547/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwz1Us70s6mmiQ2G3Is9KN4TTocAZ2_BIbho8WCm1zXQ&s=10",Casa buho
@@ -6110,7 +6124,16 @@ http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/23.m3u8
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/56.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://198.195.239.50/img/channels/images__2_.png",Cartoon Network
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/57.m3u8
-
+#EXTINF:-1, 013-Tooncast
+http://181.78.61.202:8000/play/a036
+#EXTINF:-1, 014-Cartoonito
+http://181.78.61.202:8000/play/a01b
+#EXTINF:-1, 015-Discovery Kids
+http://181.78.61.202:8000/play/a01c
+#EXTINF:-1, 016-Nickelodeon
+http://181.78.61.202:8000/play/a01l
+#EXTINF:-1, 017-Cartoon Network
+http://181.78.61.202:8000/play/a019
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png?ref=skym3u.dev",Duronto TV
 http://103.158.133.53:8080/Durontotv_ibstvbd.com/tracks-v1a1/mono.m3u8
@@ -6213,7 +6236,7 @@ http://opplex.ch:8080/Hamza45/Substore123@/307079
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU 02
 http://opplex.ch:8080/Hamza45/Substore123@/311373
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SHIVA" tvg-logo="https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png" group-title="INDIAN | KIDS Cartoon",24/7 SHIVA
-htthttp://opplex.ch:8080/Hamza45/Substore123@/342074
+http://opplex.ch:8080/Hamza45/Substore123@/342074
 #EXTINF:-1 tvg-id="" tvg-name="24/7 CHUCHU TV " tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 CHUCHU TV 
 http://opplex.ch:8080/Hamza45/Substore123@/340807
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Baal Veer " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Baalveer_Returns_Title_Card.jpg/220px-Baalveer_Returns_Title_Card.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Baal Veer 
@@ -6275,59 +6298,35 @@ http://opplex.ch:8080/Hamza45/Substore123@/363000
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 1 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 1 FHD
 http://opplex.ch:8080/Hamza45/Substore123@/441983
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 2 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 2 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441984
+http://opplex.ch:8080/Hamza45/Substore123@/441984
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 3 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 3 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441985
+http://opplex.ch:8080/Hamza45/Substore123@/441985
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 4 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 4 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441986
+http://opplex.ch:8080/Hamza45/Substore123@/441986
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 5 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 5 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441987
+http://opplex.ch:8080/Hamza45/Substore123@/441987
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 6 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 6 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441988
+http://opplex.ch:8080/Hamza45/Substore123@/441988
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 7 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 7 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441989
+http://opplex.ch:8080/Hamza45/Substore123@/441989
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 8 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 8 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441990
+http://opplex.ch:8080/Hamza45/Substore123@/441990
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 9 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 9 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441991
+http://opplex.ch:8080/Hamza45/Substore123@/441991
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 10 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 10 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441992
+http://opplex.ch:8080/Hamza45/Substore123@/441992
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 11 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 11 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441993
+http://opplex.ch:8080/Hamza45/Substore123@/441993
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 12 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 12 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441994
+http://opplex.ch:8080/Hamza45/Substore123@/441994
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 13 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 13 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441995
+http://opplex.ch:8080/Hamza45/Substore123@/441995
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 14 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 14 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441996
+http://opplex.ch:8080/Hamza45/Substore123@/441996
 #EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 15 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 15 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441997
+http://opplex.ch:8080/Hamza45/Substore123@/441997
 #EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 02" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES ENG 02
 http://opplex.ch:8080/Hamza45/Substore123@/363001
-#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry Classic FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Tom And Jerry Classic FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389767
-#EXTINF:-1 tvg-id="" tvg-name="Tosh.0 FHD" tvg-logo="" group-title="CineMania TV Series",Tosh.0 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389768
-#EXTINF:-1 tvg-id="" tvg-name="Trailer Park Boys FHD" tvg-logo="" group-title="CineMania TV Series",Trailer Park Boys FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389769
-#EXTINF:-1 tvg-id="" tvg-name="Travel Man 48 Hour In FHD" tvg-logo="" group-title="CineMania TV Series",Travel Man 48 Hour In FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389770
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons FHD" tvg-logo="" group-title="CineMania TV Series",The Simpsons FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389753
-#EXTINF:-1 tvg-id="" tvg-name="Miami Vice FHD" tvg-logo="" group-title="CineMania TV Series",Miami Vice FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389688
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Clubhouse FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Mickey Mouse Clubhouse FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389689
-#EXTINF:-1 tvg-id="" tvg-name="Mighty Ducks FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Mighty Ducks FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389690
-#EXTINF:-1 tvg-id="" tvg-name="Mom FHD" tvg-logo="" group-title="CineMania TV Series",Mom FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389691
-#EXTINF:-1 tvg-id="" tvg-name="Mr Bean Animated FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Mr Bean Animated FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389692
-#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo and Scrappy Doo FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Scooby Doo and Scrappy Doo FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389714
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10 FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Ben 10 FHD
-http://opplex.ch:8080/Hamza45/Substore123@/389522
 
 #EXTINF:-1,HBO ANIMATION
 http://asmr4k.world:8080/hr7457755/h47544577/389158
@@ -8091,6 +8090,69 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Sun_Bangla_HD/hls_fta/Sun_Bangl
 https://bdix.ottking.top:8082/MNX-HD/index.m3u8?token=ottking_247_7
 #EXTINF:-1, sony max 1
 https://bdix.ottking.top:8082/Sony-Max-1/index.m3u8?token=ottking_247_7
+#EXTINF:-1, sonyAath
+https://bdix.ottking.top:8082/SONY_AAT/index.m3u8?token=ottking_247_7
+#EXTINF:-1, jalshaMovies
+https://bdix.ottking.top:8082/Jalsha_movies/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Colors Bangla
+https://bdix.ottking.top:8082/Colors-Bangla-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Sangeet Bangla
+https://bdix.ottking.top:8082/Sangeet-bangla/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Nagorik_TV
+https://bdix.ottking.top:8082/NAGORIK-TV/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Zee-Bangla-Cinema
+https://bdix.ottking.top:8082/Zee-Bangla-Cinema/video.m3u8?token=ottking_247_7
+#EXTINF:-1, COLORS-BANGLA-CINEMA
+https://bdix.ottking.top:8082/COLORS-BANGLA-CINEMA/video.m3u8?token=ottking_247_7
+#EXTINF:-1, sony_max_hd
+https://bdix.ottking.top:8082/sony_max_hd/video.m3u8?token=ottking_247_7
+#EXTINF:-1, STAR-GOLD-SELECT-HD
+https://bdix.ottking.top:8082/STAR-GOLD-SELECT-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Zee-Action
+https://bdix.ottking.top:8082/Zee-Action/video.m3u8?token=ottking_247_7
+#EXTINF:-1, SONY-SAB
+https://bdix.ottking.top:8082/SONY-SAB/video.m3u8?token=ottking_247_7
+#EXTINF:-1, STAR-PLUS-HD
+https://bdix.ottking.top:8082/STAR-PLUS-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, COLORS-HD
+https://bdix.ottking.top:8082/COLORS-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, COLORS-CINEPLEX-HD
+https://bdix.ottking.top:8082/COLORS-CINEPLEX-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, sonyentertainmnt_hd
+https://bdix.ottking.top:8082/sonyentertainmnt_hd/video.m3u8?token=ottking_247_7
+#EXTINF:-1, And-TV-hindi
+https://bdix.ottking.top:8082/And-TV-hindi/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Zee-Anmol
+https://bdix.ottking.top:8082/Zee-Anmol/video.m3u8?token=ottking_247_7
+#EXTINF:-1, ZEE-TV-HD
+https://bdix.ottking.top:8082/ZEE-TV-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Zee-Cafe
+https://bdix.ottking.top:8082/Zee-Cafe/video.m3u8?token=ottking_247_7
+#EXTINF:-1, MN-PLUS
+https://bdix.ottking.top:8082/MN-PLUS/video.m3u8?token=ottking_247_7
+#EXTINF:-1, SONY-MAX-2
+https://bdix.ottking.top:8082/SONY-MAX-2/video.m3u8?token=ottking_247_7
+#EXTINF:-1, SONY-BBC-EARTH-HD
+https://bdix.ottking.top:8082/SONY-BBC-EARTH-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, SONY-PIX-HD
+https://bdix.ottking.top:8082/SONY-PIX-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Star-Bharat
+https://bdix.ottking.top:8082/Star-Bharat/video.m3u8?token=ottking_247_7
+#EXTINF:-1, TLC
+https://bdix.ottking.top:8082/TLC/video.m3u8?token=ottking_247_7
+#EXTINF:-1, ANIMAL-PLANET-HD
+https://bdix.ottking.top:8082/ANIMAL-PLANET-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Discovery-Science
+https://bdix.ottking.top:8082/Discovery-Science/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Discovery-Turbo
+https://bdix.ottking.top:8082/Discovery-Turbo/video.m3u8?token=ottking_247_7
+#EXTINF:-1, NATGEO-HD
+https://bdix.ottking.top:8082/NATGEO-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, discovery-bangla
+https://bdix.ottking.top:8082/discovery-bangla/video.m3u8?token=ottking_247_7
+#EXTINF:-1, ANIMAL-PLANET-HD
+https://bdix.ottking.top:8082/ANIMAL-PLANET-HD/video.m3u8?token=ottking_247_7
+
 #EXTINF:-1, sonyAath
 http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1, jalshaMovies
@@ -10866,6 +10928,8 @@ https://ranacable.duckdns.org/Bprimebangla/index.m3u8
 https://ranacableiptv.work.gd/Trail2/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNe8OlKS40TMuhCALqSDvjNmHvspW8VDmpltAzcgFLg&s",Montel News
 https://ranacable.duckdns.org/montelnews/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyw7SOy9zLYmOluQEskx_YnSPoSq2U51orYDGT49Psp9_Dsms29L8CjGg&s=10",Max TV One
+https://ranacable.duckdns.org/Max-Tv/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/SGCN_Music_2024.png/revision/latest?cb=20250530033624",SGCN MUSIC
 https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/SGCN_Banglar_Jatra.png/revision/latest/scale-to-width-down/135?cb=20250530042834",SGCN BANGLA JATRA
@@ -13726,156 +13790,6 @@ http://johirxofficial.iam.bd/live/otv/363000.m3u8
 #EXTINF:-1 tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES ENG 02
 http://johirxofficial.iam.bd/live/otv/363001.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="***KIDS***" tvg-logo="" group-title="INDIAN | KIDS Cartoon",***KIDS***
-http://opplex.ch:8080/Adnan8439/Adnan0000/106148
-#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
-http://opplex.ch:8080/Adnan8439/Adnan0000/150478
-#EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="INDIAN | KIDS Cartoon",IN: Pogo
-http://opplex.ch:8080/Adnan8439/Adnan0000/150483
-#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network HD+
-http://opplex.ch:8080/Adnan8439/Adnan0000/153154
-#EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="INDIAN | KIDS Cartoon",IN | Sony yay
-http://opplex.ch:8080/Adnan8439/Adnan0000/26187
-#EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="INDIAN | KIDS Cartoon",IN: Hungama**
-http://opplex.ch:8080/Adnan8439/Adnan0000/150480
-#EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
-http://opplex.ch:8080/Adnan8439/Adnan0000/150482
-#EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="INDIAN | KIDS Cartoon",IND: Nick Junior
-http://opplex.ch:8080/Adnan8439/Adnan0000/153156
-#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="INDIAN | KIDS Cartoon",Discovery kids
-http://opplex.ch:8080/Adnan8439/Adnan0000/76723
-#EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Disney Junior
-http://opplex.ch:8080/Adnan8439/Adnan0000/153175
-#EXTINF:-1 tvg-id="" tvg-name="KIDS: Chutti Tv" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: Chutti Tv
-http://opplex.ch:8080/Adnan8439/Adnan0000/150479
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN | DISNEY HD
-http://opplex.ch:8080/Adnan8439/Adnan0000/167551
-#EXTINF:-1 tvg-id="" tvg-name="IN: NICK SONIC" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="INDIAN | KIDS Cartoon",IN: NICK SONIC
-http://opplex.ch:8080/Adnan8439/Adnan0000/34011
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="INDIAN | KIDS Cartoon",NICK HD+ [FHD]
-http://opplex.ch:8080/Adnan8439/Adnan0000/76722
-#EXTINF:-1 tvg-id="" tvg-name="PK | Kids Zone+ HD" tvg-logo="http://b1g.fun/logos2/kids_zone.jpg" group-title="INDIAN | KIDS Cartoon",PK | Kids Zone+ HD
-http://opplex.ch:8080/Adnan8439/Adnan0000/383066
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU 01
-http://opplex.ch:8080/Adnan8439/Adnan0000/307079
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU 02
-http://opplex.ch:8080/Adnan8439/Adnan0000/311373
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SHIVA" tvg-logo="https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png" group-title="INDIAN | KIDS Cartoon",24/7 SHIVA
-http://opplex.ch:8080/Adnan8439/Adnan0000/342074
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CHUCHU TV " tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 CHUCHU TV 
-http://opplex.ch:8080/Adnan8439/Adnan0000/340807
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Baal Veer " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Baalveer_Returns_Title_Card.jpg/220px-Baalveer_Returns_Title_Card.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Baal Veer 
-http://opplex.ch:8080/Adnan8439/Adnan0000/340809
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chacha Bhatija" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFlODk2ZmEtMWE5MC00Nzg5LWE3ODMtMzViYTRhNjdjMjgzXkEyXkFqcGdeQXVyNjEyNjM1MjY@._V1_.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Chacha Bhatija
-http://opplex.ch:8080/Adnan8439/Adnan0000/311774
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Wow Kids Action" tvg-logo="http://logo.opplextv.com/logo/WowKidsAction.png" group-title="INDIAN | KIDS Cartoon",24/7 Wow Kids Action
-http://opplex.ch:8080/Adnan8439/Adnan0000/314753
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Vir The Robot Boy" tvg-logo="http://logo.opplextv.com/logo/VirTheRobotBoy.png" group-title="INDIAN | KIDS Cartoon",24/7 Vir The Robot Boy
-http://opplex.ch:8080/Adnan8439/Adnan0000/314754
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | DORAEMON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | DORAEMON
-http://opplex.ch:8080/Adnan8439/Adnan0000/388459
-#EXTINF:-1 tvg-id="" tvg-name="KIDS: PINK PANTHER 24/7" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: PINK PANTHER 24/7
-http://opplex.ch:8080/Adnan8439/Adnan0000/301503
-#EXTINF:-1 tvg-id="" tvg-name="KIDS: CHU CHU TV 24/7" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: CHU CHU TV 24/7
-http://opplex.ch:8080/Adnan8439/Adnan0000/301502
-#EXTINF:-1 tvg-id="" tvg-name="KIDS: Sonic 24/7" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: Sonic 24/7
-http://opplex.ch:8080/Adnan8439/Adnan0000/301500
-#EXTINF:-1 tvg-id="" tvg-name="KIDS: MR BEAN (CARTOON) 24/7" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: MR BEAN (CARTOON) 24/7
-http://opplex.ch:8080/Adnan8439/Adnan0000/301501
-#EXTINF:-1 tvg-id="" tvg-name="KIDS: CoComelon TV 24/7" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: CoComelon TV 24/7
-http://opplex.ch:8080/Adnan8439/Adnan0000/301499
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: All Hail King Julien_ Exiled" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: All Hail King Julien_ Exiled
-http://opplex.ch:8080/Adnan8439/Adnan0000/301504
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Rick And Morty" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Rick And Morty
-http://opplex.ch:8080/Adnan8439/Adnan0000/301505
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Masha and the Bear" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Masha and the Bear
-http://opplex.ch:8080/Adnan8439/Adnan0000/301506
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Little Baby Bum" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Little Baby Bum
-http://opplex.ch:8080/Adnan8439/Adnan0000/301507
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: The Boss Baby_ Back in Business" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: The Boss Baby_ Back in Business
-http://opplex.ch:8080/Adnan8439/Adnan0000/301508
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Peppa Pig" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Peppa Pig
-http://opplex.ch:8080/Adnan8439/Adnan0000/301509
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Blippi" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Blippi
-http://opplex.ch:8080/Adnan8439/Adnan0000/301510
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Kids: Gabby_s Dollhouse" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Kids: Gabby_s Dollhouse
-http://opplex.ch:8080/Adnan8439/Adnan0000/301511
-#EXTINF:-1 tvg-id="" tvg-name="Oggy and the Cockroaches Hindi" tvg-logo="" group-title="INDIAN | KIDS Cartoon",Oggy and the Cockroaches Hindi
-http://opplex.ch:8080/Adnan8439/Adnan0000/308282
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chhota Bheem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Chhota Bheem
-http://opplex.ch:8080/Adnan8439/Adnan0000/315401
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INDIAN | KIDS Cartoon",24/7 Tom & Jerry
-http://opplex.ch:8080/Adnan8439/Adnan0000/329247
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo" tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png" group-title="INDIAN | KIDS Cartoon",24/7 Scooby-Doo
-http://opplex.ch:8080/Adnan8439/Adnan0000/329248
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Booba" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Booba
-http://opplex.ch:8080/Adnan8439/Adnan0000/340803
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS SONGS HINDI" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 KIDS SONGS HINDI
-http://opplex.ch:8080/Adnan8439/Adnan0000/340802
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus | Nursery Rhymes" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 BabyBus | Nursery Rhymes
-http://opplex.ch:8080/Adnan8439/Adnan0000/340804
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOV HINDI" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOV HINDI
-http://opplex.ch:8080/Adnan8439/Adnan0000/362998
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES
-http://opplex.ch:8080/Adnan8439/Adnan0000/362999
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 01" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES ENG 01
-http://opplex.ch:8080/Adnan8439/Adnan0000/363000
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 1 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 1 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441983
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 2 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 2 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441984
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 3 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 3 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441985
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 4 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 4 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441986
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 5 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 5 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441987
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 6 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 6 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441988
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 7 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 7 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441989
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 8 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 8 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441990
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 9 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 9 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441991
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 10 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 10 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441992
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 11 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 11 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441993
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 12 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 12 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441994
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 13 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 13 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441995
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 14 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 14 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441996
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | Vibe Urdu/Hindi Kids 15 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="INDIAN | KIDS Cartoon",KIDS | Vibe Urdu/Hindi Kids 15 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/441997
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 02" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES ENG 02
-http://opplex.ch:8080/Adnan8439/Adnan0000/363001
-#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry Classic FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Tom And Jerry Classic FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389767
-#EXTINF:-1 tvg-id="" tvg-name="Tosh.0 FHD" tvg-logo="" group-title="CineMania TV Series",Tosh.0 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389768
-#EXTINF:-1 tvg-id="" tvg-name="Trailer Park Boys FHD" tvg-logo="" group-title="CineMania TV Series",Trailer Park Boys FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389769
-#EXTINF:-1 tvg-id="" tvg-name="Travel Man 48 Hour In FHD" tvg-logo="" group-title="CineMania TV Series",Travel Man 48 Hour In FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389770
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons FHD" tvg-logo="" group-title="CineMania TV Series",The Simpsons FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389753
-#EXTINF:-1 tvg-id="" tvg-name="Miami Vice FHD" tvg-logo="" group-title="CineMania TV Series",Miami Vice FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389688
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Clubhouse FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Mickey Mouse Clubhouse FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389689
-#EXTINF:-1 tvg-id="" tvg-name="Mighty Ducks FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Mighty Ducks FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389690
-#EXTINF:-1 tvg-id="" tvg-name="Mom FHD" tvg-logo="" group-title="CineMania TV Series",Mom FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389691
-#EXTINF:-1 tvg-id="" tvg-name="Mr Bean Animated FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Mr Bean Animated FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389692
-#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo and Scrappy Doo FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Scooby Doo and Scrappy Doo FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389714
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10 FHD" tvg-logo="" group-title="Cinemania Kids TV Series",Ben 10 FHD
-http://opplex.ch:8080/Adnan8439/Adnan0000/389522
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: MANORANJAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="INDIAN | ENTERTAINMENT",IND: MANORANJAN TV
 http://opplex.ch:8080/Adnan8439/Adnan0000/104203
