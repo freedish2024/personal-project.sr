@@ -1,0 +1,254 @@
+#EXTM3U
+12/11/2028
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
+http://livebox.pro/live/362829000761/99559955/433.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
+http://livebox.pro/live/362829000761/99559955/3808.ts
+#EXTINF:-1 tvg-id="ts905" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png" group-title="Hindi;Kids",ETV Bal Bharat
+http://livebox.pro/live/362829000761/99559955/355286.ts
+#EXTINF:-1 group-title="Arab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png",Disney International HD
+http://livebox.pro/live/362829000761/99559955/20925.ts
+#EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney 
+http://livebox.pro/live/362829000761/99559955/19741.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s",Nick Bangla
+http://livebox.pro/live/362829000761/99559955/205.ts
+#EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
+http://livebox.pro/live/362829000761/99559955/7438.ts
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Pogo
+http://livebox.pro/live/362829000761/99559955/7220.ts
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Telugu;Malayalam;Kannada;Hindi;Tamil;Animation;Kids;Cartoons",Discovery Kids
+http://livebox.pro/live/362829000761/99559955/208.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS" group-title="",Cartoon Network HD
+http://livebox.pro/live/362829000761/99559955/8.m3u8
+#EXTINF:-1 tvg-id="ts587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="English;Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Super Hungama
+http://livebox.pro/live/362829000761/99559955/66162.ts
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8HES2tUB4reIXMjiMJk-z9EBknI5aazdcw&s",Hungama tv
+http://livebox.pro/live/362829000761/99559955/18456.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtDovzBn80q0LPKyV_vo9ISpHa5uNBDBmzA&s",Sonic Bangla
+http://livebox.pro/live/362829000761/99559955/207.ts
+#EXTINF:-1 tvg-id="ts965" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png" group-title="Hindi;Entertainment",Manoranjan Grand
+http://livebox.pro/live/362829000761/99559955/2433.ts
+#EXTINF: -1 tvg-name="Kids Zon" group-title="Indian Regional", Kids Zon
+http://livebox.pro/live/362829000761/99559955/4084.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7ZxGBaQF0GiQwTSGqaax2Q5v2MWnfLuyKeMLMR0hYpTiQL7F_YWN8xA&s=10",Sinchen
+http://livebox.pro/live/362829000761/99559955/147724.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxTzYJerGSc9D06JEt-xGbB8-f5Kwp1ITCq3il0JQjPRf3leqJ6rsEezsy&s=10",Perman
+http://livebox.pro/live/362829000761/99559955/147736.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9MjRlL2jrjnhfHApO0ixbL1omr7QOLcC9Zjpcengqx-Ht_ExVrVqY_S-&s=10",Doraemon
+http://livebox.pro/live/362829000761/99559955/147746.ts
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/FzHFbZ92/images-6-1.jpg",kung fu panda
+http://livebox.pro/live/362829000761/99559955/147738.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVRx2KOXImi3auWLotXKDNfTHmI74xSEnErICy1DisSyYqTsfFQXgviBh&s=10",Mr Been
+http://livebox.pro/live/362829000761/99559955/147777.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86cdj_zcE45Wa8B8JcHma6T7IPCC1dQE0ew&s",BEN 10 ULTIMATE ALIEN
+http://livebox.pro/live/362829000761/99559955/147743.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdnsGbhgegFUg44_b1dXR86k0_hU68okWXg&s",BEN 10 OMNIVERSE
+http://livebox.pro/live/362829000761/99559955/147749.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e7eMs9ij-8hE3pUJii8iVQFoRO6XdkjZxA&s",BEN TEN CLASSIC
+http://livebox.pro/live/362829000761/99559955/147750.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYdkmKmndjX8M3Iz-spuapBA2aifgu_6cQBSBtNrKvewbr7encDJVMQn3&s=10",BEN 10 ALIEN FORCE HD
+http://livebox.pro/live/362829000761/99559955/147751.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+http://livebox.pro/live/362829000761/99559955/319402.ts
+#EXTINF:-1,Kids: Toyor Aljana
+http://livebox.pro/live/362829000761/99559955/319403.ts
+#EXTINF:-1,Kids:  SpaceToon TV
+http://livebox.pro/live/362829000761/99559955/319404.ts
+#EXTINF:-1,Kids: Rotana Kids HD
+http://livebox.pro/live/362829000761/99559955/319405.ts
+#EXTINF:-1,Kids:  Karamesh
+http://livebox.pro/live/362829000761/99559955/319406.ts
+#EXTINF:-1,Kids:  OSN Kids Zone HD
+http://livebox.pro/live/362829000761/99559955/319407.ts
+#EXTINF:-1,Kids | Ar: NickToons HD
+http://livebox.pro/live/362829000761/99559955/319408.ts
+#EXTINF:-1,Kids: OSN Nickelodeon HD
+http://livebox.pro/live/362829000761/99559955/319409.ts
+#EXTINF:-1,Kids: Baby TV
+http://livebox.pro/live/362829000761/99559955/319410.ts
+#EXTINF:-1,Kids:  HodHod  TV
+http://livebox.pro/live/362829000761/99559955/319411.ts
+#EXTINF:-1,Kids:  Taha TV
+http://livebox.pro/live/362829000761/99559955/319412.ts
+#EXTINF:-1,Kids: Majid Kids TV
+http://livebox.pro/live/362829000761/99559955/319413.ts
+#EXTINF:-1,Kids | Ar: Shehab TV
+http://livebox.pro/live/362829000761/99559955/319414.ts
+#EXTINF:-1,Kids:  Atfal & Mawaheb
+http://livebox.pro/live/362829000761/99559955/319415.ts
+#EXTINF:-1,Kids | En: NickToons HD
+http://livebox.pro/live/362829000761/99559955/319416.ts
+
+
+#EXTINF:-1, IN: Pogo_Hindi
+http://livebox.pro/live/362829000761/99559955/1918.ts
+#EXTINF:-1,IN: POGO (ENGLISH)
+http://livebox.pro/live/362829000761/99559955/7220.ts
+#EXTINF:-1,IN: Disney Channel (4K)
+http://livebox.pro/live/362829000761/99559955/19741.ts
+#EXTINF:-1,Kids: Hungama
+http://livebox.pro/live/362829000761/99559955/18456.ts
+#EXTINF:-1,KIDS: SUPER HUNGAMA
+http://livebox.pro/live/362829000761/99559955/66162.ts
+#EXTINF:-1,IN:  Nick_Hindi
+http://livebox.pro/live/362829000761/99559955/205.ts
+#EXTINF:-1,IN: Nick+ FHD
+http://livebox.pro/live/362829000761/99559955/7438.ts
+#EXTINF:-1,IN: NICK (4K).
+http://livebox.pro/live/362829000761/99559955/98880.ts
+#EXTINF:-1,IN: Nick_Junior
+http://livebox.pro/live/362829000761/99559955/206.ts
+#EXTINF:-1,IN: sonic_Hindi
+http://livebox.pro/live/362829000761/99559955/207.ts
+#EXTINF:-1,IN: Discovery_Kids_1
+http://livebox.pro/live/362829000761/99559955/208.ts
+#EXTINF:-1,IN : CARTOON NETWORK HD
+http://livebox.pro/live/362829000761/99559955/8.ts
+#EXTINF:-1,KIDS-SPIDER MAN 2008
+http://livebox.pro/live/362829000761/99559955/147720.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1981
+http://livebox.pro/live/362829000761/99559955/147721.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1967
+http://livebox.pro/live/362829000761/99559955/147722.ts
+#EXTINF:-1,KIDS-SLUGTERRA
+http://livebox.pro/live/362829000761/99559955/147723.ts
+#EXTINF:-1,KIDS-Shinsen
+http://livebox.pro/live/362829000761/99559955/147724.ts
+#EXTINF:-1,KIDS-SHAPE RHYMES
+http://livebox.pro/live/362829000761/99559955/147725.ts
+#EXTINF:-1,KIDS-SAMURAI JACK
+http://livebox.pro/live/362829000761/99559955/147726.ts
+#EXTINF:-1,KIDS-POPEYE THE SAILOR MAN
+http://livebox.pro/live/362829000761/99559955/147727.ts
+#EXTINF:-1,KIDS-PJ MASK
+http://livebox.pro/live/362829000761/99559955/147728.ts
+#EXTINF:-1,KIDS-PEPPA PIG 2
+http://livebox.pro/live/362829000761/99559955/147729.ts
+#EXTINF:-1,KIDS-PEPPA PIG
+http://livebox.pro/live/362829000761/99559955/147730.ts
+#EXTINF:-1,KIDS-Finger
+http://livebox.pro/live/362829000761/99559955/147731.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 4
+http://livebox.pro/live/362829000761/99559955/147732.ts
+#EXTINF:-1,KIDS-PAW PETROL TOY STORY
+http://livebox.pro/live/362829000761/99559955/147733.ts
+#EXTINF:-1,KIDS-PAW PETROL TOY STORY
+http://livebox.pro/live/362829000761/99559955/147734.ts
+#EXTINF:-1,KIDS-PAW PETROL
+http://livebox.pro/live/362829000761/99559955/147735.ts
+#EXTINF:-1,KIDS-PERMAN
+http://livebox.pro/live/362829000761/99559955/147736.ts
+#EXTINF:-1,KIDS-KUNG FU PANDA
+http://livebox.pro/live/362829000761/99559955/147738.ts
+#EXTINF:-1,KIDS-GENERTOX REX
+http://livebox.pro/live/362829000761/99559955/147740.ts
+#EXTINF:-1,KIDS-FRUITS VEGETABLE RHYMES
+http://livebox.pro/live/362829000761/99559955/147741.ts
+#EXTINF:-1,KIDS-FIVE LITTLE RHYMES
+http://livebox.pro/live/362829000761/99559955/147742.ts
+#EXTINF:-1,KIDS-BEN 10 ULTIMATE ALIEN
+http://livebox.pro/live/362829000761/99559955/147743.ts
+#EXTINF:-1,KIDS-DUCK TALES HD
+http://livebox.pro/live/362829000761/99559955/147744.ts
+#EXTINF:-1,KIDS-DUCK TALES CLASSIC
+http://livebox.pro/live/362829000761/99559955/147745.ts
+#EXTINF:-1,KIDS-DORAEMON
+http://livebox.pro/live/362829000761/99559955/147746.ts
+#EXTINF:-1,KIDS-COLOUR RHYMES HD
+http://livebox.pro/live/362829000761/99559955/147747.ts
+#EXTINF:-1,KIDS-CHRISTMAS RHYMES
+http://livebox.pro/live/362829000761/99559955/147748.ts
+#EXTINF:-1,KIDS-BEN 10 OMNIVERSE
+http://livebox.pro/live/362829000761/99559955/147749.ts
+#EXTINF:-1,KIDS-BEN TEN CLASSIC
+http://livebox.pro/live/362829000761/99559955/147750.ts
+#EXTINF:-1,KIDS-BEN 10 ALIEN FORCE HD
+http://livebox.pro/live/362829000761/99559955/147751.ts
+#EXTINF:-1,KIDS-ART-FUN
+http://livebox.pro/live/362829000761/99559955/147752.ts
+#EXTINF:-1,KIDS-AVATAR THE LAST AIRBENDER HD
+http://livebox.pro/live/362829000761/99559955/147753.ts
+#EXTINF:-1,KIDS-ANIMAL RHMYES
+http://livebox.pro/live/362829000761/99559955/147754.ts
+#EXTINF:-1,KIDS-ANGERY BIRDS TOONS HD
+http://livebox.pro/live/362829000761/99559955/147755.ts
+#EXTINF:-1,KIDS-ABCD RHYMES HD 2
+http://livebox.pro/live/362829000761/99559955/147756.ts
+#EXTINF:-1,KIDS-ABBY HATCHER
+http://livebox.pro/live/362829000761/99559955/147757.ts
+#EXTINF:-1,KIDS-NURSER RHYMES HD 4
+http://livebox.pro/live/362829000761/99559955/147758.ts
+#EXTINF:-1,KIDS-STORY
+http://livebox.pro/live/362829000761/99559955/147759.ts
+#EXTINF:-1,KIDS-BABY TOOT
+http://livebox.pro/live/362829000761/99559955/147760.ts
+#EXTINF:-1,KIDS-BIRTHDAY SONGS
+http://livebox.pro/live/362829000761/99559955/147761.ts
+#EXTINF:-1,KIDS-HICKORY DICKORY DOCK
+http://livebox.pro/live/362829000761/99559955/147762.ts
+#EXTINF:-1,KIDS-BOOM BUDDIES RHYMES HD
+http://livebox.pro/live/362829000761/99559955/147763.ts
+#EXTINF:-1,KIDS-BABAY BAO PANDA HD
+http://livebox.pro/live/362829000761/99559955/147769.ts
+#EXTINF:-1,KIDS-BABAY RHYMES HD
+http://livebox.pro/live/362829000761/99559955/147770.ts
+#EXTINF:-1,KIDS-ANIMAL RHYMES HD
+http://livebox.pro/live/362829000761/99559955/147771.ts
+#EXTINF:-1,KIDS-A B C D RHYMES HD
+http://livebox.pro/live/362829000761/99559955/147772.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 3
+http://livebox.pro/live/362829000761/99559955/147773.ts
+#EXTINF:-1,KIDS-NUMBER RHMYES HD
+http://livebox.pro/live/362829000761/99559955/147774.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 2
+http://livebox.pro/live/362829000761/99559955/147776.ts
+#EXTINF:-1,KIDS-MR BEAN HD
+http://livebox.pro/live/362829000761/99559955/147777.ts
+#EXTINF:-1,KIDS-RHYMES HD
+http://livebox.pro/live/362829000761/99559955/147778.ts
+#EXTINF:-1,KIDS-MASH AND BEAR HD
+http://livebox.pro/live/362829000761/99559955/147779.ts
+#EXTINF:-1,KIDS-CHU CHU TV HD
+http://livebox.pro/live/362829000761/99559955/147780.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+http://livebox.pro/live/362829000761/99559955/319402.ts
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 1 HD
+http://livebox.pro/live/362829000761/99559955/136494.ts
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 2 HD
+http://livebox.pro/live/362829000761/99559955/136495.ts
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 3 HD
+http://livebox.pro/live/362829000761/99559955/136496.ts
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 4 HD
+http://livebox.pro/live/362829000761/99559955/136497.ts
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 5 HD
+http://livebox.pro/live/362829000761/99559955/136498.ts
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 6 HD
+http://livebox.pro/live/362829000761/99559955/136500.ts
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 7 HD
+http://livebox.pro/live/362829000761/99559955/136501.ts
+
+
+
+
+#EXTINF:-1,TOONCAST
+http://170.83.16.50:80/TOONCAST/index.m3u8
+#EXTINF:-1,LOS ED
+https://183.giatvcdn.com/giatvplayout7/giatv-212607/playlist.m3u8
+
+https://183.giatvcdn.com/giatvplayout7/giatv-212590/playlist.m3u8
+
+https://183.giatvcdn.com/giatvplayout7/giatv-212593/playlist.m3u8
+
+https://183.giatvcdn.com/giatvplayout7/giatv-212588/playlist.m3u8
+
+https://183.giatvcdn.com/giatvplayout7/giatv-212587/playlist.m3u8
+
+https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+https://global.iptv-stock.workers.dev/live/channel1.m3u8
+https://global.iptv-stock.workers.dev/live-stream/pogo.m3u8
+
+
+
+
+
