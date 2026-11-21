@@ -5240,6 +5240,8 @@ https://183.giatvcdn.com/giatv/giatv-halabja88garyan/halabja88garyan/playlist.m3
 https://playout.vidiyo.com/api/v1/streams/1fdda660938e2b03fd27efedc403651730ec0078eabd46709af9ef7d8e3a2f57/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://ssh101.com/img/7877.jpg",Amjad
 https://183.giatvcdn.com/akamaissh101/ssh101/livess/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.giniko.com/logos/190x110/1375.png",Huda Tv
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/3bug9dU.png",Iqraa TV  
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
@@ -5784,6 +5786,8 @@ https://183.giatvcdn.com/giatvplayout7/giatv-212411/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2c9l3ZNKvUhoDLsvd-yQ_1zQEc4TtmKHLarRudZhEgA&s=10",Hindi Movies Ultra
 https://183.giatvcdn.com/giatvplayout7/giatv-212382/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.giniko.com/logos/190x110/1525.jpg",Village cooking Channel
+https://rpn3.tulixcdn.com/dvrfl07/ushba-t10/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMTo0MDo0NiBBTSZoYXNoX3ZhbHVlPSs3alR1QU9yalVBVkMxOVRQdTlIcHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0NSZzdHJtX2xlbj0yOQ==
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPe3O_jeickw6Z79dMPCIgK7YzZOY83rwkVeNEDQvaw&s=10",Mr Beast
 https://183.giatvcdn.com/giatvplayout7/giatv-212328/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5545qG3utP_G1Jg_D2IW0hZjxDVPXmMAigHxX-3qc4Q&s=10",Kapil sarma sho 
@@ -6147,6 +6151,14 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 https://stream8.cinerama.uz/1407/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://vits.tv/uploads/tvstation/russia/logo/tamyr-240x240.png",Tamyr
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://berezka.live/logo/multimaniya.png",Multimaniya
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://berezka.live/logo/100/karusel.png",Karusel
+https://streaming.skynetconnect.co.za/live/232.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gia.tv/channels/logo/6fb8562e82e1119c51cfe82e34671f6f.png",Trt4cocuk
+https://tgn.tulixcdn.com/gin-dvrfl05/gin-trt4cocuk/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMTozNzo1NSBBTSZoYXNoX3ZhbHVlPWM5QUZtNkwvYlk2MEdxWGlSMk5mTWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0NSZzdHJtX2xlbj0yNQ==
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://berezka.live/logo/multimaniya.png",Multimaniya
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png",T Sports
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/10.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://198.195.239.50/img/channels/DURANTA%20TV.png",Duranta Tv
@@ -6171,6 +6183,11 @@ http://181.78.61.202:8000/play/a01c
 http://181.78.61.202:8000/play/a01l
 #EXTINF:-1, 017-Cartoon Network
 http://181.78.61.202:8000/play/a019
+
+#EXTINF:-1,Hungama
+https://s3.itcnbd.live/server-9/stream/aHVuZ2FtYS1oZA.m3u8
+#EXTINF:-1,Sony Yay
+https://iptv.dth-oparator.workers.dev/hls/sony_yay_d8vp2xm7qc1nw5z.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png?ref=skym3u.dev",Duronto TV
 http://103.158.133.53:8080/Durontotv_ibstvbd.com/tracks-v1a1/mono.m3u8
@@ -8201,6 +8218,24 @@ https://bdix.ottking.top:8082/STAR-SPORTS-SELECT-2-HD/video.m3u8?token=ottking_2
 https://bdix.ottking.top:8082/SONY-SPORTS-3/video.m3u8?token=ottking_247_7
 #EXTINF:-1, sony_sports_1_hd
 https://bdix.ottking.top:8082/sony_sports_1_hd/video.m3u8?token=ottking_247_7
+#EXTINF:-1, STAR-GOLD-2-HD
+https://bdix.ottking.top:8082/STAR-GOLD-2-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, STAR-GOLD-HD
+https://bdix.ottking.top:8082/STAR-GOLD-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, MTV
+https://bdix.ottking.top:8082/MTV/video.m3u8?token=ottking_247_7
+#EXTINF:-1, ZING
+https://bdix.ottking.top:8082/ZING/video.m3u8?token=ottking_247_7
+#EXTINF:-1, STAR-MOVIES-HD
+https://bdix.ottking.top:8082/STAR-MOVIES-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, STAR-MOVIES-SELECT-HD
+https://bdix.ottking.top:8082/STAR-MOVIES-SELECT-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, MOVIES-NOW-HD
+https://bdix.ottking.top:8082/MOVIES-NOW-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, ROMEDY-NOW
+https://bdix.ottking.top:8082/ROMEDY-NOW/video.m3u8?token=ottking_247_7
+#EXTINF:-1, LOVE-NATURE
+https://bdix.ottking.top:8082/LOVE-NATURE/video.m3u8?token=ottking_247_7
 
 #EXTINF:-1, sonyAath
 http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
@@ -10785,6 +10820,10 @@ https://tvsen7.aynaott.com/AssamTalks/tracks-v1/mono.ts.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
 #EXTINF:0, jonakk
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://24hrstvchannel.com/wp-content/uploads/2024/08/24hrs-tv-logo1.png",24hrstv
+https://stream4you.store/24hrstv/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://24hrstvchannel.com/wp-content/uploads/2024/08/24hrs-tv-logo1.png",24hrstv
+rtmp://103.186.224.22:1935/static/24hrstv
 #EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD",Movies Now HD (576p)
