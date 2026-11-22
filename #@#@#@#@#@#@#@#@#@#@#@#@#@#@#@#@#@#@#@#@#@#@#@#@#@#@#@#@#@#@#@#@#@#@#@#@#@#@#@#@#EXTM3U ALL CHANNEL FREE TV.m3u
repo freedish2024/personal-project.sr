@@ -5702,6 +5702,10 @@ https://183.giatvcdn.com/giatvplayout7/giatv-212666/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212646/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.pinimg.com/736x/6d/b8/19/6db819235cea37ad8512b20925f7a0e3.jpg",silvestre
 https://183.giatvcdn.com/giatvplayout7/giatv-212649/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLta4Dkm3mCglyb4FqjARbcwQifp6-yWvZxjY57Rq6G6XtG-enHhIHFyY&s=10",MONSTRUOS
+https://183.giatvcdn.com/giatvplayout7/giatv-212674/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAAQ0Dpae5POPkLFeZXmAUil5pfRfLEyzWqnVQmtW9w&s=10",LIGA JUSTICIA
+https://183.giatvcdn.com/giatvplayout7/giatv-212673/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Porky_Pig_Show.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",show porky
 https://183.giatvcdn.com/giatvplayout7/giatv-212647/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn4nXF9prKdeGROZ8M6maQLN-8pKfizD9pk9yWxNzk-Q&s=10",show picapiedra
@@ -5789,7 +5793,9 @@ https://183.giatvcdn.com/giatvplayout7/giatv-210419/tracks-v1a1/mono.ts.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212306/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/HnyQPzkF/wind-of-change.jpg",Bangla Music song
 https://183.giatvcdn.com/giatvplayout7/giatv-212399/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/HnyQPzkF/wind-of-change.jpg",Bangla Music Ols Song
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/1b/Angel_Digital_logo_2016.png/revision/latest?cb=20210911103200",Angel Digital
+https://183.giatvcdn.com/giatvplayout7/giatv-212372/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/1b/Angel_Digital_logo_2016.png/revision/latest/scale-to-width-down/210?cb=20210911103200",Angel Digital Bangla Music Ols Song
 https://183.giatvcdn.com/giatvplayout7/giatv-212422/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetdoMXBeHXZDNV4FsmO1J3MPOYuetyb4jCNGw_KSkXQ&s=10",Svf Music 
 https://183.giatvcdn.com/giatvplayout7/giatv-212398/playlist.m3u8
@@ -5804,7 +5810,7 @@ https://playout.vidiyo.com/api/v1/streams/1a6f628a2b1df0034523f3fd22fd02c33f0b94
 https://playout.vidiyo.com/api/v1/streams/2f2564d81116d8fdce4bf6c925574af6338735dc544829b24fdb53732376dfd7/master.m3u8
 #EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg",Humayun Ahmed 
 https://183.giatvcdn.com/giatvplayout7/giatv-210444/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6d7sdOr_I2vWoQqX1ozxa4ekLrOsHkyBYh780dGNqg&s=10",Times Music
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6d7sdOr_I2vWoQqX1ozxa4ekLrOsHkyBYh780dGNqg&s=10",Times Music Assam
 https://183.giatvcdn.com/giatvplayout7/giatv-212411/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2c9l3ZNKvUhoDLsvd-yQ_1zQEc4TtmKHLarRudZhEgA&s=10",Hindi Movies Ultra
