@@ -5716,6 +5716,8 @@ https://183.giatvcdn.com/giatvplayout7/giatv-212643/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212650/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzyKH3xs2ZHlzQBVbl4r32MAzb0sGz0pFnzIQGFyAEQ&s=10",SPIDEY
 https://183.giatvcdn.com/giatvplayout7/giatv-212655/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn9j83N5ctfI16jVuNRlwXbw9HhrGQHS5h8q-o8VNLMg&s=10",La_fiesta_de_las_salchichas_Comidatop
+https://183.giatvcdn.com/giatvplayout7/giatv-212677/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKuZrqODDKYPYkSl7d1VVoSgkhfvp9HVP3a1axt-sSQ&s=10",GARFIELD
 https://183.giatvcdn.com/giatvplayout7/giatv-212656/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGB3blBTM2k58SJ3dZBdkBaTgTgsid4qEAbLo1v7pkg&s=10",Ver gravity falls
@@ -8065,6 +8067,24 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/visionhd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,VISION HD BDIX
 http://103.158.133.53:8080/VisionHDTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies-24-hd-my.png",Movies 24 Hd
+http://103.168.8.174:9999/stream/channelid/778334915?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-bangla-tv.png",Bangla Gaan
+http://103.168.8.174:9999/stream/channelid/115081365?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/ff/falguni-tv-bd.png",Falguni-Tv
+http://103.168.8.174:9999/stream/channelid/291949288?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tXwvGBs2upsgt05eHMRwYtcUAWo2hKYZUDzuvtEdEw&s=10",Mix Bangla
+http://103.168.8.174:9999/stream/channelid/497311457?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbsV65BeE5CEs_z7yXfpGcHr3KKYgvS9Xkx-g0edW2w&s=10",S Bangla Cinema
+http://103.168.8.174:9999/stream/channelid/637383558?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tXwvGBs2upsgt05eHMRwYtcUAWo2hKYZUDzuvtEdEw&s=10",Zee Plus Cinema
+http://103.168.8.174:9999/stream/channelid/769734218?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png",Tara Bangla Cinema
+http://103.168.8.174:9999/stream/channelid/796504466?profile=pass
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizJBH0GIxezlsS5erm4tfZw01p6zo33jw7FVJXa4AXw&s=10",Star Bangla
+http://103.168.8.174:9999/stream/channelid/349686087?profile=pass
+
+
 #EXTINF:-1,Channel 1
 http://103.72.65.226:8080/Channel1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star News
