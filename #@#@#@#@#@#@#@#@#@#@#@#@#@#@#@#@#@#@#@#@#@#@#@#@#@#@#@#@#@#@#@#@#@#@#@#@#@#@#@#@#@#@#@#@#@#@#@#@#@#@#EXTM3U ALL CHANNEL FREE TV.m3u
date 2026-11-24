@@ -5658,6 +5658,8 @@ https://183.giatvcdn.com/giatvplayout7/giatv-212686/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212687/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7C-XThoEVXN172eFFkx0A2Sa1xfZ6SKWYKVs3IP37xg&s=10",Bos esponja
 https://183.giatvcdn.com/giatvplayout7/giatv-212566/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHi1k6g6WRbxXGPMspplNwn0jgUlm68nNfRLmD5Pq4tA&s=10",HOUSE MOUSE
+https://183.giatvcdn.com/giatvplayout7/giatv-212709/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScw9-BPoolplgP74mOFT2qy83jxK5iKQ-xr7er76yQKg&s=10",DISNEY
 https://183.giatvcdn.com/giatvplayout7/giatv-212532/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjs2eH6CYT869Yd85bQupLqm0w8P6Fb8K2T5faQufWxQ&s=10",DORA
@@ -5700,6 +5702,15 @@ https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-212616/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-fJ6gOPA3uaWyl-9THR3IXTUVNv9L0KpNOgUmN3rsw&s=10",Woody Woodpecker
 https://183.giatvcdn.com/giatvplayout7/giatv-212124/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndXanYsJrgaWoBpEqblylgSPepDEniOnHxbse9FePGw&s=10",Ver He Man y los Amos
+https://183.giatvcdn.com/giatvplayout7/giatv-212704/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6Z1QH_Z2jVgTqgrhBkvIZaqWkJnXPFU_ZpXKLguVwg&s=10",10 Asaltado Campamento
+https://183.giatvcdn.com/giatvplayout7/giatv-212708/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREecIlOcFC5vPWq_IRQ0fNhLpY0YMn4ByB96LqhcM85g&s=10",Peque as historias de Bluey 
+https://183.giatvcdn.com/giatvplayout7/giatv-212718/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsrmJgLxrAY-nbzpqc7mkh-iFmToyNsGSIEjAy5hV4A&s=10",De campamento con Snoopy 
+https://183.giatvcdn.com/giatvplayout7/giatv-212721/playlist.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB15PcysTTrCMR2GTkFSWRfU78oNVPzAJFoI5RrBqKcg&s=10",Galloo
 https://183.giatvcdn.com/giatvplayout7/giatv-212613/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKUtpfty8Y4AsmzCJ_sfxeIPQZeeT7NbqQ4-w0oHqLw&s=10",patula
@@ -8187,6 +8198,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 http://103.135.253.32:8080/Gazi-TV/index.m3u8
 #EXTINF:-1, Star News
 http://103.135.253.32:8080/Star-News/index.m3u8
+#EXTINF:-1, Islamic tv
+https://bdix.ottking.top:8082/Islamic-TV/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Madani Tv
+https://bdix.ottking.top:8082/MADANI-TV/video.m3u8?token=ottking_247_7
 #EXTINF:-1, Star News
 https://bdix.ottking.top:8082/Star-News/index.m3u8?token=ottking_247_7
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WwOEQBojotoLpvMF2JhV1MWm9SwWDAj-9DM3mwfkhw&s",LTv
@@ -8309,6 +8324,17 @@ https://bdix.ottking.top:8082/MOVIES-NOW-HD/video.m3u8?token=ottking_247_7
 https://bdix.ottking.top:8082/ROMEDY-NOW/video.m3u8?token=ottking_247_7
 #EXTINF:-1, LOVE-NATURE
 https://bdix.ottking.top:8082/LOVE-NATURE/video.m3u8?token=ottking_247_7
+#EXTINF:-1, NATGEO WILD HD
+https://bdix.ottking.top:8082/NATGEO-WILD-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, HISTORY TV
+https://bdix.ottking.top:8082/HISTORY-TV-18-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, Music India
+https://bdix.ottking.top:8082/Music-India/video.m3u8?token=ottking_247_7
+#EXTINF:-1, AXN HD
+https://bdix.ottking.top:8082/AXN-HD/video.m3u8?token=ottking_247_7
+#EXTINF:-1, 9XM MUSIC
+https://bdix.ottking.top:8082/9XM-MUSIC/video.m3u8?token=ottking_247_7
+
 
 #EXTINF:-1, sonyAath
 http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
